@@ -1,0 +1,136 @@
+{
+  "method": "Exact OTMM green terrain masks, geodesic assignment from the user reference regions, pixel-boundary SVG rings",
+  "bounds": [
+    690,
+    900,
+    950,
+    1225
+  ],
+  "gate": [
+    [
+      697,
+      918
+    ],
+    [
+      839,
+      918
+    ],
+    [
+      849,
+      911
+    ],
+    [
+      865,
+      911
+    ],
+    [
+      874,
+      930
+    ],
+    [
+      890,
+      943
+    ],
+    [
+      907,
+      955
+    ],
+    [
+      920,
+      976
+    ],
+    [
+      927,
+      1000
+    ],
+    [
+      936,
+      1033
+    ],
+    [
+      930,
+      1062
+    ],
+    [
+      916,
+      1082
+    ],
+    [
+      906,
+      1110
+    ],
+    [
+      905,
+      1132
+    ],
+    [
+      900,
+      1151
+    ],
+    [
+      905,
+      1181
+    ],
+    [
+      900,
+      1219
+    ],
+    [
+      828,
+      1220
+    ],
+    [
+      820,
+      1185
+    ],
+    [
+      818,
+      1148
+    ],
+    [
+      798,
+      1114
+    ],
+    [
+      784,
+      1075
+    ],
+    [
+      769,
+      1042
+    ],
+    [
+      725,
+      1043
+    ],
+    [
+      697,
+      1010
+    ]
+  ],
+  "walkable_pixels_in_region": 11240,
+  "covered_walkable_pixels": 11240,
+  "uncovered_walkable_pixels": 0,
+  "outside_green_terrain_pixels": 0,
+  "overlap_pixels": 0,
+  "zones": [
+    {
+      "mob": "nukenin",
+      "terrainPixels": 19741,
+      "walkablePixels": 6358,
+      "treePixels": 13383
+    },
+    {
+      "mob": "kuroari",
+      "terrainPixels": 8508,
+      "walkablePixels": 3305,
+      "treePixels": 5203
+    },
+    {
+      "mob": "renegade",
+      "terrainPixels": 1793,
+      "walkablePixels": 1577,
+      "treePixels": 216
+    }
+  ]
+}

@@ -1,0 +1,638 @@
+﻿id,nome,x,y,z,icone_otc,categorias
+1,Hunt Shinobi Skys,520,766,7,5,hunt
+2,Hunt Ribaiasan 300+ (Acima das rochas hunts de Mamushi 300+),1790,1829,6,5,hunt
+3,Hunt Skeleton e Acesso Quest Kinkaku,539,1119,7,19,hunt;quest
+4,Quest Selo (Liberar acesso com tsuchikage),1922,1284,4,19,quest
+5,Pilar e Boss (Quest),179,1504,6,18,quest;boss
+6,Hidan Boss (Quest),982,1311,7,4,quest;boss
+7,Hunt Shinobi of Sound 150+,895,872,7,5,hunt
+8,Hunt Heishi 350+,1514,2058,6,5,hunt
+9,Passagem Ilhota,1014,1458,5,16,
+10,Hunt Araks,1675,3020,7,19,hunt
+11,Hunt Kamon Estrela 250+,1200,1743,7,5,hunt
+12,Kisame Boss,554,673,7,4,boss
+13,Quest Shukaku,1048,868,7,0,quest
+14,Depot e Trainers,2335,1475,4,18,
+15,"Covil Orochimaru, Quest New Shuriken/Glove",567,1501,7,17,quest
+16,Dragon,235,1258,6,5,
+17,Kido,2556,1051,6,19,
+18,Ibuki e Iranki,1668,2170,6,19,
+19,Hunt 400+,185,1602,7,18,hunt
+20,Kurama Amulet,512,1730,9,19,
+21,Ebisu (SAGA),992,907,7,6,
+22,Hunt Ibuki e Iranki 2 - 350+,1692,2240,7,5,hunt
+23,Bau (Use Jump Up),904,791,5,18,
+24,Boss Quest,234,1451,6,4,quest;boss
+25,Hunt Heishi e Miratsu 350+,1517,2075,7,5,hunt
+26,Hunt 450+ (Diversos Mobs),2452,1026,7,18,hunt
+27,Hunts 350+ e Rei de Pedra,1552,3357,6,16,hunt
+28,Anbu Yagito (SAGA),1016,962,7,6,
+29,Hunt Wamu 400+,2247,1280,8,5,hunt
+30,Necessario ter concluido a SAGA Resgate do Kazekage para acessar o local,507,1258,7,1,
+31,Dungeon Bosses,980,1116,4,12,boss;dungeon
+32,Baus,556,769,6,19,
+33,Hunt Mamushi,1565,3079,5,5,hunt
+34,Ponte Kirigakure,1026,1099,7,18,
+35,jump,781,1117,9,0,
+36,Hunt Vampire e Vampire Mutated 300+,832,1924,7,5,hunt
+37,Hunt Skeletons 200+,869,962,8,5,hunt
+38,Hunt Giant Furie 150 a 350,1476,1094,7,5,hunt
+39,Bau (Use Jump Up),915,800,6,18,
+40,Hunt 350+ e Dungeon Sasori,1103,1525,7,14,hunt;dungeon
+41,Hunt 250+/Quest Kisame/Baus Cachoeira,557,858,7,14,hunt;quest
+42,Hunt 250+ (Diversos Mobs em cada caminho),931,985,11,5,hunt
+43,Pilar e Boss (Quest),264,1522,7,18,quest;boss
+44,Quests,981,1336,12,18,quest
+45,Quest Tartaro e Hunts 350+,1179,1735,5,15,hunt;quest
+46,Hunts 350+ e Quest New Boots,1345,1425,7,15,hunt;quest
+47,Depot,717,1109,7,11,
+48,Hunt Scorpion 350+,982,1790,6,5,hunt
+49,Hunt Sword Man 150+,730,869,7,5,hunt
+50,Hunt Shinobi Archer 150+,1127,1326,7,5,hunt
+51,Bau,990,1046,7,18,
+52,Anko (SAGA),962,913,7,6,
+53,Depot,1483,1051,7,11,
+54,Trainers,2324,1444,3,8,
+55,Boss Craft,2212,1038,8,19,boss
+56,Dungeon Jya,1707,1252,7,12,dungeon
+57,Hunt Venom Snake 200+ e Quests Hidan e Kakuzu,1075,1331,7,19,hunt;quest
+58,Dungeon Sasori,1135,1373,6,12,dungeon
+59,"Hunt 300+ (Konchu, Konchu Doku e Venom Scorpion)",1480,1767,7,5,hunt
+60,Hospital,1067,907,8,18,
+61,Hunts 350+ e Rei Floresta,1534,3338,6,14,hunt
+62,Hunt Akatsuki 250+,800,1111,7,5,hunt
+63,Hunt Ribaiasan,1731,1828,7,18,hunt
+64,Vale do fim,958,821,7,18,
+65,Hunt Tsukyojin,2238,1306,8,18,hunt
+66,Hunts 350+/SAGA/Island Tsuin/Dungeon Scorpion/Quest Kurama Amulet/Quest Akamanto,312,1535,7,15,hunt;quest;dungeon
+67,Hunt Kido 500+,2519,1026,7,19,hunt
+68,Passagem Kumogakure,2111,1274,7,18,
+69,Sand Sc2,528,1084,7,5,
+70,Npc Craft,2506,1038,7,3,npc
+71,Zyhan,1862,3293,2,5,
+72,Hunt Skeleton 200+,905,899,8,5,hunt
+73,Daimyo (trocar vila),1922,1284,3,3,
+74,Hunt 500+,2410,1063,6,5,hunt
+75,Exame Chunin (SAGA),960,887,7,6,
+76,Hunt Jya 300+,1753,1239,6,5,hunt
+77,Passagem Amegakure,1049,1460,6,17,
+78,Trainers,1121,1183,7,8,
+79,Hunt Gamaguren 100+,1187,927,6,5,hunt
+80,Hunt Araks 400+,1205,3205,6,16,hunt
+81,Npc Pain (Npc que te coloca na Akatsuki),990,1449,3,3,npc
+82,Anbu e Black Shinobi,1094,1354,10,5,
+83,A quest pode ser realizada de 3 em 3 dias,1126,1943,8,1,quest
+84,Hunt 250+ (Skeleton Fear e Supreme Skeleton),807,1308,7,19,hunt
+85,Dungeon Tower (Piramide 2),57,1267,7,12,dungeon
+86,Ibuki e Iranki,1450,2162,6,19,
+87,Hunt Supreme Sand 350+,172,1053,7,5,hunt
+88,Hunt Aracnideo 450+,1424,1627,6,0,hunt
+89,Hospital (2° andar),968,1431,5,11,
+90,Ibuki e Iranki,1478,2348,6,19,
+91,Bau,573,770,7,18,
+92,Hunt Aracnideo 450+,1337,1465,6,5,hunt
+93,Dungeon Deidara e Hunt Akatsuki (Clique na cortina com o botao direito),794,1131,8,14,hunt;dungeon
+94,Hunt Skeletons 200+,799,986,8,5,hunt
+95,Dungeon Yoth,926,1244,6,18,dungeon
+96,Hunt Anbu,1235,1408,7,5,hunt
+97,Npc Loteria,1053,912,6,3,npc
+98,Hunts Jaakuna Tako 300+ (Subindo as rochas são Hunts de Kyojin 350+),1465,1811,6,5,hunt
+99,Hunts Tsuyoi Kyojin 350+,1456,1815,5,5,hunt
+100,"Sunagakure (Cidade, Hunts, Quests e Dungeons)",682,864,7,17,hunt;quest;dungeon
+101,Pain Boss (QUEST) e Hunt 300+,769,886,7,16,hunt;quest;boss
+102,Great Snakes e Giants - Nivel 200+,934,1095,7,18,
+103,Doragons - Nivel 450+,671,1624,6,19,
+104,Tsunade (aliance Shinobi e Missao Diaria),1002,889,5,3,
+105,Npc Zoltan (Task Fama),128,1304,6,3,npc
+106,"Wamu, Eirian e Vermion (Hunt perigosa 550+)",2651,1330,8,19,hunt
+107,Hunt Insecnoide 200+,900,894,7,5,hunt
+108,Floresta Mizuki (SAGA),1110,930,7,6,
+109,Inicio Quest,2127,1232,8,2,quest
+110,Alavanca,1478,1283,9,2,
+111,Npc Sakura (Bless),1138,1169,7,3,npc
+112,Quest Matatabi e Hunt Gedou Skeleton,129,1032,7,14,hunt;quest
+113,Hunt 550+,2458,1088,6,5,hunt
+114,Inicio Kinkaku Quest (Caminho da quest podem ser usados como Hunt de up 350+),511,1259,7,19,hunt;quest
+115,Escada,1676,3020,8,18,
+116,Werewolfs,1110,3188,6,5,
+117,Snake Najin 200+,1384,995,7,5,
+118,Dungeon Minato,980,1109,7,12,dungeon
+119,Store,2333,1491,4,19,
+120,Wamu e Eirian,2239,1306,6,19,
+121,"Predio Tsuchikage (SAGA, Aliance e QUEST SELO)",1901,1318,6,18,quest
+122,Hunt Eirian 550+,2259,1280,10,5,hunt
+123,Hunt Yoth e Kamon 200+,1266,1237,7,5,hunt
+124,Store - potions,976,1472,5,3,
+125,Hunt Insecnoide 200+,648,890,7,5,hunt
+126,Quest New Shuriken/Glove,503,1466,6,18,quest
+127,Depot,1025,919,7,11,
+128,Ponte Iwagakure,1554,1275,6,18,
+129,Hunt Dog Fear 250+,851,1284,9,5,hunt
+130,Ponte Para Kirigakure,1278,1145,7,18,
+131,Minoru,1022,905,7,2,
+132,"Hunt 400+ (Todo caminho pode ser utilizado como Hunt de UP, há diversos Mobs no caminho, Cuidado!)",455,1456,9,5,hunt
+133,Jaakuna Tako,1466,1794,7,18,
+134,Dungeon Heishi e Hunt Heishi/Akamanto,792,1503,7,18,hunt;dungeon
+135,Hunt Konchu 200+,2120,1269,7,5,hunt
+136,Caminho para Covil Akatsuki e South Florest,751,1423,7,14,
+137,Hunts nivel 200+ e Sasuke Boss,919,1086,7,18,hunt;boss
+138,Pilar e Boss (Quest),188,1449,6,18,quest;boss
+139,Hunt 450+/Kurama Amulet (Quest)/Dungeon Scorpion,317,1630,4,19,hunt;quest;dungeon
+140,Dungeon Yoth,928,1239,5,12,dungeon
+141,Pilar Quest,183,1537,4,2,quest
+142,Rei Floresta,1558,3263,7,18,
+143,Hunt Akatsuki 250+,796,1107,8,18,hunt
+144,Termais (Stamina Refill),2311,1488,5,2,
+145,Quest Geleira,1504,1246,6,19,quest
+146,Covil Akatsuki,800,1227,6,19,
+147,Hunt Renegades 150+,939,1173,7,5,hunt
+148,Hunt Skeleton - Nivel 200+,907,911,7,19,hunt
+149,Hunt Wamu,1446,1760,7,19,hunt
+150,Hunt Araks,1270,3218,7,19,hunt
+151,Store (Potions e etc),1831,1248,6,10,
+152,Matatabi,138,805,8,4,
+153,Hunt Zetsu 450+,706,1138,8,5,hunt
+154,Hunt Wamu,1455,1838,6,19,hunt
+155,"Beezer, Danzou, Jiraya (Acesso quest 700)",1025,927,7,19,quest
+156,Dungeon Renegade,867,995,7,12,dungeon
+157,Hunt Werewolfs,1176,3148,6,5,hunt
+158,Hunt 350+,565,1312,8,5,hunt
+159,Amegakure,563,1500,6,16,
+160,Hunt Tsukyojin 350+,2237,1287,6,5,hunt
+161,Kinkaku Boss,356,1664,8,4,boss
+162,Dragon,86,1332,7,18,
+163,Portal Trainers,995,917,5,8,
+164,Sasori Boss (Quest),1185,1285,7,4,quest;boss
+165,Quest Susano Armor,643,1669,7,4,quest
+166,Hunt Skeletons - Nivel 200+,862,956,7,19,hunt
+167,Hunt 500+,2490,1002,6,5,hunt
+168,Hunts,1852,3483,7,18,hunt
+169,Hunt Yoth Furie 200+,912,1220,7,5,hunt
+170,Hunt Skeletons - Nivel 200+,802,999,7,19,hunt
+171,Hunt Dark Snake - Nivel 100+,1050,1052,8,5,hunt
+172,Hunt Gamaguren - Nivel 150+,793,859,7,5,hunt
+173,Bau,609,837,6,2,
+174,Quest Kurama Amulet (De use na cachoeira),512,1749,10,18,quest
+175,Ishikawa e Godokawa 1,2123,1382,6,5,
+176,Portal Inicio Quest Susano Armor,1870,2081,8,4,quest
+177,Minoru,1424,2030,6,2,
+178,Jounin Renegade (SAGA),910,978,7,6,
+179,Alavanca,1532,1249,8,19,
+180,Hunt Hebi Shiro/Scorpion/Bikkubado,987,1756,7,5,hunt
+181,Bikkubados,396,1763,7,18,
+182,Hunt Dark Snake e Baus,1022,1025,7,19,hunt
+183,Npc Pain (ultimo andar),989,1452,5,18,npc
+184,Hunt Ultimate Skeleton 350+,822,1770,7,5,hunt
+185,Hunt 450+,1506,1279,6,19,hunt
+186,Subterraneo (Acesso Depot e Ilha Bijuus),1067,905,7,19,
+187,Hunt Kimimaro 250+,482,1199,7,5,hunt
+188,Quest New Armor (Inicio Topo da Piramide),129,1238,7,18,quest
+189,Hunt Ibuki e Iranki 1 - 350+,2148,1469,7,5,hunt
+190,Hunt Karasu 300+,501,1605,4,5,hunt
+191,Quest New Boots,1470,1614,5,18,quest
+192,Pain Boss,743,816,9,18,boss
+193,Temari (SAGA),595,1119,7,6,
+194,Ishikawa e Godokawa 2,2151,1571,6,5,
+195,"Spawn Bijuu (Spawns de 3h em 3h - 00h, 03h, 06h, 09h, 12h, 15h, 18h, 21h)",1125,892,6,5,
+196,Hunt Dog Fear e Quest Itachi,822,1239,8,19,hunt;quest
+197,Dungeon Tower (Piramide 4),190,1234,7,18,dungeon
+198,Store - Potions,713,1098,7,10,
+199,Hunt Renegades 150+ (Rotação da Hunt vai até Minoru de south florest),924,1109,7,5,hunt
+200,Hunts,1695,3347,4,19,hunt
+201,Entre na teia para prosseguir,1539,1514,8,2,
+202,Kazekage,720,1099,5,3,
+203,"Hunt Heishin, Akamanto, Supreme Skeleton 300+",809,1448,7,5,hunt
+204,Rei Floresta,1539,3250,5,4,
+205,Bau,982,809,4,2,
+206,Caminho para Iwagakure,1248,982,7,16,
+207,Hunt Araks 400+,1344,3272,8,5,hunt
+208,Dungeon Gaara,785,895,7,12,dungeon
+209,Continuação Quest,1539,1539,9,18,quest
+210,Continuação Quest,1560,1503,9,18,quest
+211,Dark Snake,1091,1345,8,5,
+212,Hunt Werewolf,1575,2962,5,5,hunt
+213,Zyhan,1572,2947,2,5,
+214,Boss Final (Quest Akamanto),109,1409,7,4,quest;boss
+215,Dungeon Bosses (No topo da montanha),985,1093,7,18,boss;dungeon
+216,"Hunts Hebi Shiro, Scorpion e Bikkubado - Acesso Quest Tartaro",1133,1883,6,19,hunt;quest
+217,Hunt Aracnideo 450+,1356,1572,6,5,hunt
+218,Trainers,997,917,6,18,
+219,Dungeon Tower (Piramide 1),62,1331,7,18,dungeon
+220,Hunt Gedou Dog 250+,418,1417,6,5,hunt
+221,Scorpion e Quest Tartaro,1104,1968,7,18,quest
+222,Portal Quest,1849,2101,9,18,quest
+223,Minoru,1319,1674,7,2,
+224,Bau,516,761,7,2,
+225,Ishikawa e Godokawa 2,1669,2164,6,5,
+226,Hunt Supreme Skeleton 250+,827,1383,9,5,hunt
+227,Bau,883,917,11,2,
+228,Hunt Scorpion e Quest Kurama Amulet,431,1767,7,19,hunt;quest
+229,Depot,2467,1056,7,11,
+230,Hospital,1134,1185,7,11,
+231,Hunt Black Death 350+,838,1697,6,5,hunt
+232,Hunt Rounin Waraji 450+ (Task Hagoromo),1747,1403,7,18,hunt
+233,Beezer (Hunt),1010,922,7,19,hunt
+234,"Ponte Kirigakure, Hunts, Dungeon Jya",1806,1252,5,17,hunt;dungeon
+235,Boss Quest,185,1533,4,4,quest;boss
+236,Quest Tartaro,1132,1944,4,19,quest
+237,Quest New Shuriken/Glove,521,1415,5,19,quest
+238,Sakura (Bless),719,1099,6,3,
+239,Hunt e Dungeon,1025,1207,7,18,hunt;dungeon
+240,Quest Selo,1926,1284,5,19,quest
+241,Hunt Werewolf,1872,3290,5,5,hunt
+242,Hunt 500+ (diversos mobs),2513,1016,7,18,hunt
+243,Portal para Kakuzu Boss (Quest),1001,1309,7,2,quest;boss
+244,Hunts 350+ e Rei de Gelo,1513,3358,6,17,hunt
+245,Hunt Scorpion 350+,1073,1954,6,5,hunt
+246,"Hunt Miratsu, Dokuhebi e Scorpion - Nivel 400+",98,1248,7,5,hunt
+247,Depot,988,1457,5,11,
+248,Hunt Kido 500+,2467,1017,8,5,hunt
+249,Mizuki (SAGA 1),1014,898,7,6,
+250,"Hunt Keshin, Vampire Mutated, Skeleton Fear - Nivel 450+",690,1579,7,5,hunt
+251,Teste Anbu (SAGA),1030,873,7,6,
+252,Bau (Elo Points),989,1034,5,2,
+253,Hunt Aranto e Aronak 350+,1443,1602,8,5,hunt
+254,Dungeon Tower (Piramide 1),63,1315,7,12,dungeon
+255,Itachi Boss,802,1251,8,4,boss
+256,Hunt Supreme Skeleton 250+,797,1339,9,5,hunt
+257,Arachir (Boss),1614,1578,8,4,boss
+258,Passagem para Iwagakure,1705,1150,7,18,
+259,Gamaguren,606,976,7,5,
+260,Store - food,722,1098,7,10,
+261,Quest Sasori,1186,1293,7,4,quest
+262,Hunt Kamon Estrela,1070,1650,7,19,hunt
+263,Hunt 400+ (Akaname e Akamanto),159,1533,6,5,hunt
+264,Escada para termais,969,1494,5,18,
+265,Hunt Eirian,2326,1312,8,19,hunt
+266,Hunts 200+ e Sasuke Boss,929,1016,8,19,hunt;boss
+267,Akatsuki,797,1178,8,5,
+268,Boss Quest,171,1440,4,4,quest;boss
+269,Hunt Devil 250+,834,1688,7,5,hunt
+270,Dungeon Ibuki,2164,1451,7,12,dungeon
+271,Ibuki e Iranki,1696,2356,6,19,
+272,Hunt Dino 300+,1829,1045,6,5,hunt
+273,Hunt Gedou Skeleton 300+,145,896,7,5,hunt
+274,Dungeon Jouzetsu,653,1601,5,12,dungeon
+275,Island Tsuin (Hunt 400+ e Quest Akamanto),285,1573,4,14,hunt;quest
+276,Dungeon Heishi,811,1472,2,12,dungeon
+277,Alavanca,1536,1182,9,2,
+278,Bandits e Bau,983,999,7,18,
+279,Dungeon Tobirama,901,1174,6,18,dungeon
+280,Bandits e Bau,981,987,6,19,
+281,Hunt Scorpion 350+,1013,1831,6,5,hunt
+282,Hunt Gamaguren 150+,561,980,7,5,hunt
+283,Doragon 450+,683,1642,7,5,
+284,Hunt Floresta 350+ (Diversos Mobs),1639,1828,7,5,hunt
+285,Pain Boss e Hunt 300+,806,902,6,19,hunt;boss
+286,Caminho para South Florest,938,1127,7,18,
+287,Pilar e Boss (Quest),216,1538,7,18,quest;boss
+288,Hunt 450+,309,1724,7,5,hunt
+289,"Hunt snakes 350+ (diversos mobs snakes, jya, snake najin e etc)",639,1653,4,5,hunt
+290,Zyhan,1205,3164,4,5,
+291,Depot,1158,1193,7,11,
+292,Eirian,1868,1863,8,19,
+293,Boss Matatabi (portal),141,827,8,4,boss
+294,Construtor (SAGA),1014,872,7,6,
+295,Iruka (SAGA),1086,946,7,6,
+296,Hunt Scorpion 400+,450,1772,8,5,hunt
+297,Minoru,2450,1040,7,2,
+298,Store (Food),2474,1040,7,10,
+299,Kakuzu Bosss (Quest),1039,1285,7,4,quest
+300,Bau,364,832,6,2,
+301,jump,792,1109,9,0,
+302,Hunt Wamu 400+,2571,1299,8,5,hunt
+303,Arena e Trainers,1000,914,7,17,
+304,Wamu,2562,1324,6,19,
+305,Hunt Renegade,563,747,6,5,hunt
+306,Hunt Yoth Furie 200+,1014,1226,6,5,hunt
+307,Zyhan,1611,2965,4,5,
+308,Passagem Suna,516,1036,8,18,
+309,"Entrada Covil Akatsuki (Fuin Kai, abre a passagem, necessario SAGA Resgate Kazekage) - Dungeon Deidara",799,1206,7,2,dungeon
+310,Hunt 400+,436,1585,8,5,hunt
+311,Pilar e Boss (Quest),67,1546,6,18,quest;boss
+312,Quest pode ser feita duas vezes para pegar duas armas (Tutorial no Discord),516,1414,7,1,quest
+313,Escada,639,1303,8,19,
+314,Hunt Bikkubado 350+,1062,1913,5,5,hunt
+315,Boss Quest,69,1543,5,4,quest;boss
+316,Hunts 200+ e Sasuke Boss,910,1085,6,19,hunt;boss
+317,Hunt Giant Fear 200+,934,968,10,5,hunt
+318,"Npc Chouji (Burger, Hyorogan, Pills e Kit Pills)",1031,906,7,3,npc
+319,Hunt Kamon 250+,974,1639,7,5,hunt
+320,Boss,1613,1587,9,18,boss
+321,As hunts são iguais independete do lado que siga as hunts serão iguais e terão os mesmos mobs,1539,3361,6,1,hunt
+322,Yoth Furie e Kamon,1375,1265,6,5,
+323,Boss Quest,247,1519,7,4,quest;boss
+324,Npc Taksu (Tasks),994,890,7,3,npc
+325,Ribaiasan,2545,1291,6,18,
+326,Bau,415,1164,8,2,
+327,Passagem para Konoha,1719,1160,5,19,
+328,Minoru,327,1530,7,2,
+329,Dungeon Yoth,963,1231,7,18,dungeon
+330,Hunt Mamushi 400+,2565,1306,6,5,hunt
+331,Hunt Floresta 400+ (Diversos Mobs),2404,1286,7,5,hunt
+332,Caminho SAGA Sasuke,356,1598,4,6,
+333,Hunt Araks 400+,2040,3410,8,5,hunt
+334,Hunts 400+,1682,3350,5,18,hunt
+335,Hunt Mummy 300+,1890,1091,7,5,hunt
+336,Yudoku,1165,3181,4,5,
+337,Minoru,1533,3362,6,2,
+338,Trainers,663,1128,7,8,
+339,"Mamushi, Ribaiasan, Wamu, Eirian e Vermion",2514,1294,7,18,
+340,Quest New Sword (pode ser feita a cada 24h),1176,1508,7,4,quest
+341,Deidara Boss,931,1036,7,4,boss
+342,"Store (Potions, Bags e etc)",1026,941,7,10,
+343,Araks,1358,1506,6,5,
+344,Hunt 400+,235,1745,7,5,hunt
+345,Depot,1028,912,8,18,
+346,Pain Boss (QUEST),745,813,7,4,quest;boss
+347,Npc Sakura (Bless),719,1104,7,18,npc
+348,Hunt Kikkai 250+,794,1073,6,5,hunt
+349,Dungeon Bandit,1014,991,7,12,dungeon
+350,Hunt Tayuya 250+,335,881,7,5,hunt
+351,Termais (Stamina Refill),1001,949,7,2,
+352,"Hunts, passagem Kumogakure, Quest Craft",1980,1280,6,16,hunt;quest
+353,Hunt Beezer - Nivel 1 a 80,1006,941,8,5,hunt
+354,Ultimo Boss,114,1398,5,18,boss
+355,Bau,365,823,7,18,
+356,Hunt Venom Snake 1 - 200+,1068,1345,11,5,hunt
+357,Sasuke (Apenas na SAGA),721,1653,4,6,
+358,Hunt Gedou Dog,207,1310,7,18,hunt
+359,Jiroubou,326,968,7,5,
+360,Danzou (Concede permissao para acessar a Island Tsuin em Covil Orochimaru - Precisa ser Anbu),1025,861,9,3,
+361,Minoru,321,1013,7,2,
+362,Ishikawa e Godokawa 4,1696,2346,6,5,
+363,Yudoku,1571,2982,4,5,
+364,Scorpion e Bikkubado,1046,1932,7,18,
+365,Dungeon Tower (Piramide 3),151,1264,7,18,dungeon
+366,Hunt Dog Fear e Skeleton Fear 250+,816,1342,7,5,hunt
+367,Minoru,2338,1516,5,2,
+368,Hunt 450+,2455,1011,6,5,hunt
+369,Tio do Ramen (NPC Food),1052,930,7,10,npc
+370,Quest New Boots,1365,1547,8,19,quest
+371,Quest New Boots,1460,1614,6,18,quest
+372,Hunt Kamon Estrela,1169,1602,6,19,hunt
+373,Rei de gelo (ultimo andar),1380,3379,7,18,
+374,Hunt Miratsu 300+,1395,1963,6,5,hunt
+375,Dungeon Tobirama,903,1170,5,12,dungeon
+376,Hunt Konchu 200+,2028,1278,4,5,hunt
+377,Ponte para Hunt e Dungeon,1108,1196,7,18,hunt;dungeon
+378,Hunts 200+ e Sasuke Boss,935,945,9,19,hunt;boss
+379,Renegades 200+,1030,1090,7,18,
+380,Rei de gelo,1380,3332,3,4,
+381,Bau Saga 1,1005,889,5,18,
+382,Passagem Suna (Hunt Karasu),451,1068,7,19,hunt
+383,Hunt Wamu 300+,1464,1813,8,5,hunt
+384,Hunt Dino e Mummy,1823,1172,6,14,hunt
+385,Pain Boss,742,792,7,4,boss
+386,Quest New Shuriken/Glove,454,1367,7,18,quest
+387,Alavanca Items,1574,1211,8,2,
+388,Caminho para Kirigakure,1164,1044,7,15,
+389,Hunts e Dungeon Ibuki,2287,1472,4,17,hunt;dungeon
+390,Rei Floresta,1552,3261,6,18,
+391,Zyhan,1167,3147,2,5,
+392,Eikou e Washi,2486,1096,6,19,
+393,Predio Tsuchikage,1920,1299,5,18,
+394,Hunt Araks,1968,3356,7,19,hunt
+395,Hunt Gedou Dog 200+,1300,1775,6,5,hunt
+396,Dungeon Deidara,795,1101,8,12,dungeon
+397,Werewolf,1806,3326,6,5,
+398,Supreme Sands 350+,290,1306,7,5,
+399,Hunt Werekan 450+,1864,3412,7,5,hunt
+400,Arvore (Elo Points),1019,891,6,2,
+401,Quest New Sword,1123,1520,7,18,quest
+402,Quest Tartaro,1131,1950,8,4,quest
+403,Caminho Resgate Sasuke (SAGA),917,790,6,6,
+404,Scorpion,1008,1845,7,18,
+405,Hunt Yoth Furie e Dungeon yoth,1100,1201,7,17,hunt;dungeon
+406,Hunt Skeleton 200+,499,1162,8,5,hunt
+407,Boss Final (Precisa ter feito os 5 pilares espalhados pela ilha),109,1421,6,18,boss
+408,Itachi Boss,834,1247,9,4,boss
+409,Inicio Quest New Shuriken/Glove,516,1416,7,4,quest
+410,Hunt Gedou Dog 200+,1157,1829,6,5,hunt
+411,Dungeon Kimimaro,495,1150,6,12,dungeon
+412,Bau,991,970,8,2,
+413,Hunt 450+/Quest Geleira/Ponte Para Iwagakure,1335,1246,7,16,hunt;quest
+414,Hunt Skeleton Fear 250+,788,1340,8,5,hunt
+415,NPC's Comercio (Compra e Venda de Itens),1076,935,7,10,npc
+416,Hunt Gedou Dog 250+,491,1434,5,5,hunt
+417,Hospital,1870,1255,6,11,
+418,Hunt Chisana 400+,1097,1460,5,5,hunt
+419,Hunt Rounin e AKaname 450+,1501,1301,7,5,hunt
+420,Quest Geleira,1518,1231,7,19,quest
+421,Dungeon Jouzetsu,651,1610,7,18,dungeon
+422,Quest Matatabi e Hunt Gedou Skeleton,231,1044,7,17,hunt;quest
+423,Hunt de Devil,883,1706,6,19,hunt
+424,Quest Kurama Amulet,517,1716,11,19,quest
+425,Hunt 500+ (diversos mobs),2581,1023,6,5,hunt
+426,Quest Matatabi,141,841,7,19,quest
+427,Hunt Gedou Dog - Nivel 200+,213,1328,6,5,hunt
+428,Rei Pedre e Hunts,1661,3346,7,18,hunt
+429,Minoru,562,1148,7,2,
+430,Hunt Nukenin - Nivel 150 a 350/400,868,1085,7,5,hunt
+431,"Caminho Quest (As 3 alavancas devem ser ativadas em um curto periodo, pois as portas se fecham um tempo após as alavancas serem puxadas)",1535,1199,8,14,quest
+432,Hunt Servium Snake 200+,1146,974,7,5,hunt
+433,Hunt 400+ (hebi shiro),403,1765,7,5,hunt
+434,Hunt Keshin -2/Portal Quest Susano Armor,1599,2151,8,19,hunt;quest
+435,Hunt Gamaguren 100+,1219,962,7,18,hunt
+436,Hospital,1078,914,7,11,
+437,"Shizune, Tsunade, Bau Saga 1",999,889,7,18,
+438,Pilar Quest,66,1540,5,2,quest
+439,Hunt Wamu 350+,1822,1862,8,5,hunt
+440,Prisão,1021,867,7,4,
+441,Npc Ryato (Food Dragon Ham),1004,988,9,10,npc
+442,Minoru,910,1180,7,2,
+443,Pergaminho SAGA,1002,885,4,6,
+444,Pilar e Boss (Quest),245,1450,6,18,quest;boss
+445,Kamons,1278,1610,6,5,
+446,Dungeon Tower (Piramide 4),191,1218,7,12,dungeon
+447,Oinin 1 (SAGA),968,875,7,6,
+448,Hunt Hebi Shiro - Nivel 200+,1077,1014,6,5,hunt
+449,Kinkaku (QUEST) e Hunts 350+,486,1248,8,18,hunt;quest
+450,Hunt Zetsu 450+ (Clique com direito na cortina),787,1137,8,17,hunt
+451,Termais,962,1491,4,19,
+452,Area Eventos,1017,893,7,2,
+453,Yamato (SAGA),996,916,7,6,
+454,Covil Orochimaru,433,1488,6,19,
+455,Dungeon Tower (Piramide 2),57,1283,7,18,dungeon
+456,Shinobi Fire 100+,695,1045,7,5,
+457,Floresta Vale do Fim (SAGA),941,879,7,6,
+458,Zyhan,1906,3303,4,5,
+459,Dragon,86,1347,6,5,
+460,Hunt Ibuki e Iranki 4 - 350+,1719,2428,7,5,hunt
+461,Passagem Fortress,516,1034,7,19,
+462,Dungeon Heishi,805,1480,6,18,dungeon
+463,Hunt Gedou Dog/Gedou Skeleton e Shinobi Fire 200+,1257,1680,5,5,hunt
+464,Hunt Gamaguren,611,825,6,5,hunt
+465,Shikamaru (SAGA),1041,928,7,6,
+466,Ponte pra Konoha,1026,1144,7,18,
+467,Eikou,2577,1051,6,18,
+468,Dungeon Ibuki,2162,1461,7,18,dungeon
+469,Ilha Bijuus,1105,892,8,18,
+470,Supreme Skeleton,785,1307,8,19,
+471,Para Selar a Bijuu é necessario ter feito a quest selo para liberar o Jutsu Kekkai Shihou Fuujin),1106,885,6,1,quest
+472,Hunt Araks,1370,1527,7,5,hunt
+473,Hunt Spectro 350+,323,1593,4,5,hunt
+474,Hunt Ibuki e Iranki 1 - 350+,1477,2236,7,5,hunt
+475,Rei Pedra,1651,3323,4,4,
+476,"Npc Hagoromo (Tasks, items, auras e skins)",1025,915,7,3,npc
+477,Quest New Armor (Inicio 2° parte),96,1197,7,19,quest
+478,Jump Down aqui (acesso a hunt e quests),1092,1337,8,19,hunt;quest
+479,Sand Sc2,680,1017,6,5,
+480,Hunt Wamu e Eirian 450+,2229,1227,7,19,hunt
+481,Hunt Werekan 450+,1165,3274,7,5,hunt
+482,Hunt Ibuki e Iranki 3 - 350+,1500,2418,7,5,hunt
+483,Hunt Gedou Dog e Caminho Quest,433,1491,7,18,hunt;quest
+484,Escada,1968,3356,8,18,
+485,Inicio Quest New Armor,134,1192,2,19,quest
+486,Hunt Kimimaro 250+,310,1111,7,5,hunt
+487,Kakashi (SAGA),1010,920,7,6,
+488,Bikkubado,1031,1882,4,5,
+489,Dedaira Boss (QUEST),931,1038,8,18,quest;boss
+490,Reaper of Death (Boss),2212,1038,9,4,boss
+491,Hunt Araks 400+,1773,3088,8,5,hunt
+492,Pilar Quest,230,1452,6,2,quest
+493,Escada,1270,3218,8,18,
+494,"Castle GGN (Guerra de Guilds - Domingo, Quarta e Sexta às 19h20)",1104,1076,7,2,
+495,Hunt Supreme Sand 350+,338,1488,7,5,hunt
+496,Hunt Sound Shinobi e Bandit Sword - Nivel 150+,928,804,6,5,hunt
+497,Quest New Kage (Fim 1° parte),109,1226,7,2,quest
+498,Minoru,1083,1400,7,2,
+499,"Fortress, Covil Orochimaru, Quest New Shiruken/Glove",608,1511,7,17,quest
+500,Kidos,2567,1070,6,19,
+501,Hunt Dai Wamus 350+,1476,1811,10,5,hunt
+502,Hunt 300+ (Diversos Mobs),743,848,9,5,hunt
+503,Hunt Sand Sc2 100+,518,983,6,5,hunt
+504,Trainers,172,1286,7,8,
+505,Ponte para Kirigakure,1079,1196,7,18,
+506,Kido,2578,1030,6,19,
+507,Hunt 450+,1176,3245,5,19,hunt
+508,Hunt Renegades - Nivel 200+,1029,1074,6,5,hunt
+509,Hunt Ibuki e Iranki 2 - 350+,2175,1653,7,5,hunt
+510,Oinin 2 (SAGA),983,869,7,6,
+511,Baus (Armas e Elo Points),1078,1102,8,2,
+512,Quest New Armor - 1° Boss,121,1220,9,2,quest;boss
+513,Hunt Zetsu 300+,553,711,7,0,hunt
+514,Passagem pra Konoha,1794,1244,5,14,
+515,Dungeon Kimimaro,493,1156,7,18,dungeon
+516,Kabuto Boss (Apenas na SAGA),395,1607,4,6,boss
+517,Hunt Araks,1901,3344,6,16,hunt
+518,Sasuke Boss,887,926,11,4,boss
+519,Pilar Quest,247,1521,7,2,quest
+520,Quest New Boots,1492,1619,4,19,quest
+521,Hunts 350+,1453,1666,7,15,hunt
+522,Scorpion,1031,1807,7,18,
+523,Olair (SAGA),1897,1231,5,6,
+524,Mizukage,1139,1185,7,18,
+525,Werewolf,1514,2989,6,5,
+526,Escada,370,1548,9,18,
+527,Hunt Keshin e Vampires 400+,1510,2094,8,5,hunt
+528,Pilar Quest,165,1439,4,2,quest
+529,Arena PvP,1043,949,7,8,
+530,Shizune (SAGAS),1002,887,6,6,
+531,Deidara Boss (QUEST),915,990,7,19,quest;boss
+532,Ishikawa e Godokawa 3,1475,2340,6,5,
+533,Dungeon Scorpion,302,1747,7,12,dungeon
+534,Hunt Araks,1609,3008,6,16,hunt
+535,Hunt Kamon Estrela 250+,1094,1650,8,5,hunt
+536,Npc Zoltan (Task Fama),149,1304,7,18,npc
+537,Depot,1289,1672,7,11,
+538,Hunt Snake Najin 150+,1369,1053,7,5,hunt
+539,Hunt Serverium Snake 200+,563,915,7,5,hunt
+540,Termais (Refill Stamina),955,1491,5,2,
+541,Hunt Giant Fear 200+,638,896,5,5,hunt
+542,Quest Sanbi,1049,874,7,0,quest
+543,Pain Boss (QUEST) e Hunt 300+,743,869,8,19,hunt;quest;boss
+544,Hunt Keshin -2,1386,2113,8,19,hunt
+545,Pilar e Boss (Quest),131,1614,7,18,quest;boss
+546,Ishikawa e Godokawa 1,1450,2151,6,5,
+547,Pilar e Boss (Quest),186,1540,5,18,quest;boss
+548,Hunt Kamon Estrela,1176,1742,6,19,hunt
+549,Hunt 400+ (Diversos Mobs),1123,1441,6,5,hunt
+550,"Hunt 550+ (Eikou, Washi e Outori)",2460,1079,7,18,hunt
+551,Hunt 500+ (Diversos Mobs),2439,1071,7,18,hunt
+552,"Todo area da ilha pode ser utilizada como hunt UP, principalmente subindo as rochas",265,1550,6,1,hunt
+553,Hunt Venom Snake 2 - 200+,1042,1336,12,5,hunt
+554,Portal Boss Kinkaku,383,1665,8,4,boss
+555,"Ponte Kirigakure (Quest Geleira, Hunts 250+ e 500+)",1697,1239,6,18,hunt;quest
+556,Aracnideos e Quest New Boots,1456,1644,7,18,quest
+557,Orochimaru e Jyas,700,1549,4,5,
+558,Hunt Devil 250+,844,1597,7,5,hunt
+559,Store (Potions e Etc),2348,1491,5,10,
+560,Boss Kurama Amulet (De use no bau para invocar o Boss),509,1715,12,4,boss
+561,Hunt Tayuya e Bau,319,1012,7,5,hunt
+562,"Reis dão um bonus de XP para guilds (Após ser morto o rei será fixo por 2h, após esse tempo podera ser morto por outros Clas)",1528,3362,6,1,
+563,Renegade,1005,1022,7,18,
+564,Hunt 500+ (diversos mobs),2534,1063,7,18,hunt
+565,Boss Final (Precisa ter liberado os 5 pilares),104,1401,6,2,boss
+566,Dungeon Tower (Piramide 3),151,1248,7,12,dungeon
+567,Hunt Werekan,1566,3076,7,5,hunt
+568,Arena PvP,989,925,7,8,
+569,Hunt Scorpion 350+,1021,1907,6,5,hunt
+570,Hunt Hebi Shiro,1052,1041,7,18,hunt
+571,Konchu,1452,1698,6,5,
+572,A quest pode ser feita 3 vezes para pegar as 3 recompensas,350,1641,8,1,quest
+573,Hunt 550+ (Diversos Mobs),2585,1297,10,5,hunt
+574,Hunt Sand Sc2 100+,494,1057,6,5,hunt
+575,Hunt Mummy,1880,1180,6,19,hunt
+576,Quest Tartaro,1109,1939,6,18,quest
+577,Bau,273,1789,7,2,
+578,Hunt Skeleton Fear 200+,772,900,8,5,hunt
+579,Sakura (Bless),1067,904,6,3,
+580,"Amegakure, Covil Orochimaru, Ilhota",693,1442,7,16,
+581,Kisame Boss (QUEST),555,734,6,19,quest;boss
+582,Bau,563,733,6,2,
+583,Hunt Karasu 150+,484,1054,8,5,hunt
+584,Hunts Heishi/Keshin e Portal Quest Susano Armor,1458,2050,6,19,hunt;quest
+585,Baus cachoeira e Kisame Boss (QUEST),557,785,7,18,quest;boss
+586,Venom Snake e Quests,1106,1334,11,19,quest
+587,Washi,2470,1105,6,19,
+588,Trainers,1003,1424,5,8,
+589,Hunt Eirian 450+,1804,1833,10,5,hunt
+590,Quest Craft,2108,1262,7,18,quest
+591,Minoru,1148,1217,7,2,
+592,Eikou,2481,1078,6,19,
+593,Tutorial da quest disponivel no Discord (Marcações dos pilares e boss estão no mapa. A quest pode ser feita de 3 em 3 dias),271,1549,6,1,quest;boss
+594,Kamons,1080,1660,7,5,
+595,Hunt 400+ e Dungeons Heishi e Jouzetsu,925,1465,5,19,hunt;dungeon
+596,Hunt Aracnideo 450+,1410,1580,5,5,hunt
+597,Rei Pedra,1636,3327,5,18,
+598,Npc Minorax (Hunt Vermon e Gedou Dog 300+) Necessario Saga Invasao Pain,1001,902,7,3,hunt;npc
+599,Hunt Chisana,1105,1481,6,18,hunt
+600,Npc Sakura (Bless),1075,904,7,18,npc
+601,Venom Snake,1082,1338,10,19,
+602,Hunt Bandit - Nivel 80 a 160 (Farm Ervas SAGA),962,997,7,5,hunt
+603,Alavanca,1475,1217,8,19,
+604,Hunt e Dungeon,903,1210,6,19,hunt;dungeon
+605,Hunt Kyojin e Jaakuna 400+,2191,1275,7,18,hunt
+606,Yudoku,1857,3320,4,5,
+607,Depot,2333,1459,3,11,
+608,Tsuchikage (Aliance. Quest Selo e SAGA),1922,1284,2,3,quest
+609,Acesso Quest 700 e Danzou (Acesso Island Tsuin),1027,923,8,19,quest
+610,Jiraya (Acesso a quest 700),1026,871,10,3,quest
+611,Ponte Kiri/Iwa,1616,1247,4,2,
+612,Jaakuna,2226,1279,6,18,
+613,Entre na teia para prosseguir,1595,1505,8,2,
+614,Hunt Keshin 400+,1654,2157,9,5,hunt
+615,Hunts 450+,1364,3393,7,17,hunt
+616,Quest Craft,2128,1253,6,19,quest
+617,Covil Akatsuki/Hunts 300+/Dungeon Deidara,820,1242,8,18,hunt;dungeon
+618,Hunt Heishi e Akamanto - Nivel 350+,822,1481,6,5,hunt
+619,Hunts Keshin e Portal Quest Susano Armor,1511,2059,7,19,hunt;quest
+620,Jiraya (Acesso quest 700),1027,876,9,19,quest
+621,Kurama Amulet (QUEST),483,1804,8,19,quest
+622,Quest Craft (De Use no Bueiro),2136,1249,7,19,quest
+623,Tsuchikage,1920,1286,4,18,
+624,Hunt Kamon Estrela 250+,1194,1602,7,5,hunt
+625,Black SHinobi,1225,1319,7,5,
+626,Hunts 250+ e Sasuke Boss,933,991,10,19,hunt;boss
+627,Hunt Keshin 400+,1338,2120,9,5,hunt
+628,Hunt mamushi 450+,1156,3283,5,5,hunt
+629,Kamons,1196,1668,6,5,
+630,Olair (SAGA),1898,1229,6,18,
+631,Minoru,455,1354,7,2,
+632,Hunt Great Snake 200+,918,1008,9,5,hunt
+633,Dragon,253,1259,7,18,
+634,Hunts 400+,1529,3231,7,14,hunt
+635,Orochimaru Boss (Apenas na SAGA),428,1607,4,6,boss
+636,"South Florest (Dungeons, Quests e Hunts)",617,891,7,16,hunt;quest;dungeon
+637,Hunt Mamushi 400+,1852,3421,5,5,hunt

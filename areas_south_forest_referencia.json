@@ -1,0 +1,12 @@
+{
+  "region": "South Forest",
+  "monsterIds": [
+    "nukenin",
+    "kuroari",
+    "renegade",
+    "skeleton",
+    "insecnoide"
+  ],
+  "source": "correção do usuário: área única",
+  "zoneId": "community-south-forest"
+}

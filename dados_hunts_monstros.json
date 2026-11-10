@@ -1,0 +1,3109 @@
+{
+  "schema": "guia-ninja-atlas-v3",
+  "explanation": "Mapa original com associação automática de monstro/quest por nome. Listas de loot, porcentagens e sprites extraídos do projeto fornecido; não inferir spawn exato a partir do nome.",
+  "counts": {
+    "monsters": 136,
+    "items": 214,
+    "quests": 21,
+    "drop_entries": 890,
+    "map_markers": 637,
+    "markers_with_monster_match": 287,
+    "markers_with_quest_match": 59,
+    "linked_monster_types": 85
+  },
+  "byMarker": {
+    "1": {
+      "monsterIds": [
+        "shinobi-skys"
+      ],
+      "questIds": [],
+      "monsters": "Shinobi Skys",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "2": {
+      "monsterIds": [
+        "ribaiasan",
+        "mamushi"
+      ],
+      "questIds": [],
+      "monsters": "Ribaiasan, Mamushi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "3": {
+      "monsterIds": [
+        "skeleton"
+      ],
+      "questIds": [
+        "quest-kinkaku"
+      ],
+      "monsters": "Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "4": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-selo"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "6": {
+      "monsterIds": [
+        "hidan"
+      ],
+      "questIds": [
+        "quest-hidan"
+      ],
+      "monsters": "Hidan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "7": {
+      "monsterIds": [
+        "shinobi-of-sound"
+      ],
+      "questIds": [],
+      "monsters": "Shinobi of Sound",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "8": {
+      "monsterIds": [
+        "heishi"
+      ],
+      "questIds": [],
+      "monsters": "Heishi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "10": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "11": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "12": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-kisame"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "15": {
+      "monsterIds": [
+        "orochimaru"
+      ],
+      "questIds": [],
+      "monsters": "Orochimaru",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "16": {
+      "monsterIds": [
+        "dragon"
+      ],
+      "questIds": [],
+      "monsters": "Dragon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "17": {
+      "monsterIds": [
+        "kido"
+      ],
+      "questIds": [],
+      "monsters": "Kido",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "18": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "22": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "25": {
+      "monsterIds": [
+        "miratsu",
+        "heishi"
+      ],
+      "questIds": [],
+      "monsters": "Miratsu, Heishi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "28": {
+      "monsterIds": [
+        "anbu"
+      ],
+      "questIds": [],
+      "monsters": "Anbu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "29": {
+      "monsterIds": [
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "33": {
+      "monsterIds": [
+        "mamushi"
+      ],
+      "questIds": [],
+      "monsters": "Mamushi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "36": {
+      "monsterIds": [
+        "vampire-mutated",
+        "vampire"
+      ],
+      "questIds": [],
+      "monsters": "Vampire Mutated, Vampire",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "37": {
+      "monsterIds": [
+        "skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "38": {
+      "monsterIds": [
+        "giant-furie"
+      ],
+      "questIds": [],
+      "monsters": "Giant Furie",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "41": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-kisame"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "45": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-tartaro"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "46": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newboots"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "48": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "49": {
+      "monsterIds": [
+        "sword-man"
+      ],
+      "questIds": [],
+      "monsters": "Sword Man",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "50": {
+      "monsterIds": [
+        "shinobi-archer"
+      ],
+      "questIds": [],
+      "monsters": "Shinobi Archer",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "57": {
+      "monsterIds": [
+        "venom-snake",
+        "hidan"
+      ],
+      "questIds": [],
+      "monsters": "Venom Snake, Hidan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "59": {
+      "monsterIds": [
+        "venom-scorpion",
+        "konchu-doku",
+        "konchu"
+      ],
+      "questIds": [],
+      "monsters": "Venom Scorpion, Konchu Doku, Konchu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "62": {
+      "monsterIds": [
+        "akatsuki"
+      ],
+      "questIds": [],
+      "monsters": "Akatsuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "63": {
+      "monsterIds": [
+        "ribaiasan"
+      ],
+      "questIds": [],
+      "monsters": "Ribaiasan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "66": {
+      "monsterIds": [
+        "scorpion",
+        "akamanto"
+      ],
+      "questIds": [
+        "quest-kurama",
+        "quest-akamanto"
+      ],
+      "monsters": "Scorpion, Akamanto",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "67": {
+      "monsterIds": [
+        "kido"
+      ],
+      "questIds": [],
+      "monsters": "Kido",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "69": {
+      "monsterIds": [
+        "sand-sc2"
+      ],
+      "questIds": [],
+      "monsters": "Sand Sc2",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "71": {
+      "monsterIds": [
+        "zyhan"
+      ],
+      "questIds": [],
+      "monsters": "Zyhan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "72": {
+      "monsterIds": [
+        "skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "79": {
+      "monsterIds": [
+        "gamaguren"
+      ],
+      "questIds": [],
+      "monsters": "Gamaguren",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "80": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "81": {
+      "monsterIds": [
+        "akatsuki"
+      ],
+      "questIds": [],
+      "monsters": "Akatsuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "82": {
+      "monsterIds": [
+        "black-shinobi",
+        "anbu"
+      ],
+      "questIds": [],
+      "monsters": "Black Shinobi, Anbu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "84": {
+      "monsterIds": [
+        "supreme-skeleton",
+        "skeleton-fear"
+      ],
+      "questIds": [],
+      "monsters": "Supreme Skeleton, Skeleton Fear",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "86": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "87": {
+      "monsterIds": [
+        "supreme-sand"
+      ],
+      "questIds": [],
+      "monsters": "Supreme Sand",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "88": {
+      "monsterIds": [
+        "aracnideo"
+      ],
+      "questIds": [],
+      "monsters": "Aracnideo",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "90": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "92": {
+      "monsterIds": [
+        "aracnideo"
+      ],
+      "questIds": [],
+      "monsters": "Aracnideo",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "93": {
+      "monsterIds": [
+        "akatsuki"
+      ],
+      "questIds": [],
+      "monsters": "Akatsuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "94": {
+      "monsterIds": [
+        "skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "95": {
+      "monsterIds": [
+        "yoth"
+      ],
+      "questIds": [],
+      "monsters": "Yoth",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "96": {
+      "monsterIds": [
+        "anbu"
+      ],
+      "questIds": [],
+      "monsters": "Anbu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "98": {
+      "monsterIds": [
+        "jaakuna-tako"
+      ],
+      "questIds": [],
+      "monsters": "Jaakuna Tako",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "99": {
+      "monsterIds": [
+        "tsuyoi-kyojin"
+      ],
+      "questIds": [],
+      "monsters": "Tsuyoi Kyojin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "101": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-pain"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "102": {
+      "monsterIds": [
+        "great-snake"
+      ],
+      "questIds": [],
+      "monsters": "Great Snake",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "103": {
+      "monsterIds": [
+        "doragon"
+      ],
+      "questIds": [],
+      "monsters": "Doragon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "106": {
+      "monsterIds": [
+        "vermion",
+        "eirian",
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Vermion, Eirian, Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "107": {
+      "monsterIds": [
+        "insecnoide"
+      ],
+      "questIds": [],
+      "monsters": "Insecnoide",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "112": {
+      "monsterIds": [
+        "gedou-skeleton"
+      ],
+      "questIds": [
+        "quest-matatabi"
+      ],
+      "monsters": "Gedou Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "116": {
+      "monsterIds": [
+        "werewolf"
+      ],
+      "questIds": [],
+      "monsters": "Werewolf",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "117": {
+      "monsterIds": [
+        "snake-najin"
+      ],
+      "questIds": [],
+      "monsters": "Snake Najin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "120": {
+      "monsterIds": [
+        "eirian",
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Eirian, Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "121": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-selo"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "122": {
+      "monsterIds": [
+        "eirian"
+      ],
+      "questIds": [],
+      "monsters": "Eirian",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "123": {
+      "monsterIds": [
+        "kamon",
+        "yoth"
+      ],
+      "questIds": [],
+      "monsters": "Kamon, Yoth",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "125": {
+      "monsterIds": [
+        "insecnoide"
+      ],
+      "questIds": [],
+      "monsters": "Insecnoide",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "129": {
+      "monsterIds": [
+        "dog-fear"
+      ],
+      "questIds": [],
+      "monsters": "Dog Fear",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "133": {
+      "monsterIds": [
+        "jaakuna-tako"
+      ],
+      "questIds": [],
+      "monsters": "Jaakuna Tako",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "134": {
+      "monsterIds": [
+        "akamanto",
+        "heishi"
+      ],
+      "questIds": [],
+      "monsters": "Akamanto, Heishi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "135": {
+      "monsterIds": [
+        "konchu"
+      ],
+      "questIds": [],
+      "monsters": "Konchu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "136": {
+      "monsterIds": [
+        "akatsuki"
+      ],
+      "questIds": [],
+      "monsters": "Akatsuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "137": {
+      "monsterIds": [
+        "sasuke-boss"
+      ],
+      "questIds": [],
+      "monsters": "Sasuke Boss",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "139": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "140": {
+      "monsterIds": [
+        "yoth"
+      ],
+      "questIds": [],
+      "monsters": "Yoth",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "143": {
+      "monsterIds": [
+        "akatsuki"
+      ],
+      "questIds": [],
+      "monsters": "Akatsuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "145": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-geleira"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "146": {
+      "monsterIds": [
+        "akatsuki"
+      ],
+      "questIds": [],
+      "monsters": "Akatsuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "147": {
+      "monsterIds": [
+        "renegade"
+      ],
+      "questIds": [],
+      "monsters": "Renegade",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "148": {
+      "monsterIds": [
+        "skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "149": {
+      "monsterIds": [
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "150": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "154": {
+      "monsterIds": [
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "155": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-700"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "156": {
+      "monsterIds": [
+        "renegade"
+      ],
+      "questIds": [],
+      "monsters": "Renegade",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "157": {
+      "monsterIds": [
+        "werewolf"
+      ],
+      "questIds": [],
+      "monsters": "Werewolf",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "162": {
+      "monsterIds": [
+        "dragon"
+      ],
+      "questIds": [],
+      "monsters": "Dragon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "164": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-sasori"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "166": {
+      "monsterIds": [
+        "skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "169": {
+      "monsterIds": [
+        "yoth-furie"
+      ],
+      "questIds": [],
+      "monsters": "Yoth Furie",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "170": {
+      "monsterIds": [
+        "skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "172": {
+      "monsterIds": [
+        "gamaguren"
+      ],
+      "questIds": [],
+      "monsters": "Gamaguren",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "174": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-kurama"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "175": {
+      "monsterIds": [
+        "ishikawa",
+        "godokawa"
+      ],
+      "questIds": [],
+      "monsters": "Ishikawa, Godokawa",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "178": {
+      "monsterIds": [
+        "renegade"
+      ],
+      "questIds": [],
+      "monsters": "Renegade",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "180": {
+      "monsterIds": [
+        "hebi-shiro",
+        "bikkubado",
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Hebi Shiro, Bikkubado, Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "181": {
+      "monsterIds": [
+        "bikkubado"
+      ],
+      "questIds": [],
+      "monsters": "Bikkubado",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "184": {
+      "monsterIds": [
+        "ultimate-skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Ultimate Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "187": {
+      "monsterIds": [
+        "kimimaro"
+      ],
+      "questIds": [],
+      "monsters": "Kimimaro",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "188": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newarmor"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "189": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "190": {
+      "monsterIds": [
+        "karasu"
+      ],
+      "questIds": [],
+      "monsters": "Karasu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "191": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newboots"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "192": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-pain"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "194": {
+      "monsterIds": [
+        "ishikawa",
+        "godokawa"
+      ],
+      "questIds": [],
+      "monsters": "Ishikawa, Godokawa",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "196": {
+      "monsterIds": [
+        "dog-fear"
+      ],
+      "questIds": [
+        "quest-itachi"
+      ],
+      "monsters": "Dog Fear",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "199": {
+      "monsterIds": [
+        "renegade"
+      ],
+      "questIds": [],
+      "monsters": "Renegade",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "203": {
+      "monsterIds": [
+        "supreme-skeleton",
+        "akamanto"
+      ],
+      "questIds": [],
+      "monsters": "Supreme Skeleton, Akamanto",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "207": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "212": {
+      "monsterIds": [
+        "werewolf"
+      ],
+      "questIds": [],
+      "monsters": "Werewolf",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "213": {
+      "monsterIds": [
+        "zyhan"
+      ],
+      "questIds": [],
+      "monsters": "Zyhan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "214": {
+      "monsterIds": [
+        "akamanto"
+      ],
+      "questIds": [
+        "quest-akamanto"
+      ],
+      "monsters": "Akamanto",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "216": {
+      "monsterIds": [
+        "hebi-shiro",
+        "bikkubado",
+        "scorpion"
+      ],
+      "questIds": [
+        "quest-tartaro"
+      ],
+      "monsters": "Hebi Shiro, Bikkubado, Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "217": {
+      "monsterIds": [
+        "aracnideo"
+      ],
+      "questIds": [],
+      "monsters": "Aracnideo",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "220": {
+      "monsterIds": [
+        "gedou-dog"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Dog",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "221": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [
+        "quest-tartaro"
+      ],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "225": {
+      "monsterIds": [
+        "ishikawa",
+        "godokawa"
+      ],
+      "questIds": [],
+      "monsters": "Ishikawa, Godokawa",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "226": {
+      "monsterIds": [
+        "supreme-skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Supreme Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "228": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [
+        "quest-kurama"
+      ],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "231": {
+      "monsterIds": [
+        "black-death"
+      ],
+      "questIds": [],
+      "monsters": "Black Death",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "236": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-tartaro"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "240": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-selo"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "241": {
+      "monsterIds": [
+        "werewolf"
+      ],
+      "questIds": [],
+      "monsters": "Werewolf",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "245": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "246": {
+      "monsterIds": [
+        "scorpion",
+        "dokuhebi",
+        "miratsu"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion, Dokuhebi, Miratsu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "248": {
+      "monsterIds": [
+        "kido"
+      ],
+      "questIds": [],
+      "monsters": "Kido",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "250": {
+      "monsterIds": [
+        "vampire-mutated",
+        "skeleton-fear",
+        "keshin"
+      ],
+      "questIds": [],
+      "monsters": "Vampire Mutated, Skeleton Fear, Keshin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "251": {
+      "monsterIds": [
+        "anbu"
+      ],
+      "questIds": [],
+      "monsters": "Anbu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "253": {
+      "monsterIds": [
+        "aronak",
+        "aranto"
+      ],
+      "questIds": [],
+      "monsters": "Aronak, Aranto",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "256": {
+      "monsterIds": [
+        "supreme-skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Supreme Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "259": {
+      "monsterIds": [
+        "gamaguren"
+      ],
+      "questIds": [],
+      "monsters": "Gamaguren",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "261": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-sasori"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "262": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "263": {
+      "monsterIds": [
+        "akamanto",
+        "akaname"
+      ],
+      "questIds": [],
+      "monsters": "Akamanto, Akaname",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "265": {
+      "monsterIds": [
+        "eirian"
+      ],
+      "questIds": [],
+      "monsters": "Eirian",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "266": {
+      "monsterIds": [
+        "sasuke-boss"
+      ],
+      "questIds": [],
+      "monsters": "Sasuke Boss",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "267": {
+      "monsterIds": [
+        "akatsuki"
+      ],
+      "questIds": [],
+      "monsters": "Akatsuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "269": {
+      "monsterIds": [
+        "devil"
+      ],
+      "questIds": [],
+      "monsters": "Devil",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "270": {
+      "monsterIds": [
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "271": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "272": {
+      "monsterIds": [
+        "dino"
+      ],
+      "questIds": [],
+      "monsters": "Dino",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "273": {
+      "monsterIds": [
+        "gedou-skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "275": {
+      "monsterIds": [
+        "akamanto"
+      ],
+      "questIds": [
+        "quest-akamanto"
+      ],
+      "monsters": "Akamanto",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "276": {
+      "monsterIds": [
+        "heishi"
+      ],
+      "questIds": [],
+      "monsters": "Heishi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "278": {
+      "monsterIds": [
+        "bandit"
+      ],
+      "questIds": [],
+      "monsters": "Bandit",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "280": {
+      "monsterIds": [
+        "bandit"
+      ],
+      "questIds": [],
+      "monsters": "Bandit",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "281": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "282": {
+      "monsterIds": [
+        "gamaguren"
+      ],
+      "questIds": [],
+      "monsters": "Gamaguren",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "283": {
+      "monsterIds": [
+        "doragon"
+      ],
+      "questIds": [],
+      "monsters": "Doragon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "285": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-pain"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "289": {
+      "monsterIds": [
+        "snake-najin"
+      ],
+      "questIds": [],
+      "monsters": "Snake Najin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "290": {
+      "monsterIds": [
+        "zyhan"
+      ],
+      "questIds": [],
+      "monsters": "Zyhan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "292": {
+      "monsterIds": [
+        "eirian"
+      ],
+      "questIds": [],
+      "monsters": "Eirian",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "296": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "302": {
+      "monsterIds": [
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "304": {
+      "monsterIds": [
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "305": {
+      "monsterIds": [
+        "renegade"
+      ],
+      "questIds": [],
+      "monsters": "Renegade",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "306": {
+      "monsterIds": [
+        "yoth-furie"
+      ],
+      "questIds": [],
+      "monsters": "Yoth Furie",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "307": {
+      "monsterIds": [
+        "zyhan"
+      ],
+      "questIds": [],
+      "monsters": "Zyhan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "309": {
+      "monsterIds": [
+        "akatsuki"
+      ],
+      "questIds": [],
+      "monsters": "Akatsuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "314": {
+      "monsterIds": [
+        "bikkubado"
+      ],
+      "questIds": [],
+      "monsters": "Bikkubado",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "316": {
+      "monsterIds": [
+        "sasuke-boss"
+      ],
+      "questIds": [],
+      "monsters": "Sasuke Boss",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "317": {
+      "monsterIds": [
+        "giant-fear"
+      ],
+      "questIds": [],
+      "monsters": "Giant Fear",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "319": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "322": {
+      "monsterIds": [
+        "yoth-furie",
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Yoth Furie, Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "325": {
+      "monsterIds": [
+        "ribaiasan"
+      ],
+      "questIds": [],
+      "monsters": "Ribaiasan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "329": {
+      "monsterIds": [
+        "yoth"
+      ],
+      "questIds": [],
+      "monsters": "Yoth",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "330": {
+      "monsterIds": [
+        "mamushi"
+      ],
+      "questIds": [],
+      "monsters": "Mamushi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "333": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "335": {
+      "monsterIds": [
+        "mummy"
+      ],
+      "questIds": [],
+      "monsters": "Mummy",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "336": {
+      "monsterIds": [
+        "yudoku"
+      ],
+      "questIds": [],
+      "monsters": "Yudoku",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "339": {
+      "monsterIds": [
+        "ribaiasan",
+        "vermion",
+        "mamushi",
+        "eirian",
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Ribaiasan, Vermion, Mamushi, Eirian, Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "340": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newsword"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "343": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "346": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-pain"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "348": {
+      "monsterIds": [
+        "kikkai"
+      ],
+      "questIds": [],
+      "monsters": "Kikkai",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "349": {
+      "monsterIds": [
+        "bandit"
+      ],
+      "questIds": [],
+      "monsters": "Bandit",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "350": {
+      "monsterIds": [
+        "tayuya"
+      ],
+      "questIds": [],
+      "monsters": "Tayuya",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "352": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-craft"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "356": {
+      "monsterIds": [
+        "venom-snake"
+      ],
+      "questIds": [],
+      "monsters": "Venom Snake",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "358": {
+      "monsterIds": [
+        "gedou-dog"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Dog",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "360": {
+      "monsterIds": [
+        "orochimaru",
+        "anbu"
+      ],
+      "questIds": [],
+      "monsters": "Orochimaru, Anbu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "362": {
+      "monsterIds": [
+        "ishikawa",
+        "godokawa"
+      ],
+      "questIds": [],
+      "monsters": "Ishikawa, Godokawa",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "363": {
+      "monsterIds": [
+        "yudoku"
+      ],
+      "questIds": [],
+      "monsters": "Yudoku",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "364": {
+      "monsterIds": [
+        "bikkubado",
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Bikkubado, Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "366": {
+      "monsterIds": [
+        "skeleton-fear",
+        "dog-fear"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton Fear, Dog Fear",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "370": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newboots"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "371": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newboots"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "372": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "374": {
+      "monsterIds": [
+        "miratsu"
+      ],
+      "questIds": [],
+      "monsters": "Miratsu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "376": {
+      "monsterIds": [
+        "konchu"
+      ],
+      "questIds": [],
+      "monsters": "Konchu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "378": {
+      "monsterIds": [
+        "sasuke-boss"
+      ],
+      "questIds": [],
+      "monsters": "Sasuke Boss",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "379": {
+      "monsterIds": [
+        "renegade"
+      ],
+      "questIds": [],
+      "monsters": "Renegade",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "382": {
+      "monsterIds": [
+        "karasu"
+      ],
+      "questIds": [],
+      "monsters": "Karasu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "383": {
+      "monsterIds": [
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "384": {
+      "monsterIds": [
+        "mummy",
+        "dino"
+      ],
+      "questIds": [],
+      "monsters": "Mummy, Dino",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "385": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-pain"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "389": {
+      "monsterIds": [
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "391": {
+      "monsterIds": [
+        "zyhan"
+      ],
+      "questIds": [],
+      "monsters": "Zyhan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "392": {
+      "monsterIds": [
+        "eikou",
+        "washi"
+      ],
+      "questIds": [],
+      "monsters": "Eikou, Washi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "394": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "395": {
+      "monsterIds": [
+        "gedou-dog"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Dog",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "397": {
+      "monsterIds": [
+        "werewolf"
+      ],
+      "questIds": [],
+      "monsters": "Werewolf",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "398": {
+      "monsterIds": [
+        "supreme-sand"
+      ],
+      "questIds": [],
+      "monsters": "Supreme Sand",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "399": {
+      "monsterIds": [
+        "werekan"
+      ],
+      "questIds": [],
+      "monsters": "Werekan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "401": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newsword"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "402": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-tartaro"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "404": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "405": {
+      "monsterIds": [
+        "yoth-furie",
+        "yoth"
+      ],
+      "questIds": [],
+      "monsters": "Yoth Furie, Yoth",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "406": {
+      "monsterIds": [
+        "skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "410": {
+      "monsterIds": [
+        "gedou-dog"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Dog",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "411": {
+      "monsterIds": [
+        "kimimaro"
+      ],
+      "questIds": [],
+      "monsters": "Kimimaro",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "413": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-geleira"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "414": {
+      "monsterIds": [
+        "skeleton-fear"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton Fear",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "416": {
+      "monsterIds": [
+        "gedou-dog"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Dog",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "419": {
+      "monsterIds": [
+        "akaname"
+      ],
+      "questIds": [],
+      "monsters": "Akaname",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "420": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-geleira"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "422": {
+      "monsterIds": [
+        "gedou-skeleton"
+      ],
+      "questIds": [
+        "quest-matatabi"
+      ],
+      "monsters": "Gedou Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "423": {
+      "monsterIds": [
+        "devil"
+      ],
+      "questIds": [],
+      "monsters": "Devil",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "424": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-kurama"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "426": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-matatabi"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "427": {
+      "monsterIds": [
+        "gedou-dog"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Dog",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "430": {
+      "monsterIds": [
+        "nukenin"
+      ],
+      "questIds": [],
+      "monsters": "Nukenin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "433": {
+      "monsterIds": [
+        "hebi-shiro"
+      ],
+      "questIds": [],
+      "monsters": "Hebi Shiro",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "434": {
+      "monsterIds": [
+        "keshin"
+      ],
+      "questIds": [],
+      "monsters": "Keshin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "435": {
+      "monsterIds": [
+        "gamaguren"
+      ],
+      "questIds": [],
+      "monsters": "Gamaguren",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "439": {
+      "monsterIds": [
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "441": {
+      "monsterIds": [
+        "dragon"
+      ],
+      "questIds": [],
+      "monsters": "Dragon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "445": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "448": {
+      "monsterIds": [
+        "hebi-shiro"
+      ],
+      "questIds": [],
+      "monsters": "Hebi Shiro",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "454": {
+      "monsterIds": [
+        "orochimaru"
+      ],
+      "questIds": [],
+      "monsters": "Orochimaru",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "456": {
+      "monsterIds": [
+        "shinobi-fire"
+      ],
+      "questIds": [],
+      "monsters": "Shinobi Fire",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "458": {
+      "monsterIds": [
+        "zyhan"
+      ],
+      "questIds": [],
+      "monsters": "Zyhan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "459": {
+      "monsterIds": [
+        "dragon"
+      ],
+      "questIds": [],
+      "monsters": "Dragon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "460": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "462": {
+      "monsterIds": [
+        "heishi"
+      ],
+      "questIds": [],
+      "monsters": "Heishi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "463": {
+      "monsterIds": [
+        "gedou-skeleton",
+        "shinobi-fire",
+        "gedou-dog"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Skeleton, Shinobi Fire, Gedou Dog",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "464": {
+      "monsterIds": [
+        "gamaguren"
+      ],
+      "questIds": [],
+      "monsters": "Gamaguren",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "467": {
+      "monsterIds": [
+        "eikou"
+      ],
+      "questIds": [],
+      "monsters": "Eikou",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "468": {
+      "monsterIds": [
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "470": {
+      "monsterIds": [
+        "supreme-skeleton"
+      ],
+      "questIds": [],
+      "monsters": "Supreme Skeleton",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "471": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-selo"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "472": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "473": {
+      "monsterIds": [
+        "spectro"
+      ],
+      "questIds": [],
+      "monsters": "Spectro",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "474": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "477": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newarmor"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "479": {
+      "monsterIds": [
+        "sand-sc2"
+      ],
+      "questIds": [],
+      "monsters": "Sand Sc2",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "480": {
+      "monsterIds": [
+        "eirian",
+        "wamu"
+      ],
+      "questIds": [],
+      "monsters": "Eirian, Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "481": {
+      "monsterIds": [
+        "werekan"
+      ],
+      "questIds": [],
+      "monsters": "Werekan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "482": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "483": {
+      "monsterIds": [
+        "gedou-dog"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Dog",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "485": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newarmor"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "486": {
+      "monsterIds": [
+        "kimimaro"
+      ],
+      "questIds": [],
+      "monsters": "Kimimaro",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "488": {
+      "monsterIds": [
+        "bikkubado"
+      ],
+      "questIds": [],
+      "monsters": "Bikkubado",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "491": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "495": {
+      "monsterIds": [
+        "supreme-sand"
+      ],
+      "questIds": [],
+      "monsters": "Supreme Sand",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "496": {
+      "monsterIds": [
+        "sound-shinobi",
+        "bandit-sword"
+      ],
+      "questIds": [],
+      "monsters": "Sound shinobi, Bandit Sword",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "499": {
+      "monsterIds": [
+        "orochimaru"
+      ],
+      "questIds": [],
+      "monsters": "Orochimaru",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "500": {
+      "monsterIds": [
+        "kido"
+      ],
+      "questIds": [],
+      "monsters": "Kido",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "501": {
+      "monsterIds": [
+        "dai-wamu"
+      ],
+      "questIds": [],
+      "monsters": "Dai Wamu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "503": {
+      "monsterIds": [
+        "sand-sc2"
+      ],
+      "questIds": [],
+      "monsters": "Sand Sc2",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "506": {
+      "monsterIds": [
+        "kido"
+      ],
+      "questIds": [],
+      "monsters": "Kido",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "508": {
+      "monsterIds": [
+        "renegade"
+      ],
+      "questIds": [],
+      "monsters": "Renegade",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "509": {
+      "monsterIds": [
+        "iranki",
+        "ibuki"
+      ],
+      "questIds": [],
+      "monsters": "Iranki, Ibuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "512": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newarmor"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "515": {
+      "monsterIds": [
+        "kimimaro"
+      ],
+      "questIds": [],
+      "monsters": "Kimimaro",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "517": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "518": {
+      "monsterIds": [
+        "sasuke-boss"
+      ],
+      "questIds": [],
+      "monsters": "Sasuke Boss",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "520": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-newboots"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "522": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "525": {
+      "monsterIds": [
+        "werewolf"
+      ],
+      "questIds": [],
+      "monsters": "Werewolf",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "527": {
+      "monsterIds": [
+        "vampire",
+        "keshin"
+      ],
+      "questIds": [],
+      "monsters": "Vampire, Keshin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "532": {
+      "monsterIds": [
+        "ishikawa",
+        "godokawa"
+      ],
+      "questIds": [],
+      "monsters": "Ishikawa, Godokawa",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "533": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "534": {
+      "monsterIds": [
+        "arak"
+      ],
+      "questIds": [],
+      "monsters": "Arak",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "535": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "538": {
+      "monsterIds": [
+        "snake-najin"
+      ],
+      "questIds": [],
+      "monsters": "Snake Najin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "541": {
+      "monsterIds": [
+        "giant-fear"
+      ],
+      "questIds": [],
+      "monsters": "Giant Fear",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "543": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-pain"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "544": {
+      "monsterIds": [
+        "keshin"
+      ],
+      "questIds": [],
+      "monsters": "Keshin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "546": {
+      "monsterIds": [
+        "ishikawa",
+        "godokawa"
+      ],
+      "questIds": [],
+      "monsters": "Ishikawa, Godokawa",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "548": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "550": {
+      "monsterIds": [
+        "outori",
+        "eikou",
+        "washi"
+      ],
+      "questIds": [],
+      "monsters": "Outori, Eikou, Washi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "553": {
+      "monsterIds": [
+        "venom-snake"
+      ],
+      "questIds": [],
+      "monsters": "Venom Snake",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "555": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-geleira"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "556": {
+      "monsterIds": [
+        "aracnideo"
+      ],
+      "questIds": [
+        "quest-newboots"
+      ],
+      "monsters": "Aracnideo",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "557": {
+      "monsterIds": [
+        "orochimaru"
+      ],
+      "questIds": [],
+      "monsters": "Orochimaru",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "558": {
+      "monsterIds": [
+        "devil"
+      ],
+      "questIds": [],
+      "monsters": "Devil",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "561": {
+      "monsterIds": [
+        "tayuya"
+      ],
+      "questIds": [],
+      "monsters": "Tayuya",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "563": {
+      "monsterIds": [
+        "renegade"
+      ],
+      "questIds": [],
+      "monsters": "Renegade",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "567": {
+      "monsterIds": [
+        "werekan"
+      ],
+      "questIds": [],
+      "monsters": "Werekan",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "569": {
+      "monsterIds": [
+        "scorpion"
+      ],
+      "questIds": [],
+      "monsters": "Scorpion",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "570": {
+      "monsterIds": [
+        "hebi-shiro"
+      ],
+      "questIds": [],
+      "monsters": "Hebi Shiro",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "571": {
+      "monsterIds": [
+        "konchu"
+      ],
+      "questIds": [],
+      "monsters": "Konchu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "574": {
+      "monsterIds": [
+        "sand-sc2"
+      ],
+      "questIds": [],
+      "monsters": "Sand Sc2",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "575": {
+      "monsterIds": [
+        "mummy"
+      ],
+      "questIds": [],
+      "monsters": "Mummy",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "576": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-tartaro"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "578": {
+      "monsterIds": [
+        "skeleton-fear"
+      ],
+      "questIds": [],
+      "monsters": "Skeleton Fear",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "580": {
+      "monsterIds": [
+        "orochimaru"
+      ],
+      "questIds": [],
+      "monsters": "Orochimaru",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "581": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-kisame"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "583": {
+      "monsterIds": [
+        "karasu"
+      ],
+      "questIds": [],
+      "monsters": "Karasu",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "584": {
+      "monsterIds": [
+        "heishi",
+        "keshin"
+      ],
+      "questIds": [],
+      "monsters": "Heishi, Keshin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "585": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-kisame"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "586": {
+      "monsterIds": [
+        "venom-snake"
+      ],
+      "questIds": [],
+      "monsters": "Venom Snake",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "587": {
+      "monsterIds": [
+        "washi"
+      ],
+      "questIds": [],
+      "monsters": "Washi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "589": {
+      "monsterIds": [
+        "eirian"
+      ],
+      "questIds": [],
+      "monsters": "Eirian",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "590": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-craft"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "592": {
+      "monsterIds": [
+        "eikou"
+      ],
+      "questIds": [],
+      "monsters": "Eikou",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "594": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "595": {
+      "monsterIds": [
+        "heishi"
+      ],
+      "questIds": [],
+      "monsters": "Heishi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "596": {
+      "monsterIds": [
+        "aracnideo"
+      ],
+      "questIds": [],
+      "monsters": "Aracnideo",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "598": {
+      "monsterIds": [
+        "gedou-dog",
+        "vermon"
+      ],
+      "questIds": [],
+      "monsters": "Gedou Dog, Vermon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "601": {
+      "monsterIds": [
+        "venom-snake"
+      ],
+      "questIds": [],
+      "monsters": "Venom Snake",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "602": {
+      "monsterIds": [
+        "bandit"
+      ],
+      "questIds": [],
+      "monsters": "Bandit",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "606": {
+      "monsterIds": [
+        "yudoku"
+      ],
+      "questIds": [],
+      "monsters": "Yudoku",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "608": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-selo"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "609": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-700"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "610": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-700"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "614": {
+      "monsterIds": [
+        "keshin"
+      ],
+      "questIds": [],
+      "monsters": "Keshin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "616": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-craft"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "617": {
+      "monsterIds": [
+        "akatsuki"
+      ],
+      "questIds": [],
+      "monsters": "Akatsuki",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "618": {
+      "monsterIds": [
+        "akamanto",
+        "heishi"
+      ],
+      "questIds": [],
+      "monsters": "Akamanto, Heishi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "619": {
+      "monsterIds": [
+        "keshin"
+      ],
+      "questIds": [],
+      "monsters": "Keshin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "620": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-700"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "622": {
+      "monsterIds": [],
+      "questIds": [
+        "quest-craft"
+      ],
+      "monsters": "",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "624": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "625": {
+      "monsterIds": [
+        "black-shinobi"
+      ],
+      "questIds": [],
+      "monsters": "Black Shinobi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "626": {
+      "monsterIds": [
+        "sasuke-boss"
+      ],
+      "questIds": [],
+      "monsters": "Sasuke Boss",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "627": {
+      "monsterIds": [
+        "keshin"
+      ],
+      "questIds": [],
+      "monsters": "Keshin",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "628": {
+      "monsterIds": [
+        "mamushi"
+      ],
+      "questIds": [],
+      "monsters": "Mamushi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "629": {
+      "monsterIds": [
+        "kamon"
+      ],
+      "questIds": [],
+      "monsters": "Kamon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "632": {
+      "monsterIds": [
+        "great-snake"
+      ],
+      "questIds": [],
+      "monsters": "Great Snake",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "633": {
+      "monsterIds": [
+        "dragon"
+      ],
+      "questIds": [],
+      "monsters": "Dragon",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "635": {
+      "monsterIds": [
+        "orochimaru"
+      ],
+      "questIds": [],
+      "monsters": "Orochimaru",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    },
+    "637": {
+      "monsterIds": [
+        "mamushi"
+      ],
+      "questIds": [],
+      "monsters": "Mamushi",
+      "source": "associacao-nome",
+      "notes": "Vínculo automático pelo nome da marcação original. Confira dentro do jogo se este ponto é a hunt, o acesso ou a localização do boss."
+    }
+  }
+}

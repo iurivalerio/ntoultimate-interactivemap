@@ -1,0 +1,1026 @@
+{
+  "version": 1,
+  "source": "Guia NTO fornecido: versão publicada em https://ntoultimateguide.vercel.app/; tabelas guide-data.js e items.js",
+  "questCount": 22,
+  "questsWithItemRewards": 11,
+  "rewardAssociations": 24,
+  "bossCount": 6,
+  "quests": [
+    {
+      "id": "quest-two",
+      "titulo": "Quest Two",
+      "local": "Konohagakure",
+      "requisitos": "Saga Exame Jounin e dois jogadores para puxar a alavanca para quest.",
+      "boss": "",
+      "premio": "pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/two-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/two-2.webp",
+          "alt": "Alavanca da Quest"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-four",
+      "titulo": "Quest Four",
+      "local": "Konohagakure",
+      "requisitos": "Saga Exame Jounin e quatro jogadores para puxar a alavanca para quest",
+      "boss": "",
+      "premio": "pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/four-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/four-2.webp",
+          "alt": "Alavanca da Quest"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-700",
+      "titulo": "Quest 700",
+      "local": "Konoha",
+      "requisitos": "25 Gold Bar + 50 Ervas Medicinais + 100 areia sulphurs + 25 olhos de gigante + 5 craneo gedou skeleton",
+      "boss": "Kakashi Senpai",
+      "premio": "Permissão de upar level 700",
+      "obs": [
+        "Fale com o NPC Jiraya em Konoha e entregue os itens. Você vai pra uma sala com 4 teleportes: caminho do fogo, do gelo, da terra e o do boss.",
+        "Termine os três caminhos de elemento antes de ir pro boss.",
+        "Cuidado: o Kakashi Senpai tem 3 ataques em área que matam na hora (IK) quem estiver nos SQMs atingidos."
+      ],
+      "imgs": [
+        {
+          "src": "img/quests/700-1.webp",
+          "alt": "Entrada da Quest 700"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-itachi",
+      "titulo": "Quest Itachi",
+      "local": "South Florest",
+      "requisitos": "Nenhum",
+      "boss": "Itachi",
+      "premio": "pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/questitachi-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/questitachi-2.webp",
+          "alt": "Boss"
+        },
+        {
+          "src": "img/quests/questitachi-3.webp",
+          "alt": "Bau"
+        }
+      ],
+      "rewardItemIds": [
+        "akatsukilegs"
+      ],
+      "rewards": [
+        {
+          "itemId": "akatsukilegs",
+          "name": "Akatsuki Legs",
+          "sprite": "akatsukilegs.png",
+          "origin": "Drop do Itachi (South Forest).",
+          "source": "NTO_QUEST_ITENS"
+        }
+      ],
+      "bossDrops": [
+        {
+          "bossId": "quest-boss-itachi",
+          "boss": "Itachi",
+          "itemId": "akatsukilegs",
+          "name": "Akatsuki Legs",
+          "sprite": "akatsukilegs.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-deidara",
+      "titulo": "Quest Deidara",
+      "local": "South Florest",
+      "requisitos": "Nenhum.",
+      "boss": "Deidara",
+      "premio": "10 pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/questdeidara-1.webp",
+          "alt": "Bau da quest"
+        },
+        {
+          "src": "img/quests/questdeidara-2.webp",
+          "alt": "Boss da Quest"
+        },
+        {
+          "src": "img/quests/questdeidara-3.webp",
+          "alt": "Mapa da Quest 3"
+        }
+      ],
+      "rewardItemIds": [
+        "akatsuki-hat-11700"
+      ],
+      "rewards": [
+        {
+          "itemId": "akatsuki-hat-11700",
+          "name": "Akatsuki Mask",
+          "sprite": "akatsuki-hat-11700.png",
+          "origin": "Drop do Deidara (South Forest).",
+          "source": "NTO_QUEST_ITENS"
+        }
+      ],
+      "bossDrops": [
+        {
+          "bossId": "quest-boss-deidara",
+          "boss": "Deidara",
+          "itemId": "akatsuki-hat-11700",
+          "name": "Akatsuki Mask",
+          "sprite": "akatsuki-hat-11700.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-pain",
+      "titulo": "Quest Pain",
+      "local": "South Florest",
+      "requisitos": "Nenhum",
+      "boss": "Pain",
+      "premio": "10 pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/questpain-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/questpain-2.webp",
+          "alt": "Boss da Quest"
+        },
+        {
+          "src": "img/quests/questpain-3.webp",
+          "alt": "Bau da Quest"
+        }
+      ],
+      "rewardItemIds": [
+        "akatsukiarmor"
+      ],
+      "rewards": [
+        {
+          "itemId": "akatsukiarmor",
+          "name": "Akatsuki Armor",
+          "sprite": "akatsukiarmor.png",
+          "origin": "Drop do Pain (Suna / South Forest).",
+          "source": "NTO_QUEST_ITENS"
+        }
+      ],
+      "bossDrops": [
+        {
+          "bossId": "quest-boss-pain",
+          "boss": "Pain",
+          "itemId": "akatsukiarmor",
+          "name": "Akatsuki Armor",
+          "sprite": "akatsukiarmor.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-kinkaku",
+      "titulo": "Quest Kinkaku e Ginkaku",
+      "local": "Sunagakure",
+      "requisitos": "Nenhum item é necessário apenas a Saga Gaara Kazekage",
+      "boss": "Kinkaku",
+      "premio": "25 pontos de elo + Armas do Ginkaku e Kinkaku",
+      "obs": [
+        "Dá pra fazer 3 vezes, cada vez com um prêmio diferente."
+      ],
+      "imgs": [
+        {
+          "src": "img/quests/kinkaku-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/kinkaku-2.webp",
+          "alt": "Boss da Quest Kinkaku"
+        },
+        {
+          "src": "img/quests/kinkaku-3.webp",
+          "alt": "Baus da Quest Kinkaku"
+        },
+        {
+          "src": "img/quests/kinkaku-4.webp",
+          "alt": "Recompensas da Quest Kinkaku"
+        }
+      ],
+      "rewardItemIds": [
+        "shichiseiken-3075",
+        "bashosen",
+        "kokinjo"
+      ],
+      "rewards": [
+        {
+          "itemId": "shichiseiken-3075",
+          "name": "Shichiseiken",
+          "sprite": "shichiseiken-3075.png",
+          "origin": "Prêmio da Quest Kinkaku (Suna).",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "bashosen",
+          "name": "Bashosen",
+          "sprite": "bashosen.png",
+          "origin": "Prêmio da Quest Kinkaku (Suna).",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "kokinjo",
+          "name": "Kokinjo",
+          "sprite": "kokinjo.png",
+          "origin": null,
+          "source": "NTO_QUEST_ITENS"
+        }
+      ],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-kisame",
+      "titulo": "Quest Kisame",
+      "local": "Sunagakure",
+      "requisitos": "Nenhum",
+      "boss": "Kisame",
+      "premio": "pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/questkisame-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/questkisame-2.webp",
+          "alt": "Bau"
+        },
+        {
+          "src": "img/quests/questkisame-3.webp",
+          "alt": "Bau 2"
+        },
+        {
+          "src": "img/quests/questkisame-4.webp",
+          "alt": "Bau 3"
+        },
+        {
+          "src": "img/quests/questkisame-5.webp",
+          "alt": "Bau 4"
+        },
+        {
+          "src": "img/quests/questkisame-6.webp",
+          "alt": "Boss"
+        }
+      ],
+      "rewardItemIds": [
+        "akatsukiboots-10847",
+        "fakesamejhada-3301"
+      ],
+      "rewards": [
+        {
+          "itemId": "akatsukiboots-10847",
+          "name": "Akatsuki Boots",
+          "sprite": "akatsukiboots-10847.png",
+          "origin": "Drop do Kisame (Sunagakure).",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "fakesamejhada-3301",
+          "name": "Fake Samehada",
+          "sprite": "fakesamejhada-3301.png",
+          "origin": "Quest Kisame (Suna).",
+          "source": "NTO_ITEMS.origem"
+        }
+      ],
+      "bossDrops": [
+        {
+          "bossId": "quest-boss-kisame",
+          "boss": "Kisame",
+          "itemId": "akatsukiboots-10847",
+          "name": "Akatsuki Boots",
+          "sprite": "akatsukiboots-10847.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-newarmor",
+      "titulo": "Quest New Armor",
+      "local": "Fortress",
+      "requisitos": "Acesso das das pirâmides",
+      "boss": "King Scorpion",
+      "premio": "pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/newarmor-1.webp",
+          "alt": "Piramide da Quest"
+        },
+        {
+          "src": "img/quests/newarmor-2.webp",
+          "alt": "Entrada da Quest"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-matatabi",
+      "titulo": "Quest Matatabi",
+      "local": "Fortress",
+      "requisitos": "Ter concluído a Saga 10 (Construtor de pontes) para entrar",
+      "boss": "Matatabi",
+      "premio": "pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/matatabi-1.webp",
+          "alt": "Entrada da quest"
+        },
+        {
+          "src": "img/quests/matatabi-2.webp",
+          "alt": "Quest"
+        },
+        {
+          "src": "img/quests/matatabi-3.webp",
+          "alt": "Boss"
+        },
+        {
+          "src": "img/quests/matatabi-4.webp",
+          "alt": "Recompensa da quest"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-craft",
+      "titulo": "Quest Craft",
+      "local": "Iwagakure",
+      "requisitos": "Nenhum item é necessário para fazer a quest",
+      "boss": "Reaper of Death",
+      "premio": "Bau de aprimoramento de itens.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/craft-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/craft-2.webp",
+          "alt": "Quest Craft"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-selo",
+      "titulo": "Quest Selo",
+      "local": "Iwagakure",
+      "requisitos": "Kit selo (100 ervas + 50 renegade essence + 50 nukenin talisma)",
+      "boss": "Uchiha Fugaku",
+      "premio": "pontos de elo + Susanoo Shield, Yata no Kagami, Bee Sword e o jutsu capaz de selar bijuu.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/selo-1.webp",
+          "alt": "Entrada  da Quest"
+        },
+        {
+          "src": "img/quests/selo-2.webp",
+          "alt": "Entrada  da Quest 2"
+        }
+      ],
+      "rewardItemIds": [
+        "susanoshield-11815",
+        "yatanokagami-3048",
+        "beesword"
+      ],
+      "rewards": [
+        {
+          "itemId": "susanoshield-11815",
+          "name": "Susanoo Shield",
+          "sprite": "susanoshield-11815.png",
+          "origin": "Prêmio da Quest Selo (Iwagakure).",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "yatanokagami-3048",
+          "name": "Yata no Kagami",
+          "sprite": "yatanokagami-3048.png",
+          "origin": null,
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "beesword",
+          "name": "Bee Sword",
+          "sprite": "beesword.png",
+          "origin": null,
+          "source": "NTO_QUEST_ITENS"
+        }
+      ],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-geleira",
+      "titulo": "Quest Geleira",
+      "local": "Iwagakure",
+      "requisitos": "Jiraya War Forehead, Akatsuki Tunic, Shukaku Spear",
+      "boss": "Naiade",
+      "premio": "pontos de elo.",
+      "obs": [
+        "Pode ser feita 10 vezes; depois de cada uma, espere 24h."
+      ],
+      "imgs": [
+        {
+          "src": "img/quests/geleira-1.webp",
+          "alt": "Print da entrada Quest"
+        },
+        {
+          "src": "img/quests/geleira-2.webp",
+          "alt": "Print da alavanca"
+        },
+        {
+          "src": "img/quests/geleira-3.webp",
+          "alt": "Print da alavanca"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-newsword",
+      "titulo": "Quest New Sword",
+      "local": "Ilhota",
+      "requisitos": "Isqueiro",
+      "boss": "Soudamatasuta, Akebino Jinin/Kuriarare Kushimaru/Munashi Jinpachi/Suikazan Fuguki/Zabuza Momochi",
+      "premio": "50 pontos de elo + uma das espadas dos espadachins da névoa: New Zabuza, New Shibuki, New Samehada, Kabutowari, Kyba e Nuibari",
+      "obs": [
+        "Uma vez a cada 24h. Cada vez dá uma das espadas, e cada espada só sai uma vez por season."
+      ],
+      "imgs": [
+        {
+          "src": "img/quests/newsword-1.webp",
+          "alt": "Soudamasauta"
+        },
+        {
+          "src": "img/quests/newsword-2.webp",
+          "alt": "Sala principal"
+        },
+        {
+          "src": "img/quests/newsword-3.webp",
+          "alt": "Entrada da quest"
+        }
+      ],
+      "rewardItemIds": [
+        "zabuzasword-7391",
+        "shibuki-10484",
+        "samehada-7425",
+        "algumaarmabolada2-7407",
+        "algumaarmabolada-7406",
+        "algumaarmabolada3-7421",
+        "hiramekarei-7461"
+      ],
+      "rewards": [
+        {
+          "itemId": "zabuzasword-7391",
+          "name": "Kubikiribouchou",
+          "sprite": "zabuzasword-7391.png",
+          "origin": "Quest New Sword, em Ilhota. Boss: Zabuza Momochi.",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "shibuki-10484",
+          "name": "Shibuki (original)",
+          "sprite": "shibuki-10484.png",
+          "origin": "Quest New Sword, em Ilhota. Boss: Munashi Jinpachi.",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "samehada-7425",
+          "name": "Samehada (original)",
+          "sprite": "samehada-7425.png",
+          "origin": "Quest New Sword, em Ilhota. Boss: Suikazan Fuguki.",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "algumaarmabolada2-7407",
+          "name": "Kabutowari",
+          "sprite": "algumaarmabolada2-7407.png",
+          "origin": "Quest New Sword, em Ilhota. Boss: Akebino Jinin.",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "algumaarmabolada-7406",
+          "name": "Kiba",
+          "sprite": "algumaarmabolada-7406.png",
+          "origin": "Quest New Sword, em Ilhota (baú ao lado da arma).",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "algumaarmabolada3-7421",
+          "name": "Nuibari",
+          "sprite": "algumaarmabolada3-7421.png",
+          "origin": "Quest New Sword, em Ilhota. Boss: Kuriarare Kushimaru.",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "hiramekarei-7461",
+          "name": "Hiramekarei",
+          "sprite": "hiramekarei-7461.png",
+          "origin": "Quest New Sword, em Ilhota (baú ao lado da arma).",
+          "source": "NTO_ITEMS.origem"
+        }
+      ],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-kurama",
+      "titulo": "Quest Kurama Amulet",
+      "local": "Covil Orochimaru",
+      "requisitos": "Nenhum item é necessário para fazer a quest",
+      "boss": "Lost Shinobi",
+      "premio": "pontos de elo + Kurama Amulet.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/questkurama-1.webp",
+          "alt": "Print da Quest 1"
+        },
+        {
+          "src": "img/quests/questkurama-2.webp",
+          "alt": "Print da Quest 2"
+        },
+        {
+          "src": "img/quests/questkurama-3.webp",
+          "alt": "Print do bau da Quest 3"
+        },
+        {
+          "src": "img/quests/questkurama-4.webp",
+          "alt": "Print da recompensa da Quest 3"
+        }
+      ],
+      "rewardItemIds": [
+        "kuramaamulet-3318"
+      ],
+      "rewards": [
+        {
+          "itemId": "kuramaamulet-3318",
+          "name": "Kurama Amulet",
+          "sprite": "kuramaamulet-3318.png",
+          "origin": "Prêmio da Quest Kurama Amulet (Covil Orochimaru).",
+          "source": "NTO_QUEST_ITENS"
+        }
+      ],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-newkage",
+      "titulo": "Quest New Kage/Glove",
+      "local": "Covil Orochimaru",
+      "requisitos": "Nenhum item é necessário para fazer a quest",
+      "boss": "",
+      "premio": "New Kage e/ou New Glove + 25 pontos de elo",
+      "obs": [
+        "Pode ser feita duas vezes por season."
+      ],
+      "imgs": [
+        {
+          "src": "img/quests/newkage-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/newkage-2.webp",
+          "alt": "Entrada da Quest 2"
+        },
+        {
+          "src": "img/quests/newkage-3.webp",
+          "alt": "Quest"
+        },
+        {
+          "src": "img/quests/newkage-4.webp",
+          "alt": "Boss final da Quest"
+        },
+        {
+          "src": "img/quests/newkage-5.webp",
+          "alt": "Recompensa da Quest"
+        }
+      ],
+      "rewardItemIds": [
+        "raikageglove-3312"
+      ],
+      "rewards": [
+        {
+          "itemId": "raikageglove-3312",
+          "name": "Raikage Furie Glove",
+          "sprite": "raikageglove-3312.png",
+          "origin": "Quest New Kage/Glove (Covil Orochimaru).",
+          "source": "NTO_QUEST_ITENS"
+        }
+      ],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-akamanto",
+      "titulo": "Quest Akamanto",
+      "local": "Covil Orochimaru/Island Tsuin",
+      "requisitos": "Elo Anbu e a permissão do NPC Danzo para entrar na Island Tsuin",
+      "boss": "Akuhei, Gyokuryu",
+      "premio": "25 pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/questakamanto-1.webp",
+          "alt": "Estátua para ativar as chaves"
+        },
+        {
+          "src": "img/quests/questakamanto-2.webp",
+          "alt": "Boss da estátua"
+        },
+        {
+          "src": "img/quests/questakamanto-3.webp",
+          "alt": "Boss final"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-tartaro",
+      "titulo": "Quest Tartaro",
+      "local": "Ilhazinha",
+      "requisitos": "Vip Account e 10 jogadores para puxar cada Boss",
+      "boss": "Cerbero, Denka, Supertokuru, Yochu e Zagara",
+      "premio": "25 pontos de elo + bonus de atributo: Hp, Ninjutsu e Skill de Arma.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/tartaro-1.webp",
+          "alt": "Sala inicial da Quest"
+        },
+        {
+          "src": "img/quests/tartaro-2.webp",
+          "alt": "Cerbero, primeiro Boss"
+        },
+        {
+          "src": "img/quests/tartaro-3.webp",
+          "alt": "Sala principal da Quest"
+        },
+        {
+          "src": "img/quests/tartaro-4.webp",
+          "alt": "Sala do Boss"
+        },
+        {
+          "src": "img/quests/tartaro-5.webp",
+          "alt": "Sala do Bau"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-newboots",
+      "titulo": "Quest New Boots",
+      "local": "South Island",
+      "requisitos": "Vip Account",
+      "boss": "Arachir",
+      "premio": "",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/newboots-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/newboots-2.webp",
+          "alt": "Armadilha da Quest"
+        },
+        {
+          "src": "img/quests/newboots-3.webp",
+          "alt": "Quest"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-sasori",
+      "titulo": "Quest Sasori",
+      "local": "South Island",
+      "requisitos": "Vip Account",
+      "boss": "Sasori",
+      "premio": "10 pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/questsasori-1.webp",
+          "alt": "Entrada da Quest"
+        },
+        {
+          "src": "img/quests/questsasori-2.webp",
+          "alt": "Boss da Quest"
+        },
+        {
+          "src": "img/quests/questsasori-3.webp",
+          "alt": "Bau da Quest"
+        }
+      ],
+      "rewardItemIds": [],
+      "rewards": [],
+      "bossDrops": [],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-hidan",
+      "titulo": "Quest Hidan e Kakuzu",
+      "local": "South Island",
+      "requisitos": "Vip Account",
+      "boss": "Hidan",
+      "premio": "20 pontos de elo.",
+      "obs": [],
+      "imgs": [
+        {
+          "src": "img/quests/questhidan-1.webp",
+          "alt": "Boss Hidan"
+        },
+        {
+          "src": "img/quests/questhidan-2.webp",
+          "alt": "Primeira sala do báu"
+        },
+        {
+          "src": "img/quests/questhidan-3.webp",
+          "alt": "Print da Quest 3"
+        },
+        {
+          "src": "img/quests/questhidan-4.webp",
+          "alt": "Segunda sala do báu"
+        }
+      ],
+      "rewardItemIds": [
+        "amulet-of-akatsuki",
+        "gourdfuin-10804",
+        "thirdscythe"
+      ],
+      "rewards": [
+        {
+          "itemId": "amulet-of-akatsuki",
+          "name": "Amulet of Akatsuki",
+          "sprite": "amulet-of-akatsuki.png",
+          "origin": "Drop do Hidan (South Island).",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "gourdfuin-10804",
+          "name": "Gourd Fuin",
+          "sprite": "gourdfuin-10804.png",
+          "origin": "Drop do Kakuzu (South Island).",
+          "source": "NTO_QUEST_ITENS"
+        },
+        {
+          "itemId": "thirdscythe",
+          "name": "Third Scythe",
+          "sprite": "thirdscythe.png",
+          "origin": "Quest Hidan (South Island). Também dropa do Hidan.",
+          "source": "NTO_ITEMS.origem"
+        }
+      ],
+      "bossDrops": [
+        {
+          "bossId": "quest-boss-hidan",
+          "boss": "Hidan",
+          "itemId": "amulet-of-akatsuki",
+          "name": "Amulet of Akatsuki",
+          "sprite": "amulet-of-akatsuki.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        },
+        {
+          "bossId": "quest-boss-kakuzu",
+          "boss": "Kakuzu",
+          "itemId": "gourdfuin-10804",
+          "name": "Gourd Fuin",
+          "sprite": "gourdfuin-10804.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ],
+      "rewardSource": "Guia NTO: guide-data.js / NTO_QUEST_ITENS, NTO_QUEST_AJUSTE e items.js / origem"
+    },
+    {
+      "id": "quest-newshuriken-glove",
+      "titulo": "Quest New Shuriken/Glove",
+      "local": "Covil Orochimaru",
+      "requisitos": "Não informados no Guia",
+      "boss": "",
+      "premio": "Fuuma Katon Shuriken",
+      "obs": [
+        "Origem da Fuuma Katon Shuriken confirmada pelo usuário. O início está marcado em Z7; há pontos de continuidade em Z6 e Z5."
+      ],
+      "imgs": [],
+      "rewardItemIds": [
+        "fumakatonshhuriken-3051"
+      ],
+      "rewards": [
+        {
+          "itemId": "fumakatonshhuriken-3051",
+          "name": "Fuuma Katon Shuriken",
+          "sprite": "fumakatonshhuriken-3051.png",
+          "origin": "Quest New Shuriken/Glove, no Covil Orochimaru. Origem confirmada pelo usuário em 09/11/2026.",
+          "source": "Confirmação do usuário em 09/11/2026"
+        }
+      ],
+      "bossDrops": [],
+      "preferredMarkerIds": [
+        409,
+        126,
+        237,
+        15,
+        386,
+        499
+      ],
+      "rewardSource": "Confirmação do usuário + marcadores originais do Atlas"
+    }
+  ],
+  "bosses": [
+    {
+      "id": "quest-boss-deidara",
+      "name": "Deidara",
+      "aliases": [],
+      "questId": "quest-deidara",
+      "markerIds": [
+        341,
+        531
+      ],
+      "mobId": null,
+      "drops": [
+        {
+          "itemId": "akatsuki-hat-11700",
+          "name": "Akatsuki Mask",
+          "sprite": "akatsuki-hat-11700.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ]
+    },
+    {
+      "id": "quest-boss-itachi",
+      "name": "Itachi",
+      "aliases": [],
+      "questId": "quest-itachi",
+      "markerIds": [
+        255,
+        408
+      ],
+      "mobId": null,
+      "drops": [
+        {
+          "itemId": "akatsukilegs",
+          "name": "Akatsuki Legs",
+          "sprite": "akatsukilegs.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ]
+    },
+    {
+      "id": "quest-boss-kisame",
+      "name": "Kisame",
+      "aliases": [],
+      "questId": "quest-kisame",
+      "markerIds": [
+        12,
+        581,
+        585
+      ],
+      "mobId": null,
+      "drops": [
+        {
+          "itemId": "akatsukiboots-10847",
+          "name": "Akatsuki Boots",
+          "sprite": "akatsukiboots-10847.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ]
+    },
+    {
+      "id": "quest-boss-pain",
+      "name": "Pain",
+      "aliases": [],
+      "questId": "quest-pain",
+      "markerIds": [
+        192,
+        543
+      ],
+      "mobId": null,
+      "drops": [
+        {
+          "itemId": "akatsukiarmor",
+          "name": "Akatsuki Armor",
+          "sprite": "akatsukiarmor.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ]
+    },
+    {
+      "id": "quest-boss-hidan",
+      "name": "Hidan",
+      "aliases": [],
+      "questId": "quest-hidan",
+      "markerIds": [
+        6
+      ],
+      "mobId": "hidan",
+      "drops": [
+        {
+          "itemId": "amulet-of-akatsuki",
+          "name": "Amulet of Akatsuki",
+          "sprite": "amulet-of-akatsuki.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ]
+    },
+    {
+      "id": "quest-boss-kakuzu",
+      "name": "Kakuzu",
+      "aliases": [
+        "Kakuzo"
+      ],
+      "questId": "quest-hidan",
+      "markerIds": [
+        299,
+        243
+      ],
+      "mobId": "kakuzo",
+      "drops": [
+        {
+          "itemId": "gourdfuin-10804",
+          "name": "Gourd Fuin",
+          "sprite": "gourdfuin-10804.png",
+          "pct": null,
+          "source": "NTO_SETS_FREE.akatsuki.drops"
+        }
+      ]
+    }
+  ]
+}

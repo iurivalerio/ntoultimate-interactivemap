@@ -1,0 +1,7909 @@
+{
+  "source": "config.otml > Minimap > flags (somente marcadores)",
+  "total": 637,
+  "notes": [
+    "Categorias inferidas automaticamente a partir dos nomes; revisao humana recomendada.",
+    "As coordenadas sao do jogo, cada um com x,y,z.",
+    "Nenhuma configuracao de conta, credencial ou bot foi incluida."
+  ],
+  "markers": [
+    {
+      "id": 1,
+      "name": "Hunt Shinobi Skys",
+      "position": {
+        "x": 520,
+        "y": 766,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hunt Ribaiasan 300+ (Acima das rochas hunts de Mamushi 300+)",
+      "position": {
+        "x": 1790,
+        "y": 1829,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hunt Skeleton e Acesso Quest Kinkaku",
+      "position": {
+        "x": 539,
+        "y": 1119,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Quest Selo (Liberar acesso com tsuchikage)",
+      "position": {
+        "x": 1922,
+        "y": 1284,
+        "z": 4
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pilar e Boss (Quest)",
+      "position": {
+        "x": 179,
+        "y": 1504,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hidan Boss (Quest)",
+      "position": {
+        "x": 982,
+        "y": 1311,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Hunt Shinobi of Sound 150+",
+      "position": {
+        "x": 895,
+        "y": 872,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hunt Heishi 350+",
+      "position": {
+        "x": 1514,
+        "y": 2058,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Passagem Ilhota",
+      "position": {
+        "x": 1014,
+        "y": 1458,
+        "z": 5
+      },
+      "icon_id": 16,
+      "tags": []
+    },
+    {
+      "id": 10,
+      "name": "Hunt Araks",
+      "position": {
+        "x": 1675,
+        "y": 3020,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Hunt Kamon Estrela 250+",
+      "position": {
+        "x": 1200,
+        "y": 1743,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Kisame Boss",
+      "position": {
+        "x": 554,
+        "y": 673,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Quest Shukaku",
+      "position": {
+        "x": 1048,
+        "y": 868,
+        "z": 7
+      },
+      "icon_id": 0,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Depot e Trainers",
+      "position": {
+        "x": 2335,
+        "y": 1475,
+        "z": 4
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 15,
+      "name": "Covil Orochimaru, Quest New Shuriken/Glove",
+      "position": {
+        "x": 567,
+        "y": 1501,
+        "z": 7
+      },
+      "icon_id": 17,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Dragon",
+      "position": {
+        "x": 235,
+        "y": 1258,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 17,
+      "name": "Kido",
+      "position": {
+        "x": 2556,
+        "y": 1051,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 18,
+      "name": "Ibuki e Iranki",
+      "position": {
+        "x": 1668,
+        "y": 2170,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 19,
+      "name": "Hunt 400+",
+      "position": {
+        "x": 185,
+        "y": 1602,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Kurama Amulet",
+      "position": {
+        "x": 512,
+        "y": 1730,
+        "z": 9
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 21,
+      "name": "Ebisu (SAGA)",
+      "position": {
+        "x": 992,
+        "y": 907,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 22,
+      "name": "Hunt Ibuki e Iranki 2 - 350+",
+      "position": {
+        "x": 1692,
+        "y": 2240,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Bau (Use Jump Up)",
+      "position": {
+        "x": 904,
+        "y": 791,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 24,
+      "name": "Boss Quest",
+      "position": {
+        "x": 234,
+        "y": 1451,
+        "z": 6
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Hunt Heishi e Miratsu 350+",
+      "position": {
+        "x": 1517,
+        "y": 2075,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Hunt 450+ (Diversos Mobs)",
+      "position": {
+        "x": 2452,
+        "y": 1026,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Hunts 350+ e Rei de Pedra",
+      "position": {
+        "x": 1552,
+        "y": 3357,
+        "z": 6
+      },
+      "icon_id": 16,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Anbu Yagito (SAGA)",
+      "position": {
+        "x": 1016,
+        "y": 962,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 29,
+      "name": "Hunt Wamu 400+",
+      "position": {
+        "x": 2247,
+        "y": 1280,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Necessario ter concluido a SAGA Resgate do Kazekage para acessar o local",
+      "position": {
+        "x": 507,
+        "y": 1258,
+        "z": 7
+      },
+      "icon_id": 1,
+      "tags": []
+    },
+    {
+      "id": 31,
+      "name": "Dungeon Bosses",
+      "position": {
+        "x": 980,
+        "y": 1116,
+        "z": 4
+      },
+      "icon_id": 12,
+      "tags": [
+        "boss",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Baus",
+      "position": {
+        "x": 556,
+        "y": 769,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 33,
+      "name": "Hunt Mamushi",
+      "position": {
+        "x": 1565,
+        "y": 3079,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Ponte Kirigakure",
+      "position": {
+        "x": 1026,
+        "y": 1099,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 35,
+      "name": "jump",
+      "position": {
+        "x": 781,
+        "y": 1117,
+        "z": 9
+      },
+      "icon_id": 0,
+      "tags": []
+    },
+    {
+      "id": 36,
+      "name": "Hunt Vampire e Vampire Mutated 300+",
+      "position": {
+        "x": 832,
+        "y": 1924,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Hunt Skeletons 200+",
+      "position": {
+        "x": 869,
+        "y": 962,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Hunt Giant Furie 150 a 350",
+      "position": {
+        "x": 1476,
+        "y": 1094,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Bau (Use Jump Up)",
+      "position": {
+        "x": 915,
+        "y": 800,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 40,
+      "name": "Hunt 350+ e Dungeon Sasori",
+      "position": {
+        "x": 1103,
+        "y": 1525,
+        "z": 7
+      },
+      "icon_id": 14,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Hunt 250+/Quest Kisame/Baus Cachoeira",
+      "position": {
+        "x": 557,
+        "y": 858,
+        "z": 7
+      },
+      "icon_id": 14,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Hunt 250+ (Diversos Mobs em cada caminho)",
+      "position": {
+        "x": 931,
+        "y": 985,
+        "z": 11
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pilar e Boss (Quest)",
+      "position": {
+        "x": 264,
+        "y": 1522,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Quests",
+      "position": {
+        "x": 981,
+        "y": 1336,
+        "z": 12
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Quest Tartaro e Hunts 350+",
+      "position": {
+        "x": 1179,
+        "y": 1735,
+        "z": 5
+      },
+      "icon_id": 15,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Hunts 350+ e Quest New Boots",
+      "position": {
+        "x": 1345,
+        "y": 1425,
+        "z": 7
+      },
+      "icon_id": 15,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Depot",
+      "position": {
+        "x": 717,
+        "y": 1109,
+        "z": 7
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 48,
+      "name": "Hunt Scorpion 350+",
+      "position": {
+        "x": 982,
+        "y": 1790,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Hunt Sword Man 150+",
+      "position": {
+        "x": 730,
+        "y": 869,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Hunt Shinobi Archer 150+",
+      "position": {
+        "x": 1127,
+        "y": 1326,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Bau",
+      "position": {
+        "x": 990,
+        "y": 1046,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 52,
+      "name": "Anko (SAGA)",
+      "position": {
+        "x": 962,
+        "y": 913,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 53,
+      "name": "Depot",
+      "position": {
+        "x": 1483,
+        "y": 1051,
+        "z": 7
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 54,
+      "name": "Trainers",
+      "position": {
+        "x": 2324,
+        "y": 1444,
+        "z": 3
+      },
+      "icon_id": 8,
+      "tags": []
+    },
+    {
+      "id": 55,
+      "name": "Boss Craft",
+      "position": {
+        "x": 2212,
+        "y": 1038,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Dungeon Jya",
+      "position": {
+        "x": 1707,
+        "y": 1252,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Hunt Venom Snake 200+ e Quests Hidan e Kakuzu",
+      "position": {
+        "x": 1075,
+        "y": 1331,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Dungeon Sasori",
+      "position": {
+        "x": 1135,
+        "y": 1373,
+        "z": 6
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Hunt 300+ (Konchu, Konchu Doku e Venom Scorpion)",
+      "position": {
+        "x": 1480,
+        "y": 1767,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Hospital",
+      "position": {
+        "x": 1067,
+        "y": 907,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 61,
+      "name": "Hunts 350+ e Rei Floresta",
+      "position": {
+        "x": 1534,
+        "y": 3338,
+        "z": 6
+      },
+      "icon_id": 14,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Hunt Akatsuki 250+",
+      "position": {
+        "x": 800,
+        "y": 1111,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Hunt Ribaiasan",
+      "position": {
+        "x": 1731,
+        "y": 1828,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Vale do fim",
+      "position": {
+        "x": 958,
+        "y": 821,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 65,
+      "name": "Hunt Tsukyojin",
+      "position": {
+        "x": 2238,
+        "y": 1306,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Hunts 350+/SAGA/Island Tsuin/Dungeon Scorpion/Quest Kurama Amulet/Quest Akamanto",
+      "position": {
+        "x": 312,
+        "y": 1535,
+        "z": 7
+      },
+      "icon_id": 15,
+      "tags": [
+        "hunt",
+        "quest",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Hunt Kido 500+",
+      "position": {
+        "x": 2519,
+        "y": 1026,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Passagem Kumogakure",
+      "position": {
+        "x": 2111,
+        "y": 1274,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 69,
+      "name": "Sand Sc2",
+      "position": {
+        "x": 528,
+        "y": 1084,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 70,
+      "name": "Npc Craft",
+      "position": {
+        "x": 2506,
+        "y": 1038,
+        "z": 7
+      },
+      "icon_id": 3,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Zyhan",
+      "position": {
+        "x": 1862,
+        "y": 3293,
+        "z": 2
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 72,
+      "name": "Hunt Skeleton 200+",
+      "position": {
+        "x": 905,
+        "y": 899,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Daimyo (trocar vila)",
+      "position": {
+        "x": 1922,
+        "y": 1284,
+        "z": 3
+      },
+      "icon_id": 3,
+      "tags": []
+    },
+    {
+      "id": 74,
+      "name": "Hunt 500+",
+      "position": {
+        "x": 2410,
+        "y": 1063,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Exame Chunin (SAGA)",
+      "position": {
+        "x": 960,
+        "y": 887,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 76,
+      "name": "Hunt Jya 300+",
+      "position": {
+        "x": 1753,
+        "y": 1239,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Passagem Amegakure",
+      "position": {
+        "x": 1049,
+        "y": 1460,
+        "z": 6
+      },
+      "icon_id": 17,
+      "tags": []
+    },
+    {
+      "id": 78,
+      "name": "Trainers",
+      "position": {
+        "x": 1121,
+        "y": 1183,
+        "z": 7
+      },
+      "icon_id": 8,
+      "tags": []
+    },
+    {
+      "id": 79,
+      "name": "Hunt Gamaguren 100+",
+      "position": {
+        "x": 1187,
+        "y": 927,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Hunt Araks 400+",
+      "position": {
+        "x": 1205,
+        "y": 3205,
+        "z": 6
+      },
+      "icon_id": 16,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Npc Pain (Npc que te coloca na Akatsuki)",
+      "position": {
+        "x": 990,
+        "y": 1449,
+        "z": 3
+      },
+      "icon_id": 3,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Anbu e Black Shinobi",
+      "position": {
+        "x": 1094,
+        "y": 1354,
+        "z": 10
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 83,
+      "name": "A quest pode ser realizada de 3 em 3 dias",
+      "position": {
+        "x": 1126,
+        "y": 1943,
+        "z": 8
+      },
+      "icon_id": 1,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Hunt 250+ (Skeleton Fear e Supreme Skeleton)",
+      "position": {
+        "x": 807,
+        "y": 1308,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Dungeon Tower (Piramide 2)",
+      "position": {
+        "x": 57,
+        "y": 1267,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Ibuki e Iranki",
+      "position": {
+        "x": 1450,
+        "y": 2162,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 87,
+      "name": "Hunt Supreme Sand 350+",
+      "position": {
+        "x": 172,
+        "y": 1053,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Hunt Aracnideo 450+",
+      "position": {
+        "x": 1424,
+        "y": 1627,
+        "z": 6
+      },
+      "icon_id": 0,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Hospital (2° andar)",
+      "position": {
+        "x": 968,
+        "y": 1431,
+        "z": 5
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 90,
+      "name": "Ibuki e Iranki",
+      "position": {
+        "x": 1478,
+        "y": 2348,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 91,
+      "name": "Bau",
+      "position": {
+        "x": 573,
+        "y": 770,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 92,
+      "name": "Hunt Aracnideo 450+",
+      "position": {
+        "x": 1337,
+        "y": 1465,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Dungeon Deidara e Hunt Akatsuki (Clique na cortina com o botao direito)",
+      "position": {
+        "x": 794,
+        "y": 1131,
+        "z": 8
+      },
+      "icon_id": 14,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Hunt Skeletons 200+",
+      "position": {
+        "x": 799,
+        "y": 986,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Dungeon Yoth",
+      "position": {
+        "x": 926,
+        "y": 1244,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Hunt Anbu",
+      "position": {
+        "x": 1235,
+        "y": 1408,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Npc Loteria",
+      "position": {
+        "x": 1053,
+        "y": 912,
+        "z": 6
+      },
+      "icon_id": 3,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Hunts Jaakuna Tako 300+ (Subindo as rochas são Hunts de Kyojin 350+)",
+      "position": {
+        "x": 1465,
+        "y": 1811,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Hunts Tsuyoi Kyojin 350+",
+      "position": {
+        "x": 1456,
+        "y": 1815,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Sunagakure (Cidade, Hunts, Quests e Dungeons)",
+      "position": {
+        "x": 682,
+        "y": 864,
+        "z": 7
+      },
+      "icon_id": 17,
+      "tags": [
+        "hunt",
+        "quest",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Pain Boss (QUEST) e Hunt 300+",
+      "position": {
+        "x": 769,
+        "y": 886,
+        "z": 7
+      },
+      "icon_id": 16,
+      "tags": [
+        "hunt",
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Great Snakes e Giants - Nivel 200+",
+      "position": {
+        "x": 934,
+        "y": 1095,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 103,
+      "name": "Doragons - Nivel 450+",
+      "position": {
+        "x": 671,
+        "y": 1624,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 104,
+      "name": "Tsunade (aliance Shinobi e Missao Diaria)",
+      "position": {
+        "x": 1002,
+        "y": 889,
+        "z": 5
+      },
+      "icon_id": 3,
+      "tags": []
+    },
+    {
+      "id": 105,
+      "name": "Npc Zoltan (Task Fama)",
+      "position": {
+        "x": 128,
+        "y": 1304,
+        "z": 6
+      },
+      "icon_id": 3,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Wamu, Eirian e Vermion (Hunt perigosa 550+)",
+      "position": {
+        "x": 2651,
+        "y": 1330,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Hunt Insecnoide 200+",
+      "position": {
+        "x": 900,
+        "y": 894,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Floresta Mizuki (SAGA)",
+      "position": {
+        "x": 1110,
+        "y": 930,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 109,
+      "name": "Inicio Quest",
+      "position": {
+        "x": 2127,
+        "y": 1232,
+        "z": 8
+      },
+      "icon_id": 2,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Alavanca",
+      "position": {
+        "x": 1478,
+        "y": 1283,
+        "z": 9
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 111,
+      "name": "Npc Sakura (Bless)",
+      "position": {
+        "x": 1138,
+        "y": 1169,
+        "z": 7
+      },
+      "icon_id": 3,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Quest Matatabi e Hunt Gedou Skeleton",
+      "position": {
+        "x": 129,
+        "y": 1032,
+        "z": 7
+      },
+      "icon_id": 14,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Hunt 550+",
+      "position": {
+        "x": 2458,
+        "y": 1088,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Inicio Kinkaku Quest (Caminho da quest podem ser usados como Hunt de up 350+)",
+      "position": {
+        "x": 511,
+        "y": 1259,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Escada",
+      "position": {
+        "x": 1676,
+        "y": 3020,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 116,
+      "name": "Werewolfs",
+      "position": {
+        "x": 1110,
+        "y": 3188,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 117,
+      "name": "Snake Najin 200+",
+      "position": {
+        "x": 1384,
+        "y": 995,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 118,
+      "name": "Dungeon Minato",
+      "position": {
+        "x": 980,
+        "y": 1109,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Store",
+      "position": {
+        "x": 2333,
+        "y": 1491,
+        "z": 4
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 120,
+      "name": "Wamu e Eirian",
+      "position": {
+        "x": 2239,
+        "y": 1306,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 121,
+      "name": "Predio Tsuchikage (SAGA, Aliance e QUEST SELO)",
+      "position": {
+        "x": 1901,
+        "y": 1318,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Hunt Eirian 550+",
+      "position": {
+        "x": 2259,
+        "y": 1280,
+        "z": 10
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Hunt Yoth e Kamon 200+",
+      "position": {
+        "x": 1266,
+        "y": 1237,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Store - potions",
+      "position": {
+        "x": 976,
+        "y": 1472,
+        "z": 5
+      },
+      "icon_id": 3,
+      "tags": []
+    },
+    {
+      "id": 125,
+      "name": "Hunt Insecnoide 200+",
+      "position": {
+        "x": 648,
+        "y": 890,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Quest New Shuriken/Glove",
+      "position": {
+        "x": 503,
+        "y": 1466,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Depot",
+      "position": {
+        "x": 1025,
+        "y": 919,
+        "z": 7
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 128,
+      "name": "Ponte Iwagakure",
+      "position": {
+        "x": 1554,
+        "y": 1275,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 129,
+      "name": "Hunt Dog Fear 250+",
+      "position": {
+        "x": 851,
+        "y": 1284,
+        "z": 9
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Ponte Para Kirigakure",
+      "position": {
+        "x": 1278,
+        "y": 1145,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 131,
+      "name": "Minoru",
+      "position": {
+        "x": 1022,
+        "y": 905,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 132,
+      "name": "Hunt 400+ (Todo caminho pode ser utilizado como Hunt de UP, há diversos Mobs no caminho, Cuidado!)",
+      "position": {
+        "x": 455,
+        "y": 1456,
+        "z": 9
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Jaakuna Tako",
+      "position": {
+        "x": 1466,
+        "y": 1794,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 134,
+      "name": "Dungeon Heishi e Hunt Heishi/Akamanto",
+      "position": {
+        "x": 792,
+        "y": 1503,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Hunt Konchu 200+",
+      "position": {
+        "x": 2120,
+        "y": 1269,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Caminho para Covil Akatsuki e South Florest",
+      "position": {
+        "x": 751,
+        "y": 1423,
+        "z": 7
+      },
+      "icon_id": 14,
+      "tags": []
+    },
+    {
+      "id": 137,
+      "name": "Hunts nivel 200+ e Sasuke Boss",
+      "position": {
+        "x": 919,
+        "y": 1086,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt",
+        "boss"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Pilar e Boss (Quest)",
+      "position": {
+        "x": 188,
+        "y": 1449,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Hunt 450+/Kurama Amulet (Quest)/Dungeon Scorpion",
+      "position": {
+        "x": 317,
+        "y": 1630,
+        "z": 4
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Dungeon Yoth",
+      "position": {
+        "x": 928,
+        "y": 1239,
+        "z": 5
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Pilar Quest",
+      "position": {
+        "x": 183,
+        "y": 1537,
+        "z": 4
+      },
+      "icon_id": 2,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Rei Floresta",
+      "position": {
+        "x": 1558,
+        "y": 3263,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 143,
+      "name": "Hunt Akatsuki 250+",
+      "position": {
+        "x": 796,
+        "y": 1107,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Termais (Stamina Refill)",
+      "position": {
+        "x": 2311,
+        "y": 1488,
+        "z": 5
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 145,
+      "name": "Quest Geleira",
+      "position": {
+        "x": 1504,
+        "y": 1246,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Covil Akatsuki",
+      "position": {
+        "x": 800,
+        "y": 1227,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 147,
+      "name": "Hunt Renegades 150+",
+      "position": {
+        "x": 939,
+        "y": 1173,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Hunt Skeleton - Nivel 200+",
+      "position": {
+        "x": 907,
+        "y": 911,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Hunt Wamu",
+      "position": {
+        "x": 1446,
+        "y": 1760,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Hunt Araks",
+      "position": {
+        "x": 1270,
+        "y": 3218,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Store (Potions e etc)",
+      "position": {
+        "x": 1831,
+        "y": 1248,
+        "z": 6
+      },
+      "icon_id": 10,
+      "tags": []
+    },
+    {
+      "id": 152,
+      "name": "Matatabi",
+      "position": {
+        "x": 138,
+        "y": 805,
+        "z": 8
+      },
+      "icon_id": 4,
+      "tags": []
+    },
+    {
+      "id": 153,
+      "name": "Hunt Zetsu 450+",
+      "position": {
+        "x": 706,
+        "y": 1138,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Hunt Wamu",
+      "position": {
+        "x": 1455,
+        "y": 1838,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Beezer, Danzou, Jiraya (Acesso quest 700)",
+      "position": {
+        "x": 1025,
+        "y": 927,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Dungeon Renegade",
+      "position": {
+        "x": 867,
+        "y": 995,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Hunt Werewolfs",
+      "position": {
+        "x": 1176,
+        "y": 3148,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Hunt 350+",
+      "position": {
+        "x": 565,
+        "y": 1312,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Amegakure",
+      "position": {
+        "x": 563,
+        "y": 1500,
+        "z": 6
+      },
+      "icon_id": 16,
+      "tags": []
+    },
+    {
+      "id": 160,
+      "name": "Hunt Tsukyojin 350+",
+      "position": {
+        "x": 2237,
+        "y": 1287,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Kinkaku Boss",
+      "position": {
+        "x": 356,
+        "y": 1664,
+        "z": 8
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Dragon",
+      "position": {
+        "x": 86,
+        "y": 1332,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 163,
+      "name": "Portal Trainers",
+      "position": {
+        "x": 995,
+        "y": 917,
+        "z": 5
+      },
+      "icon_id": 8,
+      "tags": []
+    },
+    {
+      "id": 164,
+      "name": "Sasori Boss (Quest)",
+      "position": {
+        "x": 1185,
+        "y": 1285,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Quest Susano Armor",
+      "position": {
+        "x": 643,
+        "y": 1669,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Hunt Skeletons - Nivel 200+",
+      "position": {
+        "x": 862,
+        "y": 956,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Hunt 500+",
+      "position": {
+        "x": 2490,
+        "y": 1002,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Hunts",
+      "position": {
+        "x": 1852,
+        "y": 3483,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Hunt Yoth Furie 200+",
+      "position": {
+        "x": 912,
+        "y": 1220,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Hunt Skeletons - Nivel 200+",
+      "position": {
+        "x": 802,
+        "y": 999,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Hunt Dark Snake - Nivel 100+",
+      "position": {
+        "x": 1050,
+        "y": 1052,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Hunt Gamaguren - Nivel 150+",
+      "position": {
+        "x": 793,
+        "y": 859,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Bau",
+      "position": {
+        "x": 609,
+        "y": 837,
+        "z": 6
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 174,
+      "name": "Quest Kurama Amulet (De use na cachoeira)",
+      "position": {
+        "x": 512,
+        "y": 1749,
+        "z": 10
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Ishikawa e Godokawa 1",
+      "position": {
+        "x": 2123,
+        "y": 1382,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 176,
+      "name": "Portal Inicio Quest Susano Armor",
+      "position": {
+        "x": 1870,
+        "y": 2081,
+        "z": 8
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Minoru",
+      "position": {
+        "x": 1424,
+        "y": 2030,
+        "z": 6
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 178,
+      "name": "Jounin Renegade (SAGA)",
+      "position": {
+        "x": 910,
+        "y": 978,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 179,
+      "name": "Alavanca",
+      "position": {
+        "x": 1532,
+        "y": 1249,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 180,
+      "name": "Hunt Hebi Shiro/Scorpion/Bikkubado",
+      "position": {
+        "x": 987,
+        "y": 1756,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Bikkubados",
+      "position": {
+        "x": 396,
+        "y": 1763,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 182,
+      "name": "Hunt Dark Snake e Baus",
+      "position": {
+        "x": 1022,
+        "y": 1025,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Npc Pain (ultimo andar)",
+      "position": {
+        "x": 989,
+        "y": 1452,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Hunt Ultimate Skeleton 350+",
+      "position": {
+        "x": 822,
+        "y": 1770,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Hunt 450+",
+      "position": {
+        "x": 1506,
+        "y": 1279,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Subterraneo (Acesso Depot e Ilha Bijuus)",
+      "position": {
+        "x": 1067,
+        "y": 905,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 187,
+      "name": "Hunt Kimimaro 250+",
+      "position": {
+        "x": 482,
+        "y": 1199,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Quest New Armor (Inicio Topo da Piramide)",
+      "position": {
+        "x": 129,
+        "y": 1238,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 189,
+      "name": "Hunt Ibuki e Iranki 1 - 350+",
+      "position": {
+        "x": 2148,
+        "y": 1469,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Hunt Karasu 300+",
+      "position": {
+        "x": 501,
+        "y": 1605,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Quest New Boots",
+      "position": {
+        "x": 1470,
+        "y": 1614,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "Pain Boss",
+      "position": {
+        "x": 743,
+        "y": 816,
+        "z": 9
+      },
+      "icon_id": 18,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Temari (SAGA)",
+      "position": {
+        "x": 595,
+        "y": 1119,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 194,
+      "name": "Ishikawa e Godokawa 2",
+      "position": {
+        "x": 2151,
+        "y": 1571,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 195,
+      "name": "Spawn Bijuu (Spawns de 3h em 3h - 00h, 03h, 06h, 09h, 12h, 15h, 18h, 21h)",
+      "position": {
+        "x": 1125,
+        "y": 892,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 196,
+      "name": "Hunt Dog Fear e Quest Itachi",
+      "position": {
+        "x": 822,
+        "y": 1239,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Dungeon Tower (Piramide 4)",
+      "position": {
+        "x": 190,
+        "y": 1234,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Store - Potions",
+      "position": {
+        "x": 713,
+        "y": 1098,
+        "z": 7
+      },
+      "icon_id": 10,
+      "tags": []
+    },
+    {
+      "id": 199,
+      "name": "Hunt Renegades 150+ (Rotação da Hunt vai até Minoru de south florest)",
+      "position": {
+        "x": 924,
+        "y": 1109,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Hunts",
+      "position": {
+        "x": 1695,
+        "y": 3347,
+        "z": 4
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 201,
+      "name": "Entre na teia para prosseguir",
+      "position": {
+        "x": 1539,
+        "y": 1514,
+        "z": 8
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 202,
+      "name": "Kazekage",
+      "position": {
+        "x": 720,
+        "y": 1099,
+        "z": 5
+      },
+      "icon_id": 3,
+      "tags": []
+    },
+    {
+      "id": 203,
+      "name": "Hunt Heishin, Akamanto, Supreme Skeleton 300+",
+      "position": {
+        "x": 809,
+        "y": 1448,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "Rei Floresta",
+      "position": {
+        "x": 1539,
+        "y": 3250,
+        "z": 5
+      },
+      "icon_id": 4,
+      "tags": []
+    },
+    {
+      "id": 205,
+      "name": "Bau",
+      "position": {
+        "x": 982,
+        "y": 809,
+        "z": 4
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 206,
+      "name": "Caminho para Iwagakure",
+      "position": {
+        "x": 1248,
+        "y": 982,
+        "z": 7
+      },
+      "icon_id": 16,
+      "tags": []
+    },
+    {
+      "id": 207,
+      "name": "Hunt Araks 400+",
+      "position": {
+        "x": 1344,
+        "y": 3272,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Dungeon Gaara",
+      "position": {
+        "x": 785,
+        "y": 895,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 209,
+      "name": "Continuação Quest",
+      "position": {
+        "x": 1539,
+        "y": 1539,
+        "z": 9
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 210,
+      "name": "Continuação Quest",
+      "position": {
+        "x": 1560,
+        "y": 1503,
+        "z": 9
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Dark Snake",
+      "position": {
+        "x": 1091,
+        "y": 1345,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 212,
+      "name": "Hunt Werewolf",
+      "position": {
+        "x": 1575,
+        "y": 2962,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 213,
+      "name": "Zyhan",
+      "position": {
+        "x": 1572,
+        "y": 2947,
+        "z": 2
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 214,
+      "name": "Boss Final (Quest Akamanto)",
+      "position": {
+        "x": 109,
+        "y": 1409,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 215,
+      "name": "Dungeon Bosses (No topo da montanha)",
+      "position": {
+        "x": 985,
+        "y": 1093,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "boss",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 216,
+      "name": "Hunts Hebi Shiro, Scorpion e Bikkubado - Acesso Quest Tartaro",
+      "position": {
+        "x": 1133,
+        "y": 1883,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 217,
+      "name": "Hunt Aracnideo 450+",
+      "position": {
+        "x": 1356,
+        "y": 1572,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Trainers",
+      "position": {
+        "x": 997,
+        "y": 917,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 219,
+      "name": "Dungeon Tower (Piramide 1)",
+      "position": {
+        "x": 62,
+        "y": 1331,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Hunt Gedou Dog 250+",
+      "position": {
+        "x": 418,
+        "y": 1417,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Scorpion e Quest Tartaro",
+      "position": {
+        "x": 1104,
+        "y": 1968,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 222,
+      "name": "Portal Quest",
+      "position": {
+        "x": 1849,
+        "y": 2101,
+        "z": 9
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 223,
+      "name": "Minoru",
+      "position": {
+        "x": 1319,
+        "y": 1674,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 224,
+      "name": "Bau",
+      "position": {
+        "x": 516,
+        "y": 761,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 225,
+      "name": "Ishikawa e Godokawa 2",
+      "position": {
+        "x": 1669,
+        "y": 2164,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 226,
+      "name": "Hunt Supreme Skeleton 250+",
+      "position": {
+        "x": 827,
+        "y": 1383,
+        "z": 9
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Bau",
+      "position": {
+        "x": 883,
+        "y": 917,
+        "z": 11
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 228,
+      "name": "Hunt Scorpion e Quest Kurama Amulet",
+      "position": {
+        "x": 431,
+        "y": 1767,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Depot",
+      "position": {
+        "x": 2467,
+        "y": 1056,
+        "z": 7
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 230,
+      "name": "Hospital",
+      "position": {
+        "x": 1134,
+        "y": 1185,
+        "z": 7
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 231,
+      "name": "Hunt Black Death 350+",
+      "position": {
+        "x": 838,
+        "y": 1697,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 232,
+      "name": "Hunt Rounin Waraji 450+ (Task Hagoromo)",
+      "position": {
+        "x": 1747,
+        "y": 1403,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Beezer (Hunt)",
+      "position": {
+        "x": 1010,
+        "y": 922,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 234,
+      "name": "Ponte Kirigakure, Hunts, Dungeon Jya",
+      "position": {
+        "x": 1806,
+        "y": 1252,
+        "z": 5
+      },
+      "icon_id": 17,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Boss Quest",
+      "position": {
+        "x": 185,
+        "y": 1533,
+        "z": 4
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Quest Tartaro",
+      "position": {
+        "x": 1132,
+        "y": 1944,
+        "z": 4
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Quest New Shuriken/Glove",
+      "position": {
+        "x": 521,
+        "y": 1415,
+        "z": 5
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Sakura (Bless)",
+      "position": {
+        "x": 719,
+        "y": 1099,
+        "z": 6
+      },
+      "icon_id": 3,
+      "tags": []
+    },
+    {
+      "id": 239,
+      "name": "Hunt e Dungeon",
+      "position": {
+        "x": 1025,
+        "y": 1207,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Quest Selo",
+      "position": {
+        "x": 1926,
+        "y": 1284,
+        "z": 5
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Hunt Werewolf",
+      "position": {
+        "x": 1872,
+        "y": 3290,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Hunt 500+ (diversos mobs)",
+      "position": {
+        "x": 2513,
+        "y": 1016,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Portal para Kakuzu Boss (Quest)",
+      "position": {
+        "x": 1001,
+        "y": 1309,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Hunts 350+ e Rei de Gelo",
+      "position": {
+        "x": 1513,
+        "y": 3358,
+        "z": 6
+      },
+      "icon_id": 17,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Hunt Scorpion 350+",
+      "position": {
+        "x": 1073,
+        "y": 1954,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Hunt Miratsu, Dokuhebi e Scorpion - Nivel 400+",
+      "position": {
+        "x": 98,
+        "y": 1248,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Depot",
+      "position": {
+        "x": 988,
+        "y": 1457,
+        "z": 5
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 248,
+      "name": "Hunt Kido 500+",
+      "position": {
+        "x": 2467,
+        "y": 1017,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Mizuki (SAGA 1)",
+      "position": {
+        "x": 1014,
+        "y": 898,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 250,
+      "name": "Hunt Keshin, Vampire Mutated, Skeleton Fear - Nivel 450+",
+      "position": {
+        "x": 690,
+        "y": 1579,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Teste Anbu (SAGA)",
+      "position": {
+        "x": 1030,
+        "y": 873,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 252,
+      "name": "Bau (Elo Points)",
+      "position": {
+        "x": 989,
+        "y": 1034,
+        "z": 5
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 253,
+      "name": "Hunt Aranto e Aronak 350+",
+      "position": {
+        "x": 1443,
+        "y": 1602,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Dungeon Tower (Piramide 1)",
+      "position": {
+        "x": 63,
+        "y": 1315,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Itachi Boss",
+      "position": {
+        "x": 802,
+        "y": 1251,
+        "z": 8
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Hunt Supreme Skeleton 250+",
+      "position": {
+        "x": 797,
+        "y": 1339,
+        "z": 9
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Arachir (Boss)",
+      "position": {
+        "x": 1614,
+        "y": 1578,
+        "z": 8
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Passagem para Iwagakure",
+      "position": {
+        "x": 1705,
+        "y": 1150,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 259,
+      "name": "Gamaguren",
+      "position": {
+        "x": 606,
+        "y": 976,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 260,
+      "name": "Store - food",
+      "position": {
+        "x": 722,
+        "y": 1098,
+        "z": 7
+      },
+      "icon_id": 10,
+      "tags": []
+    },
+    {
+      "id": 261,
+      "name": "Quest Sasori",
+      "position": {
+        "x": 1186,
+        "y": 1293,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Hunt Kamon Estrela",
+      "position": {
+        "x": 1070,
+        "y": 1650,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Hunt 400+ (Akaname e Akamanto)",
+      "position": {
+        "x": 159,
+        "y": 1533,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Escada para termais",
+      "position": {
+        "x": 969,
+        "y": 1494,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 265,
+      "name": "Hunt Eirian",
+      "position": {
+        "x": 2326,
+        "y": 1312,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Hunts 200+ e Sasuke Boss",
+      "position": {
+        "x": 929,
+        "y": 1016,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "boss"
+      ]
+    },
+    {
+      "id": 267,
+      "name": "Akatsuki",
+      "position": {
+        "x": 797,
+        "y": 1178,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 268,
+      "name": "Boss Quest",
+      "position": {
+        "x": 171,
+        "y": 1440,
+        "z": 4
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Hunt Devil 250+",
+      "position": {
+        "x": 834,
+        "y": 1688,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 270,
+      "name": "Dungeon Ibuki",
+      "position": {
+        "x": 2164,
+        "y": 1451,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 271,
+      "name": "Ibuki e Iranki",
+      "position": {
+        "x": 1696,
+        "y": 2356,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 272,
+      "name": "Hunt Dino 300+",
+      "position": {
+        "x": 1829,
+        "y": 1045,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 273,
+      "name": "Hunt Gedou Skeleton 300+",
+      "position": {
+        "x": 145,
+        "y": 896,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 274,
+      "name": "Dungeon Jouzetsu",
+      "position": {
+        "x": 653,
+        "y": 1601,
+        "z": 5
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 275,
+      "name": "Island Tsuin (Hunt 400+ e Quest Akamanto)",
+      "position": {
+        "x": 285,
+        "y": 1573,
+        "z": 4
+      },
+      "icon_id": 14,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 276,
+      "name": "Dungeon Heishi",
+      "position": {
+        "x": 811,
+        "y": 1472,
+        "z": 2
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 277,
+      "name": "Alavanca",
+      "position": {
+        "x": 1536,
+        "y": 1182,
+        "z": 9
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 278,
+      "name": "Bandits e Bau",
+      "position": {
+        "x": 983,
+        "y": 999,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 279,
+      "name": "Dungeon Tobirama",
+      "position": {
+        "x": 901,
+        "y": 1174,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Bandits e Bau",
+      "position": {
+        "x": 981,
+        "y": 987,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 281,
+      "name": "Hunt Scorpion 350+",
+      "position": {
+        "x": 1013,
+        "y": 1831,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 282,
+      "name": "Hunt Gamaguren 150+",
+      "position": {
+        "x": 561,
+        "y": 980,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 283,
+      "name": "Doragon 450+",
+      "position": {
+        "x": 683,
+        "y": 1642,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 284,
+      "name": "Hunt Floresta 350+ (Diversos Mobs)",
+      "position": {
+        "x": 1639,
+        "y": 1828,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Pain Boss e Hunt 300+",
+      "position": {
+        "x": 806,
+        "y": 902,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "boss"
+      ]
+    },
+    {
+      "id": 286,
+      "name": "Caminho para South Florest",
+      "position": {
+        "x": 938,
+        "y": 1127,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 287,
+      "name": "Pilar e Boss (Quest)",
+      "position": {
+        "x": 216,
+        "y": 1538,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 288,
+      "name": "Hunt 450+",
+      "position": {
+        "x": 309,
+        "y": 1724,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Hunt snakes 350+ (diversos mobs snakes, jya, snake najin e etc)",
+      "position": {
+        "x": 639,
+        "y": 1653,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Zyhan",
+      "position": {
+        "x": 1205,
+        "y": 3164,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 291,
+      "name": "Depot",
+      "position": {
+        "x": 1158,
+        "y": 1193,
+        "z": 7
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 292,
+      "name": "Eirian",
+      "position": {
+        "x": 1868,
+        "y": 1863,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 293,
+      "name": "Boss Matatabi (portal)",
+      "position": {
+        "x": 141,
+        "y": 827,
+        "z": 8
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Construtor (SAGA)",
+      "position": {
+        "x": 1014,
+        "y": 872,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 295,
+      "name": "Iruka (SAGA)",
+      "position": {
+        "x": 1086,
+        "y": 946,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 296,
+      "name": "Hunt Scorpion 400+",
+      "position": {
+        "x": 450,
+        "y": 1772,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 297,
+      "name": "Minoru",
+      "position": {
+        "x": 2450,
+        "y": 1040,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 298,
+      "name": "Store (Food)",
+      "position": {
+        "x": 2474,
+        "y": 1040,
+        "z": 7
+      },
+      "icon_id": 10,
+      "tags": []
+    },
+    {
+      "id": 299,
+      "name": "Kakuzu Bosss (Quest)",
+      "position": {
+        "x": 1039,
+        "y": 1285,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Bau",
+      "position": {
+        "x": 364,
+        "y": 832,
+        "z": 6
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 301,
+      "name": "jump",
+      "position": {
+        "x": 792,
+        "y": 1109,
+        "z": 9
+      },
+      "icon_id": 0,
+      "tags": []
+    },
+    {
+      "id": 302,
+      "name": "Hunt Wamu 400+",
+      "position": {
+        "x": 2571,
+        "y": 1299,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 303,
+      "name": "Arena e Trainers",
+      "position": {
+        "x": 1000,
+        "y": 914,
+        "z": 7
+      },
+      "icon_id": 17,
+      "tags": []
+    },
+    {
+      "id": 304,
+      "name": "Wamu",
+      "position": {
+        "x": 2562,
+        "y": 1324,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 305,
+      "name": "Hunt Renegade",
+      "position": {
+        "x": 563,
+        "y": 747,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 306,
+      "name": "Hunt Yoth Furie 200+",
+      "position": {
+        "x": 1014,
+        "y": 1226,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 307,
+      "name": "Zyhan",
+      "position": {
+        "x": 1611,
+        "y": 2965,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 308,
+      "name": "Passagem Suna",
+      "position": {
+        "x": 516,
+        "y": 1036,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 309,
+      "name": "Entrada Covil Akatsuki (Fuin Kai, abre a passagem, necessario SAGA Resgate Kazekage) - Dungeon Deidara",
+      "position": {
+        "x": 799,
+        "y": 1206,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 310,
+      "name": "Hunt 400+",
+      "position": {
+        "x": 436,
+        "y": 1585,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 311,
+      "name": "Pilar e Boss (Quest)",
+      "position": {
+        "x": 67,
+        "y": 1546,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 312,
+      "name": "Quest pode ser feita duas vezes para pegar duas armas (Tutorial no Discord)",
+      "position": {
+        "x": 516,
+        "y": 1414,
+        "z": 7
+      },
+      "icon_id": 1,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Escada",
+      "position": {
+        "x": 639,
+        "y": 1303,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 314,
+      "name": "Hunt Bikkubado 350+",
+      "position": {
+        "x": 1062,
+        "y": 1913,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Boss Quest",
+      "position": {
+        "x": 69,
+        "y": 1543,
+        "z": 5
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 316,
+      "name": "Hunts 200+ e Sasuke Boss",
+      "position": {
+        "x": 910,
+        "y": 1085,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "boss"
+      ]
+    },
+    {
+      "id": 317,
+      "name": "Hunt Giant Fear 200+",
+      "position": {
+        "x": 934,
+        "y": 968,
+        "z": 10
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 318,
+      "name": "Npc Chouji (Burger, Hyorogan, Pills e Kit Pills)",
+      "position": {
+        "x": 1031,
+        "y": 906,
+        "z": 7
+      },
+      "icon_id": 3,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Hunt Kamon 250+",
+      "position": {
+        "x": 974,
+        "y": 1639,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 320,
+      "name": "Boss",
+      "position": {
+        "x": 1613,
+        "y": 1587,
+        "z": 9
+      },
+      "icon_id": 18,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 321,
+      "name": "As hunts são iguais independete do lado que siga as hunts serão iguais e terão os mesmos mobs",
+      "position": {
+        "x": 1539,
+        "y": 3361,
+        "z": 6
+      },
+      "icon_id": 1,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 322,
+      "name": "Yoth Furie e Kamon",
+      "position": {
+        "x": 1375,
+        "y": 1265,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 323,
+      "name": "Boss Quest",
+      "position": {
+        "x": 247,
+        "y": 1519,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 324,
+      "name": "Npc Taksu (Tasks)",
+      "position": {
+        "x": 994,
+        "y": 890,
+        "z": 7
+      },
+      "icon_id": 3,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 325,
+      "name": "Ribaiasan",
+      "position": {
+        "x": 2545,
+        "y": 1291,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 326,
+      "name": "Bau",
+      "position": {
+        "x": 415,
+        "y": 1164,
+        "z": 8
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 327,
+      "name": "Passagem para Konoha",
+      "position": {
+        "x": 1719,
+        "y": 1160,
+        "z": 5
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 328,
+      "name": "Minoru",
+      "position": {
+        "x": 327,
+        "y": 1530,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 329,
+      "name": "Dungeon Yoth",
+      "position": {
+        "x": 963,
+        "y": 1231,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Hunt Mamushi 400+",
+      "position": {
+        "x": 2565,
+        "y": 1306,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 331,
+      "name": "Hunt Floresta 400+ (Diversos Mobs)",
+      "position": {
+        "x": 2404,
+        "y": 1286,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 332,
+      "name": "Caminho SAGA Sasuke",
+      "position": {
+        "x": 356,
+        "y": 1598,
+        "z": 4
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 333,
+      "name": "Hunt Araks 400+",
+      "position": {
+        "x": 2040,
+        "y": 3410,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Hunts 400+",
+      "position": {
+        "x": 1682,
+        "y": 3350,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 335,
+      "name": "Hunt Mummy 300+",
+      "position": {
+        "x": 1890,
+        "y": 1091,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 336,
+      "name": "Yudoku",
+      "position": {
+        "x": 1165,
+        "y": 3181,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 337,
+      "name": "Minoru",
+      "position": {
+        "x": 1533,
+        "y": 3362,
+        "z": 6
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 338,
+      "name": "Trainers",
+      "position": {
+        "x": 663,
+        "y": 1128,
+        "z": 7
+      },
+      "icon_id": 8,
+      "tags": []
+    },
+    {
+      "id": 339,
+      "name": "Mamushi, Ribaiasan, Wamu, Eirian e Vermion",
+      "position": {
+        "x": 2514,
+        "y": 1294,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 340,
+      "name": "Quest New Sword (pode ser feita a cada 24h)",
+      "position": {
+        "x": 1176,
+        "y": 1508,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 341,
+      "name": "Deidara Boss",
+      "position": {
+        "x": 931,
+        "y": 1036,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 342,
+      "name": "Store (Potions, Bags e etc)",
+      "position": {
+        "x": 1026,
+        "y": 941,
+        "z": 7
+      },
+      "icon_id": 10,
+      "tags": []
+    },
+    {
+      "id": 343,
+      "name": "Araks",
+      "position": {
+        "x": 1358,
+        "y": 1506,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 344,
+      "name": "Hunt 400+",
+      "position": {
+        "x": 235,
+        "y": 1745,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Depot",
+      "position": {
+        "x": 1028,
+        "y": 912,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 346,
+      "name": "Pain Boss (QUEST)",
+      "position": {
+        "x": 745,
+        "y": 813,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 347,
+      "name": "Npc Sakura (Bless)",
+      "position": {
+        "x": 719,
+        "y": 1104,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 348,
+      "name": "Hunt Kikkai 250+",
+      "position": {
+        "x": 794,
+        "y": 1073,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 349,
+      "name": "Dungeon Bandit",
+      "position": {
+        "x": 1014,
+        "y": 991,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Hunt Tayuya 250+",
+      "position": {
+        "x": 335,
+        "y": 881,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 351,
+      "name": "Termais (Stamina Refill)",
+      "position": {
+        "x": 1001,
+        "y": 949,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 352,
+      "name": "Hunts, passagem Kumogakure, Quest Craft",
+      "position": {
+        "x": 1980,
+        "y": 1280,
+        "z": 6
+      },
+      "icon_id": 16,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 353,
+      "name": "Hunt Beezer - Nivel 1 a 80",
+      "position": {
+        "x": 1006,
+        "y": 941,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 354,
+      "name": "Ultimo Boss",
+      "position": {
+        "x": 114,
+        "y": 1398,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 355,
+      "name": "Bau",
+      "position": {
+        "x": 365,
+        "y": 823,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 356,
+      "name": "Hunt Venom Snake 1 - 200+",
+      "position": {
+        "x": 1068,
+        "y": 1345,
+        "z": 11
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 357,
+      "name": "Sasuke (Apenas na SAGA)",
+      "position": {
+        "x": 721,
+        "y": 1653,
+        "z": 4
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 358,
+      "name": "Hunt Gedou Dog",
+      "position": {
+        "x": 207,
+        "y": 1310,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 359,
+      "name": "Jiroubou",
+      "position": {
+        "x": 326,
+        "y": 968,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 360,
+      "name": "Danzou (Concede permissao para acessar a Island Tsuin em Covil Orochimaru - Precisa ser Anbu)",
+      "position": {
+        "x": 1025,
+        "y": 861,
+        "z": 9
+      },
+      "icon_id": 3,
+      "tags": []
+    },
+    {
+      "id": 361,
+      "name": "Minoru",
+      "position": {
+        "x": 321,
+        "y": 1013,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 362,
+      "name": "Ishikawa e Godokawa 4",
+      "position": {
+        "x": 1696,
+        "y": 2346,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 363,
+      "name": "Yudoku",
+      "position": {
+        "x": 1571,
+        "y": 2982,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 364,
+      "name": "Scorpion e Bikkubado",
+      "position": {
+        "x": 1046,
+        "y": 1932,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 365,
+      "name": "Dungeon Tower (Piramide 3)",
+      "position": {
+        "x": 151,
+        "y": 1264,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 366,
+      "name": "Hunt Dog Fear e Skeleton Fear 250+",
+      "position": {
+        "x": 816,
+        "y": 1342,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 367,
+      "name": "Minoru",
+      "position": {
+        "x": 2338,
+        "y": 1516,
+        "z": 5
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 368,
+      "name": "Hunt 450+",
+      "position": {
+        "x": 2455,
+        "y": 1011,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 369,
+      "name": "Tio do Ramen (NPC Food)",
+      "position": {
+        "x": 1052,
+        "y": 930,
+        "z": 7
+      },
+      "icon_id": 10,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Quest New Boots",
+      "position": {
+        "x": 1365,
+        "y": 1547,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 371,
+      "name": "Quest New Boots",
+      "position": {
+        "x": 1460,
+        "y": 1614,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 372,
+      "name": "Hunt Kamon Estrela",
+      "position": {
+        "x": 1169,
+        "y": 1602,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 373,
+      "name": "Rei de gelo (ultimo andar)",
+      "position": {
+        "x": 1380,
+        "y": 3379,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 374,
+      "name": "Hunt Miratsu 300+",
+      "position": {
+        "x": 1395,
+        "y": 1963,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 375,
+      "name": "Dungeon Tobirama",
+      "position": {
+        "x": 903,
+        "y": 1170,
+        "z": 5
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 376,
+      "name": "Hunt Konchu 200+",
+      "position": {
+        "x": 2028,
+        "y": 1278,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 377,
+      "name": "Ponte para Hunt e Dungeon",
+      "position": {
+        "x": 1108,
+        "y": 1196,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 378,
+      "name": "Hunts 200+ e Sasuke Boss",
+      "position": {
+        "x": 935,
+        "y": 945,
+        "z": 9
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "boss"
+      ]
+    },
+    {
+      "id": 379,
+      "name": "Renegades 200+",
+      "position": {
+        "x": 1030,
+        "y": 1090,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 380,
+      "name": "Rei de gelo",
+      "position": {
+        "x": 1380,
+        "y": 3332,
+        "z": 3
+      },
+      "icon_id": 4,
+      "tags": []
+    },
+    {
+      "id": 381,
+      "name": "Bau Saga 1",
+      "position": {
+        "x": 1005,
+        "y": 889,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 382,
+      "name": "Passagem Suna (Hunt Karasu)",
+      "position": {
+        "x": 451,
+        "y": 1068,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 383,
+      "name": "Hunt Wamu 300+",
+      "position": {
+        "x": 1464,
+        "y": 1813,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 384,
+      "name": "Hunt Dino e Mummy",
+      "position": {
+        "x": 1823,
+        "y": 1172,
+        "z": 6
+      },
+      "icon_id": 14,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 385,
+      "name": "Pain Boss",
+      "position": {
+        "x": 742,
+        "y": 792,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 386,
+      "name": "Quest New Shuriken/Glove",
+      "position": {
+        "x": 454,
+        "y": 1367,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 387,
+      "name": "Alavanca Items",
+      "position": {
+        "x": 1574,
+        "y": 1211,
+        "z": 8
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 388,
+      "name": "Caminho para Kirigakure",
+      "position": {
+        "x": 1164,
+        "y": 1044,
+        "z": 7
+      },
+      "icon_id": 15,
+      "tags": []
+    },
+    {
+      "id": 389,
+      "name": "Hunts e Dungeon Ibuki",
+      "position": {
+        "x": 2287,
+        "y": 1472,
+        "z": 4
+      },
+      "icon_id": 17,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 390,
+      "name": "Rei Floresta",
+      "position": {
+        "x": 1552,
+        "y": 3261,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 391,
+      "name": "Zyhan",
+      "position": {
+        "x": 1167,
+        "y": 3147,
+        "z": 2
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 392,
+      "name": "Eikou e Washi",
+      "position": {
+        "x": 2486,
+        "y": 1096,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 393,
+      "name": "Predio Tsuchikage",
+      "position": {
+        "x": 1920,
+        "y": 1299,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 394,
+      "name": "Hunt Araks",
+      "position": {
+        "x": 1968,
+        "y": 3356,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 395,
+      "name": "Hunt Gedou Dog 200+",
+      "position": {
+        "x": 1300,
+        "y": 1775,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 396,
+      "name": "Dungeon Deidara",
+      "position": {
+        "x": 795,
+        "y": 1101,
+        "z": 8
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 397,
+      "name": "Werewolf",
+      "position": {
+        "x": 1806,
+        "y": 3326,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 398,
+      "name": "Supreme Sands 350+",
+      "position": {
+        "x": 290,
+        "y": 1306,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 399,
+      "name": "Hunt Werekan 450+",
+      "position": {
+        "x": 1864,
+        "y": 3412,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 400,
+      "name": "Arvore (Elo Points)",
+      "position": {
+        "x": 1019,
+        "y": 891,
+        "z": 6
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 401,
+      "name": "Quest New Sword",
+      "position": {
+        "x": 1123,
+        "y": 1520,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Quest Tartaro",
+      "position": {
+        "x": 1131,
+        "y": 1950,
+        "z": 8
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 403,
+      "name": "Caminho Resgate Sasuke (SAGA)",
+      "position": {
+        "x": 917,
+        "y": 790,
+        "z": 6
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 404,
+      "name": "Scorpion",
+      "position": {
+        "x": 1008,
+        "y": 1845,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 405,
+      "name": "Hunt Yoth Furie e Dungeon yoth",
+      "position": {
+        "x": 1100,
+        "y": 1201,
+        "z": 7
+      },
+      "icon_id": 17,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 406,
+      "name": "Hunt Skeleton 200+",
+      "position": {
+        "x": 499,
+        "y": 1162,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 407,
+      "name": "Boss Final (Precisa ter feito os 5 pilares espalhados pela ilha)",
+      "position": {
+        "x": 109,
+        "y": 1421,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 408,
+      "name": "Itachi Boss",
+      "position": {
+        "x": 834,
+        "y": 1247,
+        "z": 9
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 409,
+      "name": "Inicio Quest New Shuriken/Glove",
+      "position": {
+        "x": 516,
+        "y": 1416,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 410,
+      "name": "Hunt Gedou Dog 200+",
+      "position": {
+        "x": 1157,
+        "y": 1829,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 411,
+      "name": "Dungeon Kimimaro",
+      "position": {
+        "x": 495,
+        "y": 1150,
+        "z": 6
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 412,
+      "name": "Bau",
+      "position": {
+        "x": 991,
+        "y": 970,
+        "z": 8
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 413,
+      "name": "Hunt 450+/Quest Geleira/Ponte Para Iwagakure",
+      "position": {
+        "x": 1335,
+        "y": 1246,
+        "z": 7
+      },
+      "icon_id": 16,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 414,
+      "name": "Hunt Skeleton Fear 250+",
+      "position": {
+        "x": 788,
+        "y": 1340,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 415,
+      "name": "NPC's Comercio (Compra e Venda de Itens)",
+      "position": {
+        "x": 1076,
+        "y": 935,
+        "z": 7
+      },
+      "icon_id": 10,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 416,
+      "name": "Hunt Gedou Dog 250+",
+      "position": {
+        "x": 491,
+        "y": 1434,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 417,
+      "name": "Hospital",
+      "position": {
+        "x": 1870,
+        "y": 1255,
+        "z": 6
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 418,
+      "name": "Hunt Chisana 400+",
+      "position": {
+        "x": 1097,
+        "y": 1460,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 419,
+      "name": "Hunt Rounin e AKaname 450+",
+      "position": {
+        "x": 1501,
+        "y": 1301,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 420,
+      "name": "Quest Geleira",
+      "position": {
+        "x": 1518,
+        "y": 1231,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 421,
+      "name": "Dungeon Jouzetsu",
+      "position": {
+        "x": 651,
+        "y": 1610,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Quest Matatabi e Hunt Gedou Skeleton",
+      "position": {
+        "x": 231,
+        "y": 1044,
+        "z": 7
+      },
+      "icon_id": 17,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 423,
+      "name": "Hunt de Devil",
+      "position": {
+        "x": 883,
+        "y": 1706,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 424,
+      "name": "Quest Kurama Amulet",
+      "position": {
+        "x": 517,
+        "y": 1716,
+        "z": 11
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 425,
+      "name": "Hunt 500+ (diversos mobs)",
+      "position": {
+        "x": 2581,
+        "y": 1023,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 426,
+      "name": "Quest Matatabi",
+      "position": {
+        "x": 141,
+        "y": 841,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 427,
+      "name": "Hunt Gedou Dog - Nivel 200+",
+      "position": {
+        "x": 213,
+        "y": 1328,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 428,
+      "name": "Rei Pedre e Hunts",
+      "position": {
+        "x": 1661,
+        "y": 3346,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 429,
+      "name": "Minoru",
+      "position": {
+        "x": 562,
+        "y": 1148,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 430,
+      "name": "Hunt Nukenin - Nivel 150 a 350/400",
+      "position": {
+        "x": 868,
+        "y": 1085,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 431,
+      "name": "Caminho Quest (As 3 alavancas devem ser ativadas em um curto periodo, pois as portas se fecham um tempo após as alavancas serem puxadas)",
+      "position": {
+        "x": 1535,
+        "y": 1199,
+        "z": 8
+      },
+      "icon_id": 14,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 432,
+      "name": "Hunt Servium Snake 200+",
+      "position": {
+        "x": 1146,
+        "y": 974,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 433,
+      "name": "Hunt 400+ (hebi shiro)",
+      "position": {
+        "x": 403,
+        "y": 1765,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 434,
+      "name": "Hunt Keshin -2/Portal Quest Susano Armor",
+      "position": {
+        "x": 1599,
+        "y": 2151,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 435,
+      "name": "Hunt Gamaguren 100+",
+      "position": {
+        "x": 1219,
+        "y": 962,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 436,
+      "name": "Hospital",
+      "position": {
+        "x": 1078,
+        "y": 914,
+        "z": 7
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 437,
+      "name": "Shizune, Tsunade, Bau Saga 1",
+      "position": {
+        "x": 999,
+        "y": 889,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 438,
+      "name": "Pilar Quest",
+      "position": {
+        "x": 66,
+        "y": 1540,
+        "z": 5
+      },
+      "icon_id": 2,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 439,
+      "name": "Hunt Wamu 350+",
+      "position": {
+        "x": 1822,
+        "y": 1862,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 440,
+      "name": "Prisão",
+      "position": {
+        "x": 1021,
+        "y": 867,
+        "z": 7
+      },
+      "icon_id": 4,
+      "tags": []
+    },
+    {
+      "id": 441,
+      "name": "Npc Ryato (Food Dragon Ham)",
+      "position": {
+        "x": 1004,
+        "y": 988,
+        "z": 9
+      },
+      "icon_id": 10,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 442,
+      "name": "Minoru",
+      "position": {
+        "x": 910,
+        "y": 1180,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 443,
+      "name": "Pergaminho SAGA",
+      "position": {
+        "x": 1002,
+        "y": 885,
+        "z": 4
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 444,
+      "name": "Pilar e Boss (Quest)",
+      "position": {
+        "x": 245,
+        "y": 1450,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 445,
+      "name": "Kamons",
+      "position": {
+        "x": 1278,
+        "y": 1610,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 446,
+      "name": "Dungeon Tower (Piramide 4)",
+      "position": {
+        "x": 191,
+        "y": 1218,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 447,
+      "name": "Oinin 1 (SAGA)",
+      "position": {
+        "x": 968,
+        "y": 875,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 448,
+      "name": "Hunt Hebi Shiro - Nivel 200+",
+      "position": {
+        "x": 1077,
+        "y": 1014,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 449,
+      "name": "Kinkaku (QUEST) e Hunts 350+",
+      "position": {
+        "x": 486,
+        "y": 1248,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 450,
+      "name": "Hunt Zetsu 450+ (Clique com direito na cortina)",
+      "position": {
+        "x": 787,
+        "y": 1137,
+        "z": 8
+      },
+      "icon_id": 17,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 451,
+      "name": "Termais",
+      "position": {
+        "x": 962,
+        "y": 1491,
+        "z": 4
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 452,
+      "name": "Area Eventos",
+      "position": {
+        "x": 1017,
+        "y": 893,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 453,
+      "name": "Yamato (SAGA)",
+      "position": {
+        "x": 996,
+        "y": 916,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 454,
+      "name": "Covil Orochimaru",
+      "position": {
+        "x": 433,
+        "y": 1488,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 455,
+      "name": "Dungeon Tower (Piramide 2)",
+      "position": {
+        "x": 57,
+        "y": 1283,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 456,
+      "name": "Shinobi Fire 100+",
+      "position": {
+        "x": 695,
+        "y": 1045,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 457,
+      "name": "Floresta Vale do Fim (SAGA)",
+      "position": {
+        "x": 941,
+        "y": 879,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 458,
+      "name": "Zyhan",
+      "position": {
+        "x": 1906,
+        "y": 3303,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 459,
+      "name": "Dragon",
+      "position": {
+        "x": 86,
+        "y": 1347,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 460,
+      "name": "Hunt Ibuki e Iranki 4 - 350+",
+      "position": {
+        "x": 1719,
+        "y": 2428,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 461,
+      "name": "Passagem Fortress",
+      "position": {
+        "x": 516,
+        "y": 1034,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 462,
+      "name": "Dungeon Heishi",
+      "position": {
+        "x": 805,
+        "y": 1480,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 463,
+      "name": "Hunt Gedou Dog/Gedou Skeleton e Shinobi Fire 200+",
+      "position": {
+        "x": 1257,
+        "y": 1680,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 464,
+      "name": "Hunt Gamaguren",
+      "position": {
+        "x": 611,
+        "y": 825,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 465,
+      "name": "Shikamaru (SAGA)",
+      "position": {
+        "x": 1041,
+        "y": 928,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 466,
+      "name": "Ponte pra Konoha",
+      "position": {
+        "x": 1026,
+        "y": 1144,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 467,
+      "name": "Eikou",
+      "position": {
+        "x": 2577,
+        "y": 1051,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 468,
+      "name": "Dungeon Ibuki",
+      "position": {
+        "x": 2162,
+        "y": 1461,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 469,
+      "name": "Ilha Bijuus",
+      "position": {
+        "x": 1105,
+        "y": 892,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 470,
+      "name": "Supreme Skeleton",
+      "position": {
+        "x": 785,
+        "y": 1307,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 471,
+      "name": "Para Selar a Bijuu é necessario ter feito a quest selo para liberar o Jutsu Kekkai Shihou Fuujin)",
+      "position": {
+        "x": 1106,
+        "y": 885,
+        "z": 6
+      },
+      "icon_id": 1,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 472,
+      "name": "Hunt Araks",
+      "position": {
+        "x": 1370,
+        "y": 1527,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 473,
+      "name": "Hunt Spectro 350+",
+      "position": {
+        "x": 323,
+        "y": 1593,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 474,
+      "name": "Hunt Ibuki e Iranki 1 - 350+",
+      "position": {
+        "x": 1477,
+        "y": 2236,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Rei Pedra",
+      "position": {
+        "x": 1651,
+        "y": 3323,
+        "z": 4
+      },
+      "icon_id": 4,
+      "tags": []
+    },
+    {
+      "id": 476,
+      "name": "Npc Hagoromo (Tasks, items, auras e skins)",
+      "position": {
+        "x": 1025,
+        "y": 915,
+        "z": 7
+      },
+      "icon_id": 3,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 477,
+      "name": "Quest New Armor (Inicio 2° parte)",
+      "position": {
+        "x": 96,
+        "y": 1197,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 478,
+      "name": "Jump Down aqui (acesso a hunt e quests)",
+      "position": {
+        "x": 1092,
+        "y": 1337,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 479,
+      "name": "Sand Sc2",
+      "position": {
+        "x": 680,
+        "y": 1017,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 480,
+      "name": "Hunt Wamu e Eirian 450+",
+      "position": {
+        "x": 2229,
+        "y": 1227,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 481,
+      "name": "Hunt Werekan 450+",
+      "position": {
+        "x": 1165,
+        "y": 3274,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 482,
+      "name": "Hunt Ibuki e Iranki 3 - 350+",
+      "position": {
+        "x": 1500,
+        "y": 2418,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 483,
+      "name": "Hunt Gedou Dog e Caminho Quest",
+      "position": {
+        "x": 433,
+        "y": 1491,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 484,
+      "name": "Escada",
+      "position": {
+        "x": 1968,
+        "y": 3356,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 485,
+      "name": "Inicio Quest New Armor",
+      "position": {
+        "x": 134,
+        "y": 1192,
+        "z": 2
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 486,
+      "name": "Hunt Kimimaro 250+",
+      "position": {
+        "x": 310,
+        "y": 1111,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 487,
+      "name": "Kakashi (SAGA)",
+      "position": {
+        "x": 1010,
+        "y": 920,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 488,
+      "name": "Bikkubado",
+      "position": {
+        "x": 1031,
+        "y": 1882,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 489,
+      "name": "Dedaira Boss (QUEST)",
+      "position": {
+        "x": 931,
+        "y": 1038,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 490,
+      "name": "Reaper of Death (Boss)",
+      "position": {
+        "x": 2212,
+        "y": 1038,
+        "z": 9
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 491,
+      "name": "Hunt Araks 400+",
+      "position": {
+        "x": 1773,
+        "y": 3088,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 492,
+      "name": "Pilar Quest",
+      "position": {
+        "x": 230,
+        "y": 1452,
+        "z": 6
+      },
+      "icon_id": 2,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 493,
+      "name": "Escada",
+      "position": {
+        "x": 1270,
+        "y": 3218,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 494,
+      "name": "Castle GGN (Guerra de Guilds - Domingo, Quarta e Sexta às 19h20)",
+      "position": {
+        "x": 1104,
+        "y": 1076,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 495,
+      "name": "Hunt Supreme Sand 350+",
+      "position": {
+        "x": 338,
+        "y": 1488,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 496,
+      "name": "Hunt Sound Shinobi e Bandit Sword - Nivel 150+",
+      "position": {
+        "x": 928,
+        "y": 804,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 497,
+      "name": "Quest New Kage (Fim 1° parte)",
+      "position": {
+        "x": 109,
+        "y": 1226,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 498,
+      "name": "Minoru",
+      "position": {
+        "x": 1083,
+        "y": 1400,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 499,
+      "name": "Fortress, Covil Orochimaru, Quest New Shiruken/Glove",
+      "position": {
+        "x": 608,
+        "y": 1511,
+        "z": 7
+      },
+      "icon_id": 17,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 500,
+      "name": "Kidos",
+      "position": {
+        "x": 2567,
+        "y": 1070,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 501,
+      "name": "Hunt Dai Wamus 350+",
+      "position": {
+        "x": 1476,
+        "y": 1811,
+        "z": 10
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 502,
+      "name": "Hunt 300+ (Diversos Mobs)",
+      "position": {
+        "x": 743,
+        "y": 848,
+        "z": 9
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 503,
+      "name": "Hunt Sand Sc2 100+",
+      "position": {
+        "x": 518,
+        "y": 983,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 504,
+      "name": "Trainers",
+      "position": {
+        "x": 172,
+        "y": 1286,
+        "z": 7
+      },
+      "icon_id": 8,
+      "tags": []
+    },
+    {
+      "id": 505,
+      "name": "Ponte para Kirigakure",
+      "position": {
+        "x": 1079,
+        "y": 1196,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 506,
+      "name": "Kido",
+      "position": {
+        "x": 2578,
+        "y": 1030,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 507,
+      "name": "Hunt 450+",
+      "position": {
+        "x": 1176,
+        "y": 3245,
+        "z": 5
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 508,
+      "name": "Hunt Renegades - Nivel 200+",
+      "position": {
+        "x": 1029,
+        "y": 1074,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 509,
+      "name": "Hunt Ibuki e Iranki 2 - 350+",
+      "position": {
+        "x": 2175,
+        "y": 1653,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 510,
+      "name": "Oinin 2 (SAGA)",
+      "position": {
+        "x": 983,
+        "y": 869,
+        "z": 7
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 511,
+      "name": "Baus (Armas e Elo Points)",
+      "position": {
+        "x": 1078,
+        "y": 1102,
+        "z": 8
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 512,
+      "name": "Quest New Armor - 1° Boss",
+      "position": {
+        "x": 121,
+        "y": 1220,
+        "z": 9
+      },
+      "icon_id": 2,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 513,
+      "name": "Hunt Zetsu 300+",
+      "position": {
+        "x": 553,
+        "y": 711,
+        "z": 7
+      },
+      "icon_id": 0,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 514,
+      "name": "Passagem pra Konoha",
+      "position": {
+        "x": 1794,
+        "y": 1244,
+        "z": 5
+      },
+      "icon_id": 14,
+      "tags": []
+    },
+    {
+      "id": 515,
+      "name": "Dungeon Kimimaro",
+      "position": {
+        "x": 493,
+        "y": 1156,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 516,
+      "name": "Kabuto Boss (Apenas na SAGA)",
+      "position": {
+        "x": 395,
+        "y": 1607,
+        "z": 4
+      },
+      "icon_id": 6,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 517,
+      "name": "Hunt Araks",
+      "position": {
+        "x": 1901,
+        "y": 3344,
+        "z": 6
+      },
+      "icon_id": 16,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 518,
+      "name": "Sasuke Boss",
+      "position": {
+        "x": 887,
+        "y": 926,
+        "z": 11
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 519,
+      "name": "Pilar Quest",
+      "position": {
+        "x": 247,
+        "y": 1521,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 520,
+      "name": "Quest New Boots",
+      "position": {
+        "x": 1492,
+        "y": 1619,
+        "z": 4
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 521,
+      "name": "Hunts 350+",
+      "position": {
+        "x": 1453,
+        "y": 1666,
+        "z": 7
+      },
+      "icon_id": 15,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 522,
+      "name": "Scorpion",
+      "position": {
+        "x": 1031,
+        "y": 1807,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 523,
+      "name": "Olair (SAGA)",
+      "position": {
+        "x": 1897,
+        "y": 1231,
+        "z": 5
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 524,
+      "name": "Mizukage",
+      "position": {
+        "x": 1139,
+        "y": 1185,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 525,
+      "name": "Werewolf",
+      "position": {
+        "x": 1514,
+        "y": 2989,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 526,
+      "name": "Escada",
+      "position": {
+        "x": 370,
+        "y": 1548,
+        "z": 9
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 527,
+      "name": "Hunt Keshin e Vampires 400+",
+      "position": {
+        "x": 1510,
+        "y": 2094,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 528,
+      "name": "Pilar Quest",
+      "position": {
+        "x": 165,
+        "y": 1439,
+        "z": 4
+      },
+      "icon_id": 2,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 529,
+      "name": "Arena PvP",
+      "position": {
+        "x": 1043,
+        "y": 949,
+        "z": 7
+      },
+      "icon_id": 8,
+      "tags": []
+    },
+    {
+      "id": 530,
+      "name": "Shizune (SAGAS)",
+      "position": {
+        "x": 1002,
+        "y": 887,
+        "z": 6
+      },
+      "icon_id": 6,
+      "tags": []
+    },
+    {
+      "id": 531,
+      "name": "Deidara Boss (QUEST)",
+      "position": {
+        "x": 915,
+        "y": 990,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 532,
+      "name": "Ishikawa e Godokawa 3",
+      "position": {
+        "x": 1475,
+        "y": 2340,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 533,
+      "name": "Dungeon Scorpion",
+      "position": {
+        "x": 302,
+        "y": 1747,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 534,
+      "name": "Hunt Araks",
+      "position": {
+        "x": 1609,
+        "y": 3008,
+        "z": 6
+      },
+      "icon_id": 16,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 535,
+      "name": "Hunt Kamon Estrela 250+",
+      "position": {
+        "x": 1094,
+        "y": 1650,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 536,
+      "name": "Npc Zoltan (Task Fama)",
+      "position": {
+        "x": 149,
+        "y": 1304,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 537,
+      "name": "Depot",
+      "position": {
+        "x": 1289,
+        "y": 1672,
+        "z": 7
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 538,
+      "name": "Hunt Snake Najin 150+",
+      "position": {
+        "x": 1369,
+        "y": 1053,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 539,
+      "name": "Hunt Serverium Snake 200+",
+      "position": {
+        "x": 563,
+        "y": 915,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 540,
+      "name": "Termais (Refill Stamina)",
+      "position": {
+        "x": 955,
+        "y": 1491,
+        "z": 5
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 541,
+      "name": "Hunt Giant Fear 200+",
+      "position": {
+        "x": 638,
+        "y": 896,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 542,
+      "name": "Quest Sanbi",
+      "position": {
+        "x": 1049,
+        "y": 874,
+        "z": 7
+      },
+      "icon_id": 0,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 543,
+      "name": "Pain Boss (QUEST) e Hunt 300+",
+      "position": {
+        "x": 743,
+        "y": 869,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 544,
+      "name": "Hunt Keshin -2",
+      "position": {
+        "x": 1386,
+        "y": 2113,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 545,
+      "name": "Pilar e Boss (Quest)",
+      "position": {
+        "x": 131,
+        "y": 1614,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 546,
+      "name": "Ishikawa e Godokawa 1",
+      "position": {
+        "x": 1450,
+        "y": 2151,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 547,
+      "name": "Pilar e Boss (Quest)",
+      "position": {
+        "x": 186,
+        "y": 1540,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 548,
+      "name": "Hunt Kamon Estrela",
+      "position": {
+        "x": 1176,
+        "y": 1742,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 549,
+      "name": "Hunt 400+ (Diversos Mobs)",
+      "position": {
+        "x": 1123,
+        "y": 1441,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 550,
+      "name": "Hunt 550+ (Eikou, Washi e Outori)",
+      "position": {
+        "x": 2460,
+        "y": 1079,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 551,
+      "name": "Hunt 500+ (Diversos Mobs)",
+      "position": {
+        "x": 2439,
+        "y": 1071,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 552,
+      "name": "Todo area da ilha pode ser utilizada como hunt UP, principalmente subindo as rochas",
+      "position": {
+        "x": 265,
+        "y": 1550,
+        "z": 6
+      },
+      "icon_id": 1,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 553,
+      "name": "Hunt Venom Snake 2 - 200+",
+      "position": {
+        "x": 1042,
+        "y": 1336,
+        "z": 12
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 554,
+      "name": "Portal Boss Kinkaku",
+      "position": {
+        "x": 383,
+        "y": 1665,
+        "z": 8
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 555,
+      "name": "Ponte Kirigakure (Quest Geleira, Hunts 250+ e 500+)",
+      "position": {
+        "x": 1697,
+        "y": 1239,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 556,
+      "name": "Aracnideos e Quest New Boots",
+      "position": {
+        "x": 1456,
+        "y": 1644,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 557,
+      "name": "Orochimaru e Jyas",
+      "position": {
+        "x": 700,
+        "y": 1549,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 558,
+      "name": "Hunt Devil 250+",
+      "position": {
+        "x": 844,
+        "y": 1597,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 559,
+      "name": "Store (Potions e Etc)",
+      "position": {
+        "x": 2348,
+        "y": 1491,
+        "z": 5
+      },
+      "icon_id": 10,
+      "tags": []
+    },
+    {
+      "id": 560,
+      "name": "Boss Kurama Amulet (De use no bau para invocar o Boss)",
+      "position": {
+        "x": 509,
+        "y": 1715,
+        "z": 12
+      },
+      "icon_id": 4,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 561,
+      "name": "Hunt Tayuya e Bau",
+      "position": {
+        "x": 319,
+        "y": 1012,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 562,
+      "name": "Reis dão um bonus de XP para guilds (Após ser morto o rei será fixo por 2h, após esse tempo podera ser morto por outros Clas)",
+      "position": {
+        "x": 1528,
+        "y": 3362,
+        "z": 6
+      },
+      "icon_id": 1,
+      "tags": []
+    },
+    {
+      "id": 563,
+      "name": "Renegade",
+      "position": {
+        "x": 1005,
+        "y": 1022,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 564,
+      "name": "Hunt 500+ (diversos mobs)",
+      "position": {
+        "x": 2534,
+        "y": 1063,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 565,
+      "name": "Boss Final (Precisa ter liberado os 5 pilares)",
+      "position": {
+        "x": 104,
+        "y": 1401,
+        "z": 6
+      },
+      "icon_id": 2,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 566,
+      "name": "Dungeon Tower (Piramide 3)",
+      "position": {
+        "x": 151,
+        "y": 1248,
+        "z": 7
+      },
+      "icon_id": 12,
+      "tags": [
+        "dungeon"
+      ]
+    },
+    {
+      "id": 567,
+      "name": "Hunt Werekan",
+      "position": {
+        "x": 1566,
+        "y": 3076,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 568,
+      "name": "Arena PvP",
+      "position": {
+        "x": 989,
+        "y": 925,
+        "z": 7
+      },
+      "icon_id": 8,
+      "tags": []
+    },
+    {
+      "id": 569,
+      "name": "Hunt Scorpion 350+",
+      "position": {
+        "x": 1021,
+        "y": 1907,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 570,
+      "name": "Hunt Hebi Shiro",
+      "position": {
+        "x": 1052,
+        "y": 1041,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 571,
+      "name": "Konchu",
+      "position": {
+        "x": 1452,
+        "y": 1698,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 572,
+      "name": "A quest pode ser feita 3 vezes para pegar as 3 recompensas",
+      "position": {
+        "x": 350,
+        "y": 1641,
+        "z": 8
+      },
+      "icon_id": 1,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 573,
+      "name": "Hunt 550+ (Diversos Mobs)",
+      "position": {
+        "x": 2585,
+        "y": 1297,
+        "z": 10
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 574,
+      "name": "Hunt Sand Sc2 100+",
+      "position": {
+        "x": 494,
+        "y": 1057,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 575,
+      "name": "Hunt Mummy",
+      "position": {
+        "x": 1880,
+        "y": 1180,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 576,
+      "name": "Quest Tartaro",
+      "position": {
+        "x": 1109,
+        "y": 1939,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 577,
+      "name": "Bau",
+      "position": {
+        "x": 273,
+        "y": 1789,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 578,
+      "name": "Hunt Skeleton Fear 200+",
+      "position": {
+        "x": 772,
+        "y": 900,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 579,
+      "name": "Sakura (Bless)",
+      "position": {
+        "x": 1067,
+        "y": 904,
+        "z": 6
+      },
+      "icon_id": 3,
+      "tags": []
+    },
+    {
+      "id": 580,
+      "name": "Amegakure, Covil Orochimaru, Ilhota",
+      "position": {
+        "x": 693,
+        "y": 1442,
+        "z": 7
+      },
+      "icon_id": 16,
+      "tags": []
+    },
+    {
+      "id": 581,
+      "name": "Kisame Boss (QUEST)",
+      "position": {
+        "x": 555,
+        "y": 734,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 582,
+      "name": "Bau",
+      "position": {
+        "x": 563,
+        "y": 733,
+        "z": 6
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 583,
+      "name": "Hunt Karasu 150+",
+      "position": {
+        "x": 484,
+        "y": 1054,
+        "z": 8
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 584,
+      "name": "Hunts Heishi/Keshin e Portal Quest Susano Armor",
+      "position": {
+        "x": 1458,
+        "y": 2050,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 585,
+      "name": "Baus cachoeira e Kisame Boss (QUEST)",
+      "position": {
+        "x": 557,
+        "y": 785,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 586,
+      "name": "Venom Snake e Quests",
+      "position": {
+        "x": 1106,
+        "y": 1334,
+        "z": 11
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 587,
+      "name": "Washi",
+      "position": {
+        "x": 2470,
+        "y": 1105,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 588,
+      "name": "Trainers",
+      "position": {
+        "x": 1003,
+        "y": 1424,
+        "z": 5
+      },
+      "icon_id": 8,
+      "tags": []
+    },
+    {
+      "id": 589,
+      "name": "Hunt Eirian 450+",
+      "position": {
+        "x": 1804,
+        "y": 1833,
+        "z": 10
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 590,
+      "name": "Quest Craft",
+      "position": {
+        "x": 2108,
+        "y": 1262,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 591,
+      "name": "Minoru",
+      "position": {
+        "x": 1148,
+        "y": 1217,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 592,
+      "name": "Eikou",
+      "position": {
+        "x": 2481,
+        "y": 1078,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 593,
+      "name": "Tutorial da quest disponivel no Discord (Marcações dos pilares e boss estão no mapa. A quest pode ser feita de 3 em 3 dias)",
+      "position": {
+        "x": 271,
+        "y": 1549,
+        "z": 6
+      },
+      "icon_id": 1,
+      "tags": [
+        "quest",
+        "boss"
+      ]
+    },
+    {
+      "id": 594,
+      "name": "Kamons",
+      "position": {
+        "x": 1080,
+        "y": 1660,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 595,
+      "name": "Hunt 400+ e Dungeons Heishi e Jouzetsu",
+      "position": {
+        "x": 925,
+        "y": 1465,
+        "z": 5
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 596,
+      "name": "Hunt Aracnideo 450+",
+      "position": {
+        "x": 1410,
+        "y": 1580,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 597,
+      "name": "Rei Pedra",
+      "position": {
+        "x": 1636,
+        "y": 3327,
+        "z": 5
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 598,
+      "name": "Npc Minorax (Hunt Vermon e Gedou Dog 300+) Necessario Saga Invasao Pain",
+      "position": {
+        "x": 1001,
+        "y": 902,
+        "z": 7
+      },
+      "icon_id": 3,
+      "tags": [
+        "hunt",
+        "npc"
+      ]
+    },
+    {
+      "id": 599,
+      "name": "Hunt Chisana",
+      "position": {
+        "x": 1105,
+        "y": 1481,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 600,
+      "name": "Npc Sakura (Bless)",
+      "position": {
+        "x": 1075,
+        "y": 904,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "npc"
+      ]
+    },
+    {
+      "id": 601,
+      "name": "Venom Snake",
+      "position": {
+        "x": 1082,
+        "y": 1338,
+        "z": 10
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 602,
+      "name": "Hunt Bandit - Nivel 80 a 160 (Farm Ervas SAGA)",
+      "position": {
+        "x": 962,
+        "y": 997,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 603,
+      "name": "Alavanca",
+      "position": {
+        "x": 1475,
+        "y": 1217,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": []
+    },
+    {
+      "id": 604,
+      "name": "Hunt e Dungeon",
+      "position": {
+        "x": 903,
+        "y": 1210,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 605,
+      "name": "Hunt Kyojin e Jaakuna 400+",
+      "position": {
+        "x": 2191,
+        "y": 1275,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 606,
+      "name": "Yudoku",
+      "position": {
+        "x": 1857,
+        "y": 3320,
+        "z": 4
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 607,
+      "name": "Depot",
+      "position": {
+        "x": 2333,
+        "y": 1459,
+        "z": 3
+      },
+      "icon_id": 11,
+      "tags": []
+    },
+    {
+      "id": 608,
+      "name": "Tsuchikage (Aliance. Quest Selo e SAGA)",
+      "position": {
+        "x": 1922,
+        "y": 1284,
+        "z": 2
+      },
+      "icon_id": 3,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 609,
+      "name": "Acesso Quest 700 e Danzou (Acesso Island Tsuin)",
+      "position": {
+        "x": 1027,
+        "y": 923,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 610,
+      "name": "Jiraya (Acesso a quest 700)",
+      "position": {
+        "x": 1026,
+        "y": 871,
+        "z": 10
+      },
+      "icon_id": 3,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 611,
+      "name": "Ponte Kiri/Iwa",
+      "position": {
+        "x": 1616,
+        "y": 1247,
+        "z": 4
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 612,
+      "name": "Jaakuna",
+      "position": {
+        "x": 2226,
+        "y": 1279,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 613,
+      "name": "Entre na teia para prosseguir",
+      "position": {
+        "x": 1595,
+        "y": 1505,
+        "z": 8
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 614,
+      "name": "Hunt Keshin 400+",
+      "position": {
+        "x": 1654,
+        "y": 2157,
+        "z": 9
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 615,
+      "name": "Hunts 450+",
+      "position": {
+        "x": 1364,
+        "y": 3393,
+        "z": 7
+      },
+      "icon_id": 17,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 616,
+      "name": "Quest Craft",
+      "position": {
+        "x": 2128,
+        "y": 1253,
+        "z": 6
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 617,
+      "name": "Covil Akatsuki/Hunts 300+/Dungeon Deidara",
+      "position": {
+        "x": 820,
+        "y": 1242,
+        "z": 8
+      },
+      "icon_id": 18,
+      "tags": [
+        "hunt",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 618,
+      "name": "Hunt Heishi e Akamanto - Nivel 350+",
+      "position": {
+        "x": 822,
+        "y": 1481,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 619,
+      "name": "Hunts Keshin e Portal Quest Susano Armor",
+      "position": {
+        "x": 1511,
+        "y": 2059,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "quest"
+      ]
+    },
+    {
+      "id": 620,
+      "name": "Jiraya (Acesso quest 700)",
+      "position": {
+        "x": 1027,
+        "y": 876,
+        "z": 9
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 621,
+      "name": "Kurama Amulet (QUEST)",
+      "position": {
+        "x": 483,
+        "y": 1804,
+        "z": 8
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 622,
+      "name": "Quest Craft (De Use no Bueiro)",
+      "position": {
+        "x": 2136,
+        "y": 1249,
+        "z": 7
+      },
+      "icon_id": 19,
+      "tags": [
+        "quest"
+      ]
+    },
+    {
+      "id": 623,
+      "name": "Tsuchikage",
+      "position": {
+        "x": 1920,
+        "y": 1286,
+        "z": 4
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 624,
+      "name": "Hunt Kamon Estrela 250+",
+      "position": {
+        "x": 1194,
+        "y": 1602,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 625,
+      "name": "Black SHinobi",
+      "position": {
+        "x": 1225,
+        "y": 1319,
+        "z": 7
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 626,
+      "name": "Hunts 250+ e Sasuke Boss",
+      "position": {
+        "x": 933,
+        "y": 991,
+        "z": 10
+      },
+      "icon_id": 19,
+      "tags": [
+        "hunt",
+        "boss"
+      ]
+    },
+    {
+      "id": 627,
+      "name": "Hunt Keshin 400+",
+      "position": {
+        "x": 1338,
+        "y": 2120,
+        "z": 9
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 628,
+      "name": "Hunt mamushi 450+",
+      "position": {
+        "x": 1156,
+        "y": 3283,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 629,
+      "name": "Kamons",
+      "position": {
+        "x": 1196,
+        "y": 1668,
+        "z": 6
+      },
+      "icon_id": 5,
+      "tags": []
+    },
+    {
+      "id": 630,
+      "name": "Olair (SAGA)",
+      "position": {
+        "x": 1898,
+        "y": 1229,
+        "z": 6
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 631,
+      "name": "Minoru",
+      "position": {
+        "x": 455,
+        "y": 1354,
+        "z": 7
+      },
+      "icon_id": 2,
+      "tags": []
+    },
+    {
+      "id": 632,
+      "name": "Hunt Great Snake 200+",
+      "position": {
+        "x": 918,
+        "y": 1008,
+        "z": 9
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 633,
+      "name": "Dragon",
+      "position": {
+        "x": 253,
+        "y": 1259,
+        "z": 7
+      },
+      "icon_id": 18,
+      "tags": []
+    },
+    {
+      "id": 634,
+      "name": "Hunts 400+",
+      "position": {
+        "x": 1529,
+        "y": 3231,
+        "z": 7
+      },
+      "icon_id": 14,
+      "tags": [
+        "hunt"
+      ]
+    },
+    {
+      "id": 635,
+      "name": "Orochimaru Boss (Apenas na SAGA)",
+      "position": {
+        "x": 428,
+        "y": 1607,
+        "z": 4
+      },
+      "icon_id": 6,
+      "tags": [
+        "boss"
+      ]
+    },
+    {
+      "id": 636,
+      "name": "South Florest (Dungeons, Quests e Hunts)",
+      "position": {
+        "x": 617,
+        "y": 891,
+        "z": 7
+      },
+      "icon_id": 16,
+      "tags": [
+        "hunt",
+        "quest",
+        "dungeon"
+      ]
+    },
+    {
+      "id": 637,
+      "name": "Hunt Mamushi 400+",
+      "position": {
+        "x": 1852,
+        "y": 3421,
+        "z": 5
+      },
+      "icon_id": 5,
+      "tags": [
+        "hunt"
+      ]
+    }
+  ]
+}

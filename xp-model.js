@@ -1,0 +1,7 @@
+(function(root,factory){if(typeof module==='object'&&module.exports)module.exports=factory;else root.createAtlasXP=factory;})(typeof window!=='undefined'?window:globalThis,function(data){
+ 'use strict';
+ const mobs=new Map(data.mobs.map(m=>[m.id,Object.freeze({...m,baseXp:m.observedXp/(m.referenceRate*(1+m.observedBonusPercent/100))})]));
+ function rateForLevel(level){if(!Number.isInteger(level)||level<1||level>100000)throw new RangeError('Informe um level inteiro entre 1 e 100.000.');const stage=data.stages.find(s=>level>=s.minLevel&&(s.maxLevel===null||level<=s.maxLevel));if(!stage)throw new RangeError('Não há rate cadastrada para este level.');return stage.rate;}
+ function calculate({mobId,level,seconds=10,bonusPercent=0,idleSeconds=0}){const mob=mobs.get(mobId);if(!mob)throw new RangeError('Este monstro ainda não tem XP cadastrada.');const rate=rateForLevel(level);if(!Number.isFinite(seconds)||seconds<.1||seconds>86400)throw new RangeError('Use um tempo por abate entre 0,1 s e 86.400 s.');if(!Number.isFinite(idleSeconds)||idleSeconds<0||idleSeconds>86400)throw new RangeError('O tempo de deslocamento/espera deve ser de 0 a 86.400 s.');if(!Number.isFinite(bonusPercent)||bonusPercent<0||bonusPercent>10000)throw new RangeError('Use um bônus entre 0% e 10.000%.');const killsPerHour=3600/(seconds+idleSeconds),xpPerKill=mob.baseXp*rate*(1+bonusPercent/100);return {mobId,baseXp:mob.baseXp,level,rate,seconds,idleSeconds,bonusPercent,killsPerHour,xpPerKill,xpPerHour:xpPerKill*killsPerHour};}
+ return Object.freeze({data,mobs,rateForLevel,calculate});
+});

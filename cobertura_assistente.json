@@ -1,0 +1,410 @@
+{
+  "version": 16,
+  "sourceFiles": [
+    {
+      "file": "app.js",
+      "sha256": "b2edec8c6d52f3126e8d57a6b7b9922a48259fbad26ac2f3226a3ea423326064"
+    },
+    {
+      "file": "combos.js",
+      "sha256": "fcfc12ab69186de911059c94728933295999c0c5074dc59741ccb3c7aba8c64d"
+    },
+    {
+      "file": "guide-data.js",
+      "sha256": "4dacb8478bf8722ba2f77ce96f68961940247cb6e293a94491d75487e219f360"
+    },
+    {
+      "file": "index.html",
+      "sha256": "30097e8172870058568247a0b1b9b816c5ecb8aba06dc227ffa5a183bfe878c4"
+    },
+    {
+      "file": "items.js",
+      "sha256": "01d79b181ee9bba93220a280bcdf0811a2818f84dfee2429fb1dbc5ad9145247"
+    },
+    {
+      "file": "monsters.js",
+      "sha256": "aa1fb54374e4d1da655ff58c2b65766c4cc7bae60fbcea5d7269d6d3e351574d"
+    },
+    {
+      "file": "sagas.js",
+      "sha256": "4398497c51d23bee2789ec0638926ceb90af9d7dff9a6332c6de17ad1aabe7fe"
+    },
+    {
+      "file": "wiki.js",
+      "sha256": "dec075e2c0767345cfa453b02a038b39952d325738708111daf36fbd42cfc221"
+    }
+  ],
+  "staticPanels": [
+    {
+      "title": "Atenção, ninja!",
+      "section": "inicio",
+      "documentId": "pagina-inicio-atencao-ninja"
+    },
+    {
+      "title": "Por onde começar",
+      "section": "inicio",
+      "documentId": "pagina-inicio-por-onde-comecar"
+    },
+    {
+      "title": "Stamina: o que é e onde regenera?",
+      "section": "primeiros-passos",
+      "documentId": "pagina-primeiros-passos-stamina-o-que-e-e-onde-regenera"
+    },
+    {
+      "title": "Treiners: onde tem e como treinar?",
+      "section": "primeiros-passos",
+      "documentId": "pagina-primeiros-passos-treiners-onde-tem-e-como-treinar"
+    },
+    {
+      "title": "Treino de chakra: vocação, set e arma",
+      "section": "primeiros-passos",
+      "documentId": "pagina-primeiros-passos-treino-de-chakra-vocacao-set-e-arma"
+    },
+    {
+      "title": "Rate do servidor",
+      "section": "primeiros-passos",
+      "documentId": "pagina-primeiros-passos-rate-do-servidor"
+    },
+    {
+      "title": "Como aumentar a EXP ganha de monstros?",
+      "section": "primeiros-passos",
+      "documentId": "pagina-primeiros-passos-como-aumentar-a-exp-ganha-de-monstros"
+    },
+    {
+      "title": "Como comprar Bless?",
+      "section": "primeiros-passos",
+      "documentId": "pagina-primeiros-passos-como-comprar-bless"
+    },
+    {
+      "title": "Como mudar minha roupa?",
+      "section": "primeiros-passos",
+      "documentId": "pagina-primeiros-passos-como-mudar-minha-roupa"
+    },
+    {
+      "title": "Jutsus e suas utilidades",
+      "section": "primeiros-passos",
+      "documentId": "pagina-primeiros-passos-jutsus-e-suas-utilidades"
+    },
+    {
+      "title": "Itens",
+      "section": "itens",
+      "documentId": "pagina-itens-itens"
+    },
+    {
+      "title": "BIS free: os melhores sets que você dropa",
+      "section": "sets",
+      "documentId": "pagina-sets-bis-free-os-melhores-sets-que-voce-dropa"
+    },
+    {
+      "title": "Melhores armas free: Quest New Sword (Ilhota)",
+      "section": "sets",
+      "documentId": "pagina-sets-melhores-armas-free-quest-new-sword-ilhota"
+    },
+    {
+      "title": "Sets VIP: cada um com uma passiva",
+      "section": "sets",
+      "documentId": "pagina-sets-sets-vip-cada-um-com-uma-passiva"
+    },
+    {
+      "title": "Monstros & drops",
+      "section": "monstros",
+      "documentId": "pagina-monstros-monstros-drops"
+    },
+    {
+      "title": "Qual personagem é bom para começar?",
+      "section": "personagens",
+      "documentId": "pagina-personagens-qual-personagem-e-bom-para-comecar"
+    },
+    {
+      "title": "Fichas dos personagens: jutsus e combo",
+      "section": "personagens",
+      "documentId": "pagina-personagens-fichas-dos-personagens-jutsus-e-combo"
+    },
+    {
+      "title": "Qual arma usar? Sword, Glove ou Distance?",
+      "section": "personagens",
+      "documentId": "pagina-personagens-qual-arma-usar-sword-glove-ou-distance"
+    },
+    {
+      "title": "Locais de caça",
+      "section": "hunts",
+      "documentId": "pagina-hunts-locais-de-caca"
+    },
+    {
+      "title": "Tasks do Hagoromo (pontos de evento → set Otsutsuki)",
+      "section": "hunts",
+      "documentId": "pagina-hunts-tasks-do-hagoromo-pontos-de-evento-set-otsutsuki"
+    },
+    {
+      "title": "Onde upar: hunts por level",
+      "section": "hunts",
+      "documentId": "pagina-hunts-onde-upar-hunts-por-level"
+    },
+    {
+      "title": "Quests",
+      "section": "quests",
+      "documentId": "pagina-quests-quests"
+    },
+    {
+      "title": "Rush de pontos de graduação",
+      "section": "rush",
+      "documentId": "pagina-rush-rush-de-pontos-de-graduacao"
+    },
+    {
+      "title": "Crafts e itens para quests",
+      "section": "crafts",
+      "documentId": "pagina-crafts-crafts-e-itens-para-quests"
+    },
+    {
+      "title": "Dungeons, Cards & Status",
+      "section": "dcs",
+      "documentId": "pagina-dcs-dungeons-cards-status"
+    },
+    {
+      "title": "Dungeons",
+      "section": "dcs",
+      "documentId": "pagina-dcs-dungeons"
+    },
+    {
+      "title": "Cards",
+      "section": "dcs",
+      "documentId": "pagina-dcs-cards"
+    },
+    {
+      "title": "Status",
+      "section": "dcs",
+      "documentId": "pagina-dcs-status"
+    },
+    {
+      "title": "VIP x Free: vale a pena?",
+      "section": "comparativo",
+      "documentId": "pagina-comparativo-vip-x-free-vale-a-pena"
+    },
+    {
+      "title": "Como ler essa comparação",
+      "section": "comparativo",
+      "documentId": "pagina-comparativo-como-ler-essa-comparacao"
+    },
+    {
+      "title": "Bots e macros",
+      "section": "bot-combos",
+      "documentId": "pagina-bot-combos-bots-e-macros"
+    },
+    {
+      "title": "Combos de Bijuu",
+      "section": "bot-combos",
+      "documentId": "pagina-bot-combos-combos-de-bijuu"
+    },
+    {
+      "title": "Combos de cada personagem",
+      "section": "bot-combos",
+      "documentId": "pagina-bot-combos-combos-de-cada-personagem"
+    },
+    {
+      "title": "Sagas",
+      "section": "sagas",
+      "documentId": "pagina-sagas-sagas"
+    },
+    {
+      "title": "Créditos",
+      "section": "creditos",
+      "documentId": "pagina-creditos-creditos"
+    },
+    {
+      "title": "Sistema de elemento",
+      "section": "elementos",
+      "documentId": "pagina-elementos-sistema-de-elemento"
+    },
+    {
+      "title": "Como conseguir elementos",
+      "section": "elementos",
+      "documentId": "pagina-elementos-como-conseguir-elementos"
+    },
+    {
+      "title": "Como aprimorar o equipamento",
+      "section": "elementos",
+      "documentId": "pagina-elementos-como-aprimorar-o-equipamento"
+    },
+    {
+      "title": "Regras",
+      "section": "elementos",
+      "documentId": "pagina-elementos-regras"
+    },
+    {
+      "title": "NPCs & lojas",
+      "section": "npcs",
+      "documentId": "pagina-npcs-npcs-lojas"
+    },
+    {
+      "title": "Compras & vendas",
+      "section": "comercio",
+      "documentId": "pagina-comercio-compras-vendas"
+    },
+    {
+      "title": "Benefícios em ser VIP (premium account)",
+      "section": "vip",
+      "documentId": "pagina-vip-beneficios-em-ser-vip-premium-account"
+    }
+  ],
+  "sourceCollections": [
+    {
+      "name": "NTO_PERSONAGENS",
+      "records": 23
+    },
+    {
+      "name": "NTO_COMBOS",
+      "records": 0
+    },
+    {
+      "name": "NTO_TASKS",
+      "records": 18
+    },
+    {
+      "name": "NTO_RATES",
+      "records": 2
+    },
+    {
+      "name": "NTO_EXP",
+      "records": 5
+    },
+    {
+      "name": "NTO_SETS_VIP",
+      "records": 4
+    },
+    {
+      "name": "NTO_TREINO_CHAKRA",
+      "records": 4
+    },
+    {
+      "name": "NTO_RUSH_LINKS",
+      "records": 22
+    },
+    {
+      "name": "NTO_RUSH",
+      "records": 2
+    },
+    {
+      "name": "NTO_CRAFTS",
+      "records": 5
+    },
+    {
+      "name": "NTO_CRAFT_DICAS",
+      "records": 4
+    },
+    {
+      "name": "NTO_SETS_FREE",
+      "records": 3
+    },
+    {
+      "name": "NTO_UP",
+      "records": 2
+    },
+    {
+      "name": "NTO_CARDS",
+      "records": 2
+    },
+    {
+      "name": "NTO_BIJUU_COMBOS",
+      "records": 9
+    },
+    {
+      "name": "NTO_COMPARATIVO",
+      "records": 4
+    },
+    {
+      "name": "NTO_INV",
+      "records": 2
+    },
+    {
+      "name": "NTO_DUNGEONS",
+      "records": 15
+    },
+    {
+      "name": "NTO_STATUS",
+      "records": 11
+    },
+    {
+      "name": "NTO_NPCS",
+      "records": 3
+    },
+    {
+      "name": "NTO_ELEMENTOS",
+      "records": 20
+    },
+    {
+      "name": "NTO_ELEM_MOBS_EXEMPLO",
+      "records": 5
+    },
+    {
+      "name": "NTO_QUEST_ITENS",
+      "records": 10
+    },
+    {
+      "name": "NTO_QUEST_AJUSTE",
+      "records": 2
+    },
+    {
+      "name": "NTO_COMBO_LIST",
+      "records": 60
+    },
+    {
+      "name": "NTO_SAGAS",
+      "records": 13
+    },
+    {
+      "name": "NTO_QUESTS",
+      "records": 21
+    },
+    {
+      "name": "NTO_FICHAS",
+      "records": 61
+    }
+  ],
+  "stats": {
+    "documents": 1873,
+    "questions": 5617,
+    "categories": {
+      "iniciante": 6,
+      "treino": 2,
+      "xp": 2,
+      "itens": 215,
+      "sets": 15,
+      "monstros": 137,
+      "personagens": 1081,
+      "hunts": 17,
+      "quests": 23,
+      "graduacao": 13,
+      "crafts": 6,
+      "dungeons": 17,
+      "cards": 13,
+      "bot": 72,
+      "historia": 114,
+      "fontes": 1,
+      "elementos": 24,
+      "npcs": 95,
+      "comercio": 1,
+      "vip": 1,
+      "tasks": 18
+    }
+  },
+  "entityCounts": {
+    "sagas": 13,
+    "sagaSteps": 88,
+    "quests": 22,
+    "dungeons": 15,
+    "characterSheets": 61,
+    "jutsus": 1016,
+    "characterCombos": 60,
+    "bijuuCombos": 9,
+    "npcs": 31,
+    "trades": 63,
+    "items": 214,
+    "monsters": 136,
+    "monsterDrops": 890
+  },
+  "limits": [
+    "A lista diária de mobs dos elementos depende do servidor e não é consultada em tempo real.",
+    "Informações ausentes no Guia são sinalizadas; nenhum level mínimo, preço ou destino é criado.",
+    "Localizações usam somente os marcadores reais do Atlas."
+  ]
+}

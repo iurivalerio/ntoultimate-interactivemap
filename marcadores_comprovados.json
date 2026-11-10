@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Konoha — região central",
+    "x": 1014,
+    "y": 912,
+    "z": 7,
+    "source": "regional"
+  },
+  {
+    "name": "Konoha — Depot",
+    "x": 1025,
+    "y": 919,
+    "z": 7,
+    "source": "marker-127"
+  },
+  {
+    "name": "Konoha — Hospital",
+    "x": 1078,
+    "y": 914,
+    "z": 7,
+    "source": "marker-436"
+  },
+  {
+    "name": "South Forest — entrada",
+    "x": 938,
+    "y": 1127,
+    "z": 7,
+    "source": "marker-286"
+  },
+  {
+    "name": "South Forest — Nukenin",
+    "x": 868,
+    "y": 1085,
+    "z": 7,
+    "source": "marker-430"
+  },
+  {
+    "name": "South Forest — Skeletons",
+    "x": 802,
+    "y": 999,
+    "z": 7,
+    "source": "marker-170"
+  },
+  {
+    "name": "South Forest — Renegade",
+    "x": 910,
+    "y": 978,
+    "z": 7,
+    "source": "marker-178"
+  }
+]

@@ -1,0 +1,1121 @@
+{
+  "hunt_records_reviewed": 335,
+  "terrain_areas": 250,
+  "forest_areas_preserved": 0,
+  "statuses": {
+    "mapped": 327,
+    "unexplored": 1,
+    "access": 7
+  },
+  "remaining": [
+    {
+      "id": 232,
+      "name": "Hunt Rounin Waraji 450+ (Task Hagoromo)",
+      "z": 7,
+      "status": "unexplored",
+      "familyKey": "unknown:rounin-waraji",
+      "familyName": "Rounin Waraji",
+      "mobIds": [],
+      "reason": "Sem terreno explorado nesta coordenada.",
+      "nativeColor": "#000000"
+    },
+    {
+      "id": 233,
+      "name": "Beezer (Hunt)",
+      "z": 7,
+      "status": "access",
+      "familyKey": "unknown:beezer",
+      "familyName": "Beezer ",
+      "mobIds": [],
+      "method": "shared-terrain",
+      "nativeColor": "#00cc00",
+      "hideHuntOnSurface": true,
+      "reason": "Ponto de acesso ao subsolo; sem hunt nas ruas da cidade."
+    },
+    {
+      "id": 377,
+      "name": "Ponte para Hunt e Dungeon",
+      "z": 7,
+      "status": "access",
+      "familyKey": null,
+      "familyName": "Ponte para Hunt e Dungeon",
+      "mobIds": [],
+      "method": "shared-terrain",
+      "nativeColor": "#ffff00",
+      "reason": "Acesso preservado sem pintar a cidade. A hunt não ocupa esta faixa urbana.",
+      "hideHuntOnSurface": true
+    },
+    {
+      "id": 379,
+      "name": "Acesso ao Renegade · andar acima (Z6)",
+      "z": 7,
+      "status": "access",
+      "familyKey": "mob:renegade",
+      "familyName": "Renegade",
+      "mobIds": [],
+      "method": "user-corrected-floor",
+      "nativeColor": "#00cc00",
+      "hideHuntOnSurface": true,
+      "reason": "Não há Renegade neste trecho do Z7. A hunt fica somente no andar acima, Z6, na referência 508."
+    },
+    {
+      "id": 405,
+      "name": "Hunt Yoth Furie e Dungeon Yoth Furie",
+      "z": 7,
+      "status": "access",
+      "familyKey": "mob:yoth-furie",
+      "familyName": "Yoth Furie",
+      "mobIds": [
+        "yoth-furie"
+      ],
+      "method": "shared-terrain",
+      "nativeColor": "#00cc00",
+      "reason": "Acesso preservado sem pintar a cidade. A hunt não ocupa esta faixa urbana.",
+      "hideHuntOnSurface": true
+    },
+    {
+      "id": 513,
+      "name": "Hunt Zetsu 300+",
+      "z": 7,
+      "status": "access",
+      "familyKey": "unknown:zetsu",
+      "familyName": "Zetsu",
+      "mobIds": [],
+      "reason": "Referência original preservada junto da área revisada.",
+      "nativeColor": "#336699"
+    },
+    {
+      "id": 570,
+      "name": "Hunt Hebi Shiro",
+      "z": 7,
+      "status": "access",
+      "familyKey": "mob:hebi-shiro",
+      "familyName": "Hebi Shiro",
+      "mobIds": [
+        "hebi-shiro"
+      ],
+      "reason": "Referência original preservada junto da área revisada.",
+      "nativeColor": "#00cc00"
+    },
+    {
+      "id": 598,
+      "name": "Npc Minorax (Hunt Vermon e Gedou Dog 300+) Necessario Saga Invasao Pain",
+      "z": 7,
+      "status": "access",
+      "familyKey": "mob:gedou-dog,vermon",
+      "familyName": "Gedou Dog / Vermon",
+      "mobIds": [
+        "gedou-dog",
+        "vermon"
+      ],
+      "method": "shared-terrain",
+      "nativeColor": "#cc6600",
+      "reason": "Referência de acesso; hunt removida da superfície da cidade.",
+      "hideHuntOnSurface": true
+    }
+  ],
+  "official_spawn_boundaries": false,
+  "community_corrections": [
+    {
+      "area": "community-south-forest",
+      "name": "South Forest",
+      "markerIds": [
+        430,
+        638,
+        147,
+        107,
+        148,
+        166,
+        170,
+        199
+      ],
+      "monsters": [
+        "Nukenin",
+        "Kuroari",
+        "Renegade",
+        "Skeleton",
+        "Insecnoide"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 7,
+      "before": "Hunt Shinobi of Sound 150+",
+      "after": "Hunt Sound Shinobi 150+ · Vale do Fim",
+      "mobIds": [
+        "sound-shinobi"
+      ]
+    },
+    {
+      "area": "community-vale-do-fim",
+      "name": "Vale do Fim · Sound Shinobi",
+      "markerIds": [
+        7
+      ],
+      "monsters": [
+        "Sound Shinobi"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 563,
+      "before": "Renegade",
+      "after": "Bandit · arredores de Konoha",
+      "mobIds": [
+        "bandit"
+      ]
+    },
+    {
+      "markerId": 379,
+      "before": "Renegades 200+",
+      "after": "Hunt Renegade 200+ · Ponte de Kirigakure",
+      "mobIds": [
+        "renegade"
+      ]
+    },
+    {
+      "area": "community-renegade-kirigakure",
+      "name": "Renegade · Ponte de Kirigakure",
+      "markerIds": [
+        379
+      ],
+      "monsters": [],
+      "confirmedByUser": true,
+      "status": "removed",
+      "replacedByArea": "area-6-508-61",
+      "notes": "Não há Renegade neste trecho do Z7. A hunt fica somente no andar acima, Z6, na referência 508."
+    },
+    {
+      "markerId": 180,
+      "before": "Hunt Hebi Shiro/Scorpion/Bikkubado",
+      "after": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+      "mobIds": [
+        "hebi-shiro",
+        "bikkubado",
+        "scorpion"
+      ]
+    },
+    {
+      "markerId": 404,
+      "before": "Scorpion",
+      "after": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+      "mobIds": [
+        "hebi-shiro",
+        "bikkubado",
+        "scorpion"
+      ]
+    },
+    {
+      "markerId": 522,
+      "before": "Scorpion",
+      "after": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+      "mobIds": [
+        "hebi-shiro",
+        "bikkubado",
+        "scorpion"
+      ]
+    },
+    {
+      "markerId": 364,
+      "before": "Scorpion e Bikkubado",
+      "after": "Hunt Scorpion · ilha inferior",
+      "mobIds": [
+        "scorpion"
+      ]
+    },
+    {
+      "area": "community-hebi-bikkubado-scorpion-east",
+      "name": "Hebi Shiro / Bikkubado / Scorpion",
+      "markerIds": [
+        180,
+        404,
+        522
+      ],
+      "monsters": [
+        "Hebi Shiro",
+        "Bikkubado",
+        "Scorpion"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "area": "community-scorpion-lower-island",
+      "name": "Scorpion · ilha inferior",
+      "markerIds": [
+        364
+      ],
+      "monsters": [
+        "Scorpion"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 181,
+      "before": "Bikkubados",
+      "after": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+      "mobIds": [
+        "hebi-shiro",
+        "bikkubado",
+        "scorpion"
+      ]
+    },
+    {
+      "markerId": 433,
+      "before": "Hunt 400+ (hebi shiro)",
+      "after": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+      "mobIds": [
+        "hebi-shiro",
+        "bikkubado",
+        "scorpion"
+      ]
+    },
+    {
+      "markerId": 228,
+      "before": "Hunt Scorpion e Quest Kurama Amulet",
+      "after": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+      "mobIds": [
+        "hebi-shiro",
+        "bikkubado",
+        "scorpion"
+      ]
+    },
+    {
+      "area": "community-hebi-bikkubado-scorpion-west",
+      "name": "Hebi Shiro / Bikkubado / Scorpion",
+      "markerIds": [
+        181,
+        228,
+        433
+      ],
+      "monsters": [
+        "Hebi Shiro",
+        "Bikkubado",
+        "Scorpion"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 84,
+      "before": "Hunt 250+ (Skeleton Fear e Supreme Skeleton)",
+      "after": "Hunt Skeleton Fear e Dog Fear 250+",
+      "mobIds": [
+        "skeleton-fear",
+        "dog-fear"
+      ]
+    },
+    {
+      "markerId": 366,
+      "before": "Hunt Dog Fear e Skeleton Fear 250+",
+      "after": "Hunt Skeleton Fear e Dog Fear 250+",
+      "mobIds": [
+        "skeleton-fear",
+        "dog-fear"
+      ]
+    },
+    {
+      "area": "community-fear-z7",
+      "name": "Skeleton Fear / Dog Fear · Z7",
+      "markerIds": [
+        84,
+        366
+      ],
+      "monsters": [
+        "Skeleton Fear",
+        "Dog Fear"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 470,
+      "before": "Supreme Skeleton",
+      "after": "Hunt Skeleton Fear 250+",
+      "mobIds": [
+        "skeleton-fear"
+      ]
+    },
+    {
+      "area": "community-fear-z8",
+      "name": "Skeleton Fear · Z8",
+      "markerIds": [
+        414,
+        470
+      ],
+      "monsters": [
+        "Skeleton Fear"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "area": "community-supreme-z9",
+      "name": "Supreme Skeleton · Z9",
+      "markerIds": [
+        226,
+        256
+      ],
+      "monsters": [
+        "Supreme Skeleton"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 350,
+      "before": "Hunt Tayuya 250+",
+      "after": "Hunt Tayuya e Jiroubou 250+",
+      "mobIds": [
+        "tayuya",
+        "jiiroubou"
+      ]
+    },
+    {
+      "markerId": 359,
+      "before": "Jiroubou",
+      "after": "Jiroubou · Fortress",
+      "mobIds": [
+        "jiiroubou"
+      ]
+    },
+    {
+      "area": "community-fortress-tayuya-jiroubou",
+      "name": "Fortress · Tayuya / Jiroubou",
+      "markerIds": [
+        350,
+        359
+      ],
+      "monsters": [
+        "Tayuya",
+        "Jiroubou"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 561,
+      "before": "Hunt Tayuya e Bau",
+      "after": "Hunt Karasu · entrada da Fortress e baú",
+      "mobIds": [
+        "karasu"
+      ]
+    },
+    {
+      "area": "community-karasu-fortress-entry",
+      "name": "Karasu · entrada da Fortress",
+      "markerIds": [
+        561,
+        382
+      ],
+      "monsters": [
+        "Karasu"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "area": "cave-group-8-120",
+      "name": "Wamu / Eirian / Tsukyojin",
+      "markerIds": [
+        29,
+        65,
+        265
+      ],
+      "monsters": [
+        "Wamu",
+        "Eirian"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "cave-group-8-136",
+      "name": "Vermion / Eirian / Wamu",
+      "markerIds": [
+        106,
+        302
+      ],
+      "monsters": [
+        "Vermion",
+        "Eirian",
+        "Wamu"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "cave-group-8-226",
+      "name": "Eirian / Wamu",
+      "markerIds": [
+        292,
+        439
+      ],
+      "monsters": [
+        "Eirian",
+        "Wamu"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "cave-group-8-269",
+      "name": "Keshin / Vampire",
+      "markerIds": [
+        434,
+        527,
+        544
+      ],
+      "monsters": [
+        "Keshin",
+        "Vampire"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "cave-group-9-10",
+      "name": "Orochimaru / Anbu / Sasuke Boss / Great Snake",
+      "markerIds": [
+        360,
+        378,
+        632
+      ],
+      "monsters": [
+        "Orochimaru",
+        "Anbu",
+        "Sasuke Boss",
+        "Great Snake"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "cave-group-10-313",
+      "name": "Black Shinobi / Anbu / Venom Snake",
+      "markerIds": [
+        82,
+        601
+      ],
+      "monsters": [
+        "Black Shinobi",
+        "Anbu",
+        "Venom Snake"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "cave-group-10-296",
+      "name": "Giant Fear / Sasuke Boss",
+      "markerIds": [
+        317,
+        626
+      ],
+      "monsters": [
+        "Giant Fear",
+        "Sasuke Boss"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "shared-group-6-392",
+      "name": "Eikou / Washi",
+      "markerIds": [
+        392,
+        587
+      ],
+      "monsters": [
+        "Eikou",
+        "Washi"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "shared-group-6-392",
+      "name": "Eikou / Washi",
+      "markerIds": [
+        392,
+        587,
+        592
+      ],
+      "monsters": [
+        "Eikou",
+        "Washi"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "shared-group-6-384",
+      "name": "Mummy / Dino",
+      "markerIds": [
+        384,
+        575
+      ],
+      "monsters": [
+        "Mummy",
+        "Dino"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "shared-group-7-134",
+      "name": "Akamanto / Heishi / Supreme Skeleton",
+      "markerIds": [
+        134,
+        203
+      ],
+      "monsters": [
+        "Akamanto",
+        "Heishi",
+        "Supreme Skeleton"
+      ],
+      "confirmedByUser": false
+    },
+    {
+      "area": "community-hebi-bikkubado-scorpion-island",
+      "name": "Bikkubado / Scorpion / Hebi Shiro",
+      "markerIds": [
+        180,
+        404,
+        522,
+        364
+      ],
+      "monsters": [
+        "Bikkubado",
+        "Scorpion",
+        "Hebi Shiro"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 180,
+      "before": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+      "after": "Hunt Bikkubado, Scorpion e Hebi Shiro",
+      "mobIds": [
+        "bikkubado",
+        "scorpion",
+        "hebi-shiro"
+      ]
+    },
+    {
+      "markerId": 404,
+      "before": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+      "after": "Hunt Bikkubado, Scorpion e Hebi Shiro",
+      "mobIds": [
+        "bikkubado",
+        "scorpion",
+        "hebi-shiro"
+      ]
+    },
+    {
+      "markerId": 522,
+      "before": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+      "after": "Hunt Bikkubado, Scorpion e Hebi Shiro",
+      "mobIds": [
+        "bikkubado",
+        "scorpion",
+        "hebi-shiro"
+      ]
+    },
+    {
+      "markerId": 364,
+      "before": "Hunt Scorpion · ilha inferior",
+      "after": "Hunt Bikkubado, Scorpion e Hebi Shiro",
+      "mobIds": [
+        "bikkubado",
+        "scorpion",
+        "hebi-shiro"
+      ]
+    },
+    {
+      "area": "community-arak-island-z7",
+      "name": "Arak · ilha inteira · Z7",
+      "markerIds": [
+        472,
+        46,
+        521,
+        556
+      ],
+      "monsters": [
+        "Arak"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 472,
+      "before": "Hunt Araks",
+      "after": "Hunt Arak · Z7",
+      "mobIds": [
+        "arak"
+      ]
+    },
+    {
+      "markerId": 46,
+      "before": "Hunts 350+ e Quest New Boots",
+      "after": "Hunt Arak · Z7 · Quest New Boots",
+      "mobIds": [
+        "arak"
+      ]
+    },
+    {
+      "markerId": 521,
+      "before": "Hunts 350+",
+      "after": "Hunt Arak · Z7",
+      "mobIds": [
+        "arak"
+      ]
+    },
+    {
+      "markerId": 556,
+      "before": "Aracnideos e Quest New Boots",
+      "after": "Hunt Arak · Z7 · Quest New Boots",
+      "mobIds": [
+        "arak"
+      ]
+    },
+    {
+      "area": "community-spectre-island-z4",
+      "name": "Spectre · ilha inteira · Z4",
+      "markerIds": [
+        473,
+        275,
+        139
+      ],
+      "monsters": [
+        "Spectre"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 473,
+      "before": "Hunt Spectro 350+",
+      "after": "Hunt Spectre · Z4",
+      "mobIds": [
+        "spectro"
+      ]
+    },
+    {
+      "markerId": 275,
+      "before": "Island Tsuin (Hunt 400+ e Quest Akamanto)",
+      "after": "Hunt Spectre · Z4 · acesso a quest/dungeon",
+      "mobIds": [
+        "spectro"
+      ]
+    },
+    {
+      "markerId": 139,
+      "before": "Hunt 450+/Kurama Amulet (Quest)/Dungeon Scorpion",
+      "after": "Hunt Spectre · Z4 · acesso a quest/dungeon",
+      "mobIds": [
+        "spectro"
+      ]
+    },
+    {
+      "area": "community-kakarasu-island-z4",
+      "name": "Kakarasu · ilha inteira · Z4",
+      "markerIds": [
+        190
+      ],
+      "monsters": [
+        "Kakarasu"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 190,
+      "before": "Hunt Karasu 300+",
+      "after": "Hunt Kakarasu 300+",
+      "mobIds": [
+        "kakarasu"
+      ]
+    },
+    {
+      "area": "community-orochimaru-jya-z4",
+      "name": "Orochimaru / Jya Boss · Z4",
+      "markerIds": [
+        557
+      ],
+      "monsters": [
+        "Orochimaru",
+        "Jya Boss"
+      ],
+      "confirmedByUser": true,
+      "spawnNote": "Orochimaru: 1 spawn. O restante desta área é de Jya Boss."
+    },
+    {
+      "markerId": 557,
+      "before": "Orochimaru e Jyas",
+      "after": "Orochimaru (1 spawn) e Jya Boss",
+      "mobIds": [
+        "orochimaru",
+        "jya-boss"
+      ]
+    },
+    {
+      "area": "community-snakes-z4",
+      "name": "Snake Najin / Great Snake / Severium Snake",
+      "markerIds": [
+        289
+      ],
+      "monsters": [
+        "Snake Najin",
+        "Great Snake",
+        "Severium Snake"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 289,
+      "before": "Hunt snakes 350+ (diversos mobs snakes, jya, snake najin e etc)",
+      "after": "Hunt Snake Najin, Great Snake e Severium Snake 350+",
+      "mobIds": [
+        "snake-najin",
+        "great-snake",
+        "severium-snake"
+      ]
+    },
+    {
+      "area": "community-yoth-furie-ice-z7",
+      "name": "Yoth Furie · gelo",
+      "markerIds": [
+        169
+      ],
+      "monsters": [
+        "Yoth Furie"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 169,
+      "before": "Hunt Yoth Furie 200+",
+      "after": "Hunt Yoth Furie 200+ · gelo",
+      "mobIds": [
+        "yoth-furie"
+      ]
+    },
+    {
+      "area": "community-sound-shinobi-snow-z7",
+      "name": "Sound Shinobi · neve",
+      "markerIds": [
+        239
+      ],
+      "monsters": [
+        "Sound Shinobi"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 239,
+      "before": "Hunt e Dungeon",
+      "after": "Hunt Sound Shinobi · neve · acesso à dungeon",
+      "mobIds": [
+        "sound-shinobi"
+      ]
+    },
+    {
+      "markerId": 639,
+      "before": "Hunt Yoth · montanhas da neve",
+      "after": "Hunt Yoth · montanhas da neve",
+      "mobIds": [
+        "yoth"
+      ]
+    },
+    {
+      "area": "community-yoth-snow-mountains-z7",
+      "name": "Yoth · montanhas da neve",
+      "markerIds": [
+        639
+      ],
+      "monsters": [
+        "Yoth"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "area": "community-supreme-sand-coastal-ring",
+      "name": "Supreme Sand · circuito costeiro",
+      "markerIds": [
+        495,
+        483
+      ],
+      "monsters": [
+        "Supreme Sand"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 495,
+      "before": "Hunt Supreme Sand 350+",
+      "after": "Hunt Supreme Sand 350+ · circuito costeiro",
+      "mobIds": [
+        "supreme-sand"
+      ]
+    },
+    {
+      "markerId": 483,
+      "before": "Hunt Gedou Dog e Caminho Quest",
+      "after": "Hunt Supreme Sand 350+ · circuito costeiro",
+      "mobIds": [
+        "supreme-sand"
+      ]
+    },
+    {
+      "area": "community-shinobi-archer-sands",
+      "name": "Shinobi Archer · caminhos de areia",
+      "markerIds": [
+        50
+      ],
+      "monsters": [
+        "Shinobi Archer"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "area": "community-venom-hidan-rock",
+      "name": "Venom Snake / Hidan · pedra",
+      "markerIds": [
+        57
+      ],
+      "monsters": [
+        "Venom Snake",
+        "Hidan"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "area": "community-yoth-furie-winter-ground",
+      "name": "Yoth Furie · gelo e neve",
+      "markerIds": [
+        169,
+        239
+      ],
+      "monsters": [
+        "Yoth Furie"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 169,
+      "before": "Hunt Yoth Furie 200+ · gelo",
+      "after": "Hunt Yoth Furie 200+ · gelo e neve",
+      "mobIds": [
+        "yoth-furie"
+      ]
+    },
+    {
+      "markerId": 239,
+      "before": "Hunt Sound Shinobi · neve · acesso à dungeon",
+      "after": "Hunt Yoth Furie 200+ · gelo e neve",
+      "mobIds": [
+        "yoth-furie"
+      ]
+    },
+    {
+      "area": "community-gamaguren-surface",
+      "name": "Gamaguren · superfície",
+      "markerIds": [
+        172,
+        101
+      ],
+      "monsters": [
+        "Gamaguren"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 101,
+      "before": "Pain Boss (QUEST) e Hunt 300+",
+      "after": "Hunt Gamaguren · superfície",
+      "mobIds": [
+        "gamaguren"
+      ]
+    },
+    {
+      "markerId": 172,
+      "before": "Hunt Gamaguren - Nivel 150+",
+      "after": "Hunt Gamaguren · superfície",
+      "mobIds": [
+        "gamaguren"
+      ]
+    },
+    {
+      "area": "community-gamaguren-z6",
+      "name": "Gamaguren · Z6",
+      "markerIds": [
+        285
+      ],
+      "monsters": [
+        "Gamaguren"
+      ],
+      "confirmedByUser": true
+    },
+    {
+      "markerId": 285,
+      "before": "Pain Boss e Hunt 300+",
+      "after": "Hunt Gamaguren · Z6",
+      "mobIds": [
+        "gamaguren"
+      ]
+    },
+    {
+      "markerId": 346,
+      "before": "Pain Boss (QUEST)",
+      "after": "Acesso à Quest Pain · andares inferiores",
+      "mobIds": []
+    },
+    {
+      "markerId": 385,
+      "before": "Pain Boss",
+      "after": "Acesso à Quest Pain · andares inferiores",
+      "mobIds": []
+    },
+    {
+      "markerId": 233,
+      "before": "Beezer (Hunt)",
+      "after": "Acesso ao subsolo · Beezer",
+      "mobIds": []
+    },
+    {
+      "markerId": 353,
+      "before": "Hunt Beezer - Nivel 1 a 80",
+      "after": "Hunt Beezer · subsolo · Z8",
+      "mobIds": [
+        "beezer"
+      ]
+    },
+    {
+      "action": "clear-city-hunts",
+      "region": "Konoha",
+      "z": 7,
+      "bounds": [
+        950,
+        856,
+        1096,
+        986
+      ],
+      "preserve": [
+        "NPCs",
+        "quests",
+        "acessos"
+      ]
+    },
+    {
+      "action": "remove-urban-strips",
+      "region": "Kirigakure",
+      "markerIds": [
+        377,
+        405
+      ]
+    },
+    {
+      "action": "underground-only",
+      "mob": "Beezer",
+      "z": 8,
+      "markerId": 353,
+      "surfaceAccessMarker": 233
+    },
+    {
+      "action": "split-winter-terrain",
+      "zoneId": "community-sound-shinobi-snow-z7",
+      "monsterIds": [
+        "sound-shinobi"
+      ],
+      "rule": "Somente a grande região de neve branca após a divisão com o gelo."
+    },
+    {
+      "action": "split-winter-terrain",
+      "zoneId": "community-yoth-furie-ice-z7",
+      "monsterIds": [
+        "yoth-furie"
+      ],
+      "rule": "Chão azul-claro inteiro, incluindo suas manchas brancas."
+    },
+    {
+      "action": "preserve-winter-mountains",
+      "zoneId": "community-yoth-snow-mountains-z7",
+      "monsterIds": [
+        "yoth"
+      ]
+    },
+    {
+      "action": "remove-ui-panel",
+      "id": "huntLegendItems",
+      "name": "Hunts nesta região"
+    },
+    {
+      "markerId": 379,
+      "before": "Hunt Renegade 200+ · Ponte de Kirigakure",
+      "after": "Acesso ao Renegade · andar acima (Z6)",
+      "mobIds": [],
+      "huntMarkerId": 508,
+      "huntFloor": 6,
+      "confirmedByUser": true,
+      "notes": "Não há Renegade neste trecho do Z7. A hunt fica somente no andar acima, Z6, na referência 508."
+    },
+    {
+      "area": "community-giant-ice-yoth-z8",
+      "markerIds": [
+        640
+      ],
+      "name": "Giant Ice Yoth · cave inteira",
+      "monsters": [
+        "Giant Ice Yoth"
+      ],
+      "recommendedLevel": 100,
+      "confirmedByUser": true
+    },
+    {
+      "area": "community-kamon-cave-z6",
+      "markerIds": [
+        641
+      ],
+      "name": "Kamon · cave inteira",
+      "monsters": [
+        "Kamon"
+      ],
+      "recommendedLevel": 250,
+      "confirmedByUser": true
+    },
+    {
+      "area": "community-gedou-dog-covil-z6",
+      "markerIds": [
+        220,
+        454
+      ],
+      "name": "Gedou Dog · Covil Orochimaru",
+      "monsters": [
+        "Gedou Dog"
+      ],
+      "confirmedByUser": true,
+      "notes": "Toda esta cave de Z6 é de Gedou Dog. Covil Orochimaru é o nome do local; não há respawn de Orochimaru aqui."
+    },
+    {
+      "area": "community-supreme-sand-west-island-z7",
+      "name": "Supreme Sand · ilha inteira",
+      "markerIds": [
+        87,
+        112
+      ],
+      "monsters": [
+        "Supreme Sand"
+      ],
+      "confirmedByUser": true,
+      "notes": "A ilha inteira é de Supreme Sand, incluindo a ponta noroeste antes atribuída a Gedou Skeleton. A ponte fica fora da área."
+    },
+    {
+      "area": "community-kimimaro-region-z7",
+      "name": "Kimimaro · região completa",
+      "markerIds": [
+        187,
+        486,
+        422
+      ],
+      "monsters": [
+        "Kimimaro"
+      ],
+      "confirmedByUser": true,
+      "notes": "A ponta noroeste antes marcada como Gedou Skeleton também é de Kimimaro, junto da região adjacente já marcada."
+    },
+    {
+      "area": "area-7-123-191",
+      "name": "Kamon / Yoth",
+      "markerIds": [
+        123
+      ],
+      "monsters": [
+        "Kamon",
+        "Yoth"
+      ],
+      "confirmedByUser": true,
+      "notes": "Preenchimento ampliado somente à esquerda até a costa do gelo. O limite leste anterior à rachadura foi preservado em cada linha; os respawns 413 e 419 da direita foram restaurados integralmente. Terreno verde e água ficam fora da área."
+    }
+  ]
+}

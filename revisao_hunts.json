@@ -1,0 +1,4642 @@
+[
+  {
+    "id": 1,
+    "name": "Hunt Shinobi Skys",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:shinobi-skys",
+    "familyName": "Shinobi Skys",
+    "mobIds": [
+      "shinobi-skys"
+    ],
+    "areaId": "area-7-1-123",
+    "method": "single-family-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 2,
+    "name": "Hunt Ribaiasan 300+ (Acima das rochas hunts de Mamushi 300+)",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:mamushi,ribaiasan",
+    "familyName": "Ribaiasan / Mamushi",
+    "mobIds": [
+      "ribaiasan",
+      "mamushi"
+    ],
+    "areaId": "area-6-2-34",
+    "method": "single-family-island",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 3,
+    "name": "Hunt Skeleton e Acesso Quest Kinkaku",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:skeleton",
+    "familyName": "Skeleton",
+    "mobIds": [
+      "skeleton"
+    ],
+    "areaId": "area-7-3-124",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 7,
+    "name": "Hunt Sound Shinobi 150+ · Vale do Fim",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:sound-shinobi",
+    "familyName": "Sound shinobi",
+    "mobIds": [
+      "sound-shinobi"
+    ],
+    "areaId": "community-vale-do-fim",
+    "method": "user-corrected-region",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 8,
+    "name": "Hunt Heishi 350+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:heishi",
+    "familyName": "Heishi",
+    "mobIds": [
+      "heishi"
+    ],
+    "areaId": "area-6-8-35",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 10,
+    "name": "Hunt Araks",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-7-10-117",
+    "method": "single-family-island",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 11,
+    "name": "Hunt Kamon Estrela 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "hunt-7-11",
+    "method": "user-reviewed-terrain",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 16,
+    "name": "Dragon",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:dragon",
+    "familyName": "Dragon",
+    "mobIds": [
+      "dragon"
+    ],
+    "areaId": "area-6-16-66",
+    "method": "single-family-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 17,
+    "name": "Kido",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kido",
+    "familyName": "Kido",
+    "mobIds": [
+      "kido"
+    ],
+    "areaId": "area-6-17-500-506-67",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 18,
+    "name": "Ibuki e Iranki",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-6-18-86-90-271-70",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 19,
+    "name": "Hunt 400+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 400+",
+    "mobIds": [],
+    "areaId": "area-7-19-125",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 22,
+    "name": "Hunt Ibuki e Iranki 2 - 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-7-22-153",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 25,
+    "name": "Hunt Heishi e Miratsu 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:heishi,miratsu",
+    "familyName": "Miratsu / Heishi",
+    "mobIds": [
+      "miratsu",
+      "heishi"
+    ],
+    "areaId": "area-7-25-154",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 26,
+    "name": "Hunt 450+ (Diversos Mobs)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 450+ (Diversos Mobs)",
+    "mobIds": [],
+    "areaId": "area-7-26-156",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 27,
+    "name": "Hunts 350+ e Rei de Pedra",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunts 350+ e Rei de Pedra",
+    "mobIds": [],
+    "areaId": "area-6-27-61-244-321-75",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 29,
+    "name": "Hunt Wamu 400+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:wamu",
+    "familyName": "Wamu",
+    "mobIds": [
+      "wamu"
+    ],
+    "areaId": "cave-group-8-120",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 33,
+    "name": "Hunt Mamushi",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:mamushi",
+    "familyName": "Mamushi",
+    "mobIds": [
+      "mamushi"
+    ],
+    "areaId": "area-5-33-19",
+    "method": "single-family-cave",
+    "nativeColor": "#ffffff"
+  },
+  {
+    "id": 36,
+    "name": "Hunt Vampire e Vampire Mutated 300+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:vampire,vampire-mutated",
+    "familyName": "Vampire Mutated / Vampire",
+    "mobIds": [
+      "vampire-mutated",
+      "vampire"
+    ],
+    "areaId": "area-7-36-162",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 37,
+    "name": "Hunt Skeletons 200+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:skeleton",
+    "familyName": "Skeleton",
+    "mobIds": [
+      "skeleton"
+    ],
+    "areaId": "area-8-37-243",
+    "method": "cave-floor",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 38,
+    "name": "Hunt Giant Furie 150 a 350",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:giant-furie",
+    "familyName": "Giant Furie",
+    "mobIds": [
+      "giant-furie"
+    ],
+    "areaId": "area-7-38-165",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 40,
+    "name": "Hunt 350+ e Dungeon Sasori",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 350+ e Dungeon Sasori",
+    "mobIds": [],
+    "areaId": "area-7-40-118",
+    "method": "single-family-island",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 41,
+    "name": "Hunt 250+/Quest Kisame/Baus Cachoeira",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 250+/Quest Kisame/Baus Cachoeira",
+    "mobIds": [],
+    "areaId": "area-7-41-126",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 42,
+    "name": "Hunt 250+ (Diversos Mobs em cada caminho)",
+    "z": 11,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 250+ (Diversos Mobs em cada caminho)",
+    "mobIds": [],
+    "areaId": "area-11-42-282",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 45,
+    "name": "Quest Tartaro e Hunts 350+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Quest Tartaro e Hunts 350+",
+    "mobIds": [],
+    "areaId": "area-5-45-463-20",
+    "method": "single-family-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 46,
+    "name": "Hunt Arak · Z7 · Quest New Boots",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "community-arak-island-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#666666"
+  },
+  {
+    "id": 48,
+    "name": "Hunt Scorpion 350+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:scorpion",
+    "familyName": "Scorpion",
+    "mobIds": [
+      "scorpion"
+    ],
+    "areaId": "area-6-48-36",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 49,
+    "name": "Hunt Sword Man 150+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:sword-man",
+    "familyName": "Sword Man",
+    "mobIds": [
+      "sword-man"
+    ],
+    "areaId": "area-7-49-127",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 50,
+    "name": "Hunt Shinobi Archer 150+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:shinobi-archer",
+    "familyName": "Shinobi Archer",
+    "mobIds": [
+      "shinobi-archer"
+    ],
+    "areaId": "community-shinobi-archer-sands",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 57,
+    "name": "Hunt Venom Snake 200+ e Quests Hidan e Kakuzu",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:hidan,venom-snake",
+    "familyName": "Venom Snake / Hidan",
+    "mobIds": [
+      "venom-snake",
+      "hidan"
+    ],
+    "areaId": "community-venom-hidan-rock",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 59,
+    "name": "Hunt 300+ (Konchu, Konchu Doku e Venom Scorpion)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:konchu,konchu-doku,venom-scorpion",
+    "familyName": "Venom Scorpion / Konchu Doku / Konchu",
+    "mobIds": [
+      "venom-scorpion",
+      "konchu-doku",
+      "konchu"
+    ],
+    "areaId": "area-7-59-175",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 61,
+    "name": "Hunts 350+ e Rei Floresta",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunts 350+ e Rei Floresta",
+    "mobIds": [],
+    "areaId": "area-6-27-61-244-321-75",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 62,
+    "name": "Hunt Akatsuki 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:akatsuki",
+    "familyName": "Akatsuki",
+    "mobIds": [
+      "akatsuki"
+    ],
+    "areaId": "area-7-62-180",
+    "method": "single-family-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 63,
+    "name": "Hunt Ribaiasan",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:ribaiasan",
+    "familyName": "Ribaiasan",
+    "mobIds": [
+      "ribaiasan"
+    ],
+    "areaId": "area-7-63-176",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 65,
+    "name": "Hunt Tsukyojin",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "unknown:tsukyojin",
+    "familyName": "Tsukyojin",
+    "mobIds": [],
+    "areaId": "cave-group-8-120",
+    "method": "consolidated-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 66,
+    "name": "Hunts 350+/SAGA/Island Tsuin/Dungeon Scorpion/Quest Kurama Amulet/Quest Akamanto",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:akamanto,scorpion",
+    "familyName": "Scorpion / Akamanto",
+    "mobIds": [
+      "scorpion",
+      "akamanto"
+    ],
+    "areaId": "area-7-66-128",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 67,
+    "name": "Hunt Kido 500+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kido",
+    "familyName": "Kido",
+    "mobIds": [
+      "kido"
+    ],
+    "areaId": "area-7-67-157",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 69,
+    "name": "Sand Sc2",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:sand-sc2",
+    "familyName": "Sand Sc2",
+    "mobIds": [
+      "sand-sc2"
+    ],
+    "areaId": "area-7-69-129",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 71,
+    "name": "Zyhan",
+    "z": 2,
+    "status": "mapped",
+    "familyKey": "mob:zyhan",
+    "familyName": "Zyhan",
+    "mobIds": [
+      "zyhan"
+    ],
+    "areaId": "area-2-71-0",
+    "method": "single-family-island",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 72,
+    "name": "Hunt Skeleton 200+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:skeleton",
+    "familyName": "Skeleton",
+    "mobIds": [
+      "skeleton"
+    ],
+    "areaId": "area-8-72-244",
+    "method": "cave-floor",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 74,
+    "name": "Hunt 500+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 500+",
+    "mobIds": [],
+    "areaId": "area-6-74-37",
+    "method": "single-family-cave",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 76,
+    "name": "Hunt Jya 300+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "unknown:jya",
+    "familyName": "Jya",
+    "mobIds": [],
+    "areaId": "area-6-76-555-76",
+    "method": "single-family-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 79,
+    "name": "Hunt Gamaguren 100+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:gamaguren",
+    "familyName": "Gamaguren",
+    "mobIds": [
+      "gamaguren"
+    ],
+    "areaId": "area-6-79-38",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 80,
+    "name": "Hunt Araks 400+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-6-80-77",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 82,
+    "name": "Anbu e Black Shinobi",
+    "z": 10,
+    "status": "mapped",
+    "familyKey": "mob:anbu,black-shinobi",
+    "familyName": "Black Shinobi / Anbu",
+    "mobIds": [
+      "black-shinobi",
+      "anbu"
+    ],
+    "areaId": "cave-group-10-313",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 84,
+    "name": "Hunt Skeleton Fear e Dog Fear 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:dog-fear,skeleton-fear",
+    "familyName": "Skeleton Fear / Dog Fear",
+    "mobIds": [
+      "skeleton-fear",
+      "dog-fear"
+    ],
+    "areaId": "community-fear-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 86,
+    "name": "Ibuki e Iranki",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-6-18-86-90-271-70",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 87,
+    "name": "Hunt Supreme Sand 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:supreme-sand",
+    "familyName": "Supreme Sand",
+    "mobIds": [
+      "supreme-sand"
+    ],
+    "areaId": "community-supreme-sand-west-island-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 88,
+    "name": "Hunt Aracnideo 450+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:aracnideo",
+    "familyName": "Aracnideo",
+    "mobIds": [
+      "aracnideo"
+    ],
+    "areaId": "area-6-88-39",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 90,
+    "name": "Ibuki e Iranki",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-6-18-86-90-271-70",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 92,
+    "name": "Hunt Aracnideo 450+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:aracnideo",
+    "familyName": "Aracnideo",
+    "mobIds": [
+      "aracnideo"
+    ],
+    "areaId": "area-6-92-40",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 93,
+    "name": "Dungeon Deidara e Hunt Akatsuki (Clique na cortina com o botao direito)",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:akatsuki",
+    "familyName": "Akatsuki",
+    "mobIds": [
+      "akatsuki"
+    ],
+    "areaId": "area-8-93-267-245",
+    "method": "shared-cave-floor",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 94,
+    "name": "Hunt Skeletons 200+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:skeleton",
+    "familyName": "Skeleton",
+    "mobIds": [
+      "skeleton"
+    ],
+    "areaId": "area-8-94-247",
+    "method": "cave-floor",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 96,
+    "name": "Hunt Anbu",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:anbu",
+    "familyName": "Anbu",
+    "mobIds": [
+      "anbu"
+    ],
+    "areaId": "area-7-96-170",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 98,
+    "name": "Hunts Jaakuna Tako 300+ (Subindo as rochas são Hunts de Kyojin 350+)",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:jaakuna-tako",
+    "familyName": "Jaakuna Tako",
+    "mobIds": [
+      "jaakuna-tako"
+    ],
+    "areaId": "area-6-98-79",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 99,
+    "name": "Hunts Tsuyoi Kyojin 350+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:tsuyoi-kyojin",
+    "familyName": "Tsuyoi Kyojin",
+    "mobIds": [
+      "tsuyoi-kyojin"
+    ],
+    "areaId": "area-5-99-21",
+    "method": "single-family-island",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 100,
+    "name": "Sunagakure (Cidade, Hunts, Quests e Dungeons)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Sunagakure (Cidade, Hunts, Quests e Dungeons)",
+    "mobIds": [],
+    "areaId": "area-7-100-130",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 101,
+    "name": "Hunt Gamaguren · superfície",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:gamaguren",
+    "familyName": "Gamaguren",
+    "mobIds": [
+      "gamaguren"
+    ],
+    "areaId": "community-gamaguren-surface",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 102,
+    "name": "Great Snakes e Giants - Nivel 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:great-snake",
+    "familyName": "Great Snake",
+    "mobIds": [
+      "great-snake"
+    ],
+    "areaId": "area-7-102-187",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 103,
+    "name": "Doragons - Nivel 450+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:doragon",
+    "familyName": "Doragon",
+    "mobIds": [
+      "doragon"
+    ],
+    "areaId": "area-6-103-41",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 106,
+    "name": "Wamu, Eirian e Vermion (Hunt perigosa 550+)",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:eirian,vermion,wamu",
+    "familyName": "Vermion / Eirian / Wamu",
+    "mobIds": [
+      "vermion",
+      "eirian",
+      "wamu"
+    ],
+    "areaId": "cave-group-8-136",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 107,
+    "name": "Hunt Insecnoide 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:insecnoide",
+    "familyName": "Insecnoide",
+    "mobIds": [
+      "insecnoide"
+    ],
+    "areaId": "community-south-forest",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 112,
+    "name": "Hunt Supreme Sand 350+ e Quest Matatabi",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:supreme-sand",
+    "familyName": "Supreme Sand",
+    "mobIds": [
+      "supreme-sand"
+    ],
+    "areaId": "community-supreme-sand-west-island-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 113,
+    "name": "Hunt 550+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 550+",
+    "mobIds": [],
+    "areaId": "area-6-113-81",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 114,
+    "name": "Inicio Kinkaku Quest (Caminho da quest podem ser usados como Hunt de up 350+)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "unknown:de-up",
+    "familyName": "de up",
+    "mobIds": [],
+    "areaId": "area-7-114-190",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 116,
+    "name": "Werewolfs",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:werewolf",
+    "familyName": "Werewolf",
+    "mobIds": [
+      "werewolf"
+    ],
+    "areaId": "area-6-116-157-78",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 117,
+    "name": "Snake Najin 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:snake-najin",
+    "familyName": "Snake Najin",
+    "mobIds": [
+      "snake-najin"
+    ],
+    "areaId": "area-7-117-147",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 120,
+    "name": "Wamu e Eirian",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:eirian,wamu",
+    "familyName": "Eirian / Wamu",
+    "mobIds": [
+      "eirian",
+      "wamu"
+    ],
+    "areaId": "area-6-120-85",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 122,
+    "name": "Hunt Eirian 550+",
+    "z": 10,
+    "status": "mapped",
+    "familyKey": "mob:eirian",
+    "familyName": "Eirian",
+    "mobIds": [
+      "eirian"
+    ],
+    "areaId": "area-10-122-274",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 123,
+    "name": "Hunt Yoth e Kamon 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kamon,yoth",
+    "familyName": "Kamon / Yoth",
+    "mobIds": [
+      "kamon",
+      "yoth"
+    ],
+    "areaId": "area-7-123-191",
+    "method": "user-corrected-region",
+    "nativeColor": "#ccffff"
+  },
+  {
+    "id": 125,
+    "name": "Hunt Insecnoide 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:insecnoide",
+    "familyName": "Insecnoide",
+    "mobIds": [
+      "insecnoide"
+    ],
+    "areaId": "area-7-125-132",
+    "method": "shared-terrain",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 129,
+    "name": "Hunt Dog Fear 250+",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": "mob:dog-fear",
+    "familyName": "Dog Fear",
+    "mobIds": [
+      "dog-fear"
+    ],
+    "areaId": "area-9-129-268",
+    "method": "cave-floor",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 132,
+    "name": "Hunt 400+ (Todo caminho pode ser utilizado como Hunt de UP, há diversos Mobs no caminho, Cuidado!)",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 400+ (Todo caminho pode ser utilizado como Hunt de UP, há diversos Mobs no caminho, Cuidado!)",
+    "mobIds": [],
+    "areaId": "area-9-132-264",
+    "method": "single-family-cave",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 133,
+    "name": "Jaakuna Tako",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:jaakuna-tako",
+    "familyName": "Jaakuna Tako",
+    "mobIds": [
+      "jaakuna-tako"
+    ],
+    "areaId": "area-7-133-177",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 134,
+    "name": "Dungeon Heishi e Hunt Heishi/Akamanto",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:akamanto,heishi",
+    "familyName": "Akamanto / Heishi",
+    "mobIds": [
+      "akamanto",
+      "heishi"
+    ],
+    "areaId": "shared-group-7-134",
+    "method": "consolidated-cave",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 135,
+    "name": "Hunt Konchu 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:konchu",
+    "familyName": "Konchu",
+    "mobIds": [
+      "konchu"
+    ],
+    "areaId": "area-7-135-198",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 137,
+    "name": "Hunts nivel 200+ e Sasuke Boss",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:sasuke-boss",
+    "familyName": "Sasuke Boss",
+    "mobIds": [
+      "sasuke-boss"
+    ],
+    "areaId": "area-7-137-188",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 139,
+    "name": "Hunt Spectre · Z4 · acesso a quest/dungeon",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:spectro",
+    "familyName": "Spectre",
+    "mobIds": [
+      "spectro"
+    ],
+    "areaId": "community-spectre-island-z4",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 143,
+    "name": "Hunt Akatsuki 250+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:akatsuki",
+    "familyName": "Akatsuki",
+    "mobIds": [
+      "akatsuki"
+    ],
+    "areaId": "area-8-143-250",
+    "method": "cave-floor",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 146,
+    "name": "Covil Akatsuki",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:akatsuki",
+    "familyName": "Akatsuki",
+    "mobIds": [
+      "akatsuki"
+    ],
+    "areaId": "area-6-146-42",
+    "method": "single-family-cave",
+    "nativeColor": "#ffffff"
+  },
+  {
+    "id": 147,
+    "name": "Hunt Renegades 150+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:renegade",
+    "familyName": "Renegade",
+    "mobIds": [
+      "renegade"
+    ],
+    "areaId": "community-south-forest",
+    "method": "user-corrected-region",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 148,
+    "name": "Hunt Skeleton - Nivel 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:skeleton",
+    "familyName": "Skeleton",
+    "mobIds": [
+      "skeleton"
+    ],
+    "areaId": "community-south-forest",
+    "method": "user-corrected-region",
+    "nativeColor": "#ff3300"
+  },
+  {
+    "id": 149,
+    "name": "Hunt Wamu",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:wamu",
+    "familyName": "Wamu",
+    "mobIds": [
+      "wamu"
+    ],
+    "areaId": "area-7-149-178",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 150,
+    "name": "Hunt Araks",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-7-150-119",
+    "method": "single-family-island",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 153,
+    "name": "Hunt Zetsu 450+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "unknown:zetsu",
+    "familyName": "Zetsu",
+    "mobIds": [],
+    "areaId": "area-8-153-251",
+    "method": "cave-floor",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 154,
+    "name": "Hunt Wamu",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:wamu",
+    "familyName": "Wamu",
+    "mobIds": [
+      "wamu"
+    ],
+    "areaId": "area-6-154-80",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 157,
+    "name": "Hunt Werewolfs",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:werewolf",
+    "familyName": "Werewolf",
+    "mobIds": [
+      "werewolf"
+    ],
+    "areaId": "area-6-116-157-78",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 158,
+    "name": "Hunt 350+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 350+",
+    "mobIds": [],
+    "areaId": "area-8-158-228",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 160,
+    "name": "Hunt Tsukyojin 350+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "unknown:tsukyojin",
+    "familyName": "Tsukyojin",
+    "mobIds": [],
+    "areaId": "area-6-160-86",
+    "method": "shared-terrain",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 162,
+    "name": "Dragon",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:dragon",
+    "familyName": "Dragon",
+    "mobIds": [
+      "dragon"
+    ],
+    "areaId": "area-7-162-633-133",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 166,
+    "name": "Hunt Skeletons - Nivel 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:skeleton",
+    "familyName": "Skeleton",
+    "mobIds": [
+      "skeleton"
+    ],
+    "nativeColor": "#00cc00",
+    "areaId": "community-south-forest",
+    "method": "user-corrected-region"
+  },
+  {
+    "id": 167,
+    "name": "Hunt 500+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 500+",
+    "mobIds": [],
+    "areaId": "area-6-167-43",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 168,
+    "name": "Hunts",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunts",
+    "mobIds": [],
+    "areaId": "area-7-168-399-428-481-567-615-634-120",
+    "method": "single-family-island",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 169,
+    "name": "Hunt Yoth Furie 200+ · gelo",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:yoth-furie",
+    "familyName": "Yoth Furie",
+    "mobIds": [
+      "yoth-furie"
+    ],
+    "areaId": "community-yoth-furie-ice-z7",
+    "method": "user-corrected-terrain-division",
+    "nativeColor": "#ccffff"
+  },
+  {
+    "id": 170,
+    "name": "Hunt Skeletons - Nivel 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:skeleton",
+    "familyName": "Skeleton",
+    "mobIds": [
+      "skeleton"
+    ],
+    "nativeColor": "#ff3300",
+    "areaId": "community-south-forest",
+    "method": "user-corrected-region"
+  },
+  {
+    "id": 171,
+    "name": "Hunt Dark Snake - Nivel 100+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "unknown:dark-snake",
+    "familyName": "Dark Snake -",
+    "mobIds": [],
+    "areaId": "area-8-171-252",
+    "method": "cave-floor",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 172,
+    "name": "Hunt Gamaguren · superfície",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:gamaguren",
+    "familyName": "Gamaguren",
+    "mobIds": [
+      "gamaguren"
+    ],
+    "areaId": "community-gamaguren-surface",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 175,
+    "name": "Ishikawa e Godokawa 1",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:godokawa,ishikawa",
+    "familyName": "Ishikawa / Godokawa",
+    "mobIds": [
+      "ishikawa",
+      "godokawa"
+    ],
+    "areaId": "area-6-175-194-87",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 180,
+    "name": "Hunt Bikkubado, Scorpion e Hebi Shiro",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado,hebi-shiro,scorpion",
+    "familyName": "Bikkubado / Scorpion / Hebi Shiro",
+    "mobIds": [
+      "bikkubado",
+      "scorpion",
+      "hebi-shiro"
+    ],
+    "areaId": "community-hebi-bikkubado-scorpion-island",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 181,
+    "name": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado,hebi-shiro,scorpion",
+    "familyName": "Hebi Shiro / Bikkubado / Scorpion",
+    "mobIds": [
+      "hebi-shiro",
+      "bikkubado",
+      "scorpion"
+    ],
+    "areaId": "community-hebi-bikkubado-scorpion-west",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 182,
+    "name": "Hunt Dark Snake e Baus",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "unknown:dark-snake",
+    "familyName": "Dark Snake",
+    "mobIds": [],
+    "areaId": "area-7-182-211",
+    "method": "single-family-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 184,
+    "name": "Hunt Ultimate Skeleton 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:ultimate-skeleton",
+    "familyName": "Ultimate Skeleton",
+    "mobIds": [
+      "ultimate-skeleton"
+    ],
+    "areaId": "area-7-184-163",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 185,
+    "name": "Hunt 450+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 450+",
+    "mobIds": [],
+    "areaId": "area-6-185-322-44",
+    "method": "single-family-cave",
+    "nativeColor": "#000000"
+  },
+  {
+    "id": 187,
+    "name": "Hunt Kimimaro 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kimimaro",
+    "familyName": "Kimimaro",
+    "mobIds": [
+      "kimimaro"
+    ],
+    "areaId": "community-kimimaro-region-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 189,
+    "name": "Hunt Ibuki e Iranki 1 - 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-7-189-212",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 190,
+    "name": "Hunt Kakarasu 300+",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:kakarasu",
+    "familyName": "Kakarasu",
+    "mobIds": [
+      "kakarasu"
+    ],
+    "areaId": "community-kakarasu-island-z4",
+    "method": "user-corrected-region",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 194,
+    "name": "Ishikawa e Godokawa 2",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:godokawa,ishikawa",
+    "familyName": "Ishikawa / Godokawa",
+    "mobIds": [
+      "ishikawa",
+      "godokawa"
+    ],
+    "areaId": "area-6-175-194-87",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 196,
+    "name": "Hunt Dog Fear e Quest Itachi",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:dog-fear",
+    "familyName": "Dog Fear",
+    "mobIds": [
+      "dog-fear"
+    ],
+    "areaId": "area-8-196-253",
+    "method": "shared-cave-floor",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 199,
+    "name": "Hunt Renegades 150+ (Rotação da Hunt vai até Minoru de south florest)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:renegade",
+    "familyName": "Renegade",
+    "mobIds": [
+      "renegade"
+    ],
+    "areaId": "community-south-forest",
+    "method": "user-corrected-region",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 200,
+    "name": "Hunts",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunts",
+    "mobIds": [],
+    "areaId": "area-4-200-3",
+    "method": "single-family-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 203,
+    "name": "Hunt Heishin, Akamanto, Supreme Skeleton 300+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:akamanto,supreme-skeleton",
+    "familyName": "Supreme Skeleton / Akamanto",
+    "mobIds": [
+      "supreme-skeleton",
+      "akamanto"
+    ],
+    "areaId": "shared-group-7-134",
+    "method": "consolidated-cave",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 207,
+    "name": "Hunt Araks 400+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-8-207-229",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 212,
+    "name": "Hunt Werewolf",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:werewolf",
+    "familyName": "Werewolf",
+    "mobIds": [
+      "werewolf"
+    ],
+    "areaId": "area-5-212-22",
+    "method": "single-family-island",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 213,
+    "name": "Zyhan",
+    "z": 2,
+    "status": "mapped",
+    "familyKey": "mob:zyhan",
+    "familyName": "Zyhan",
+    "mobIds": [
+      "zyhan"
+    ],
+    "areaId": "area-2-213-1",
+    "method": "single-family-island",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 216,
+    "name": "Hunts Hebi Shiro, Scorpion e Bikkubado - Acesso Quest Tartaro",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado,hebi-shiro,scorpion",
+    "familyName": "Hebi Shiro / Bikkubado / Scorpion",
+    "mobIds": [
+      "hebi-shiro",
+      "bikkubado",
+      "scorpion"
+    ],
+    "areaId": "area-6-216-88",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 217,
+    "name": "Hunt Aracnideo 450+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:aracnideo",
+    "familyName": "Aracnideo",
+    "mobIds": [
+      "aracnideo"
+    ],
+    "areaId": "area-6-217-45",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 220,
+    "name": "Hunt Gedou Dog 250+ · Covil Orochimaru",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:gedou-dog",
+    "familyName": "Gedou Dog",
+    "mobIds": [
+      "gedou-dog"
+    ],
+    "areaId": "community-gedou-dog-covil-z6",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 225,
+    "name": "Ishikawa e Godokawa 2",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:godokawa,ishikawa",
+    "familyName": "Ishikawa / Godokawa",
+    "mobIds": [
+      "ishikawa",
+      "godokawa"
+    ],
+    "areaId": "area-6-225-362-532-546-71",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 226,
+    "name": "Hunt Supreme Skeleton 250+",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": "mob:supreme-skeleton",
+    "familyName": "Supreme Skeleton",
+    "mobIds": [
+      "supreme-skeleton"
+    ],
+    "areaId": "community-supreme-z9",
+    "method": "user-corrected-region",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 228,
+    "name": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado,hebi-shiro,scorpion",
+    "familyName": "Hebi Shiro / Bikkubado / Scorpion",
+    "mobIds": [
+      "hebi-shiro",
+      "bikkubado",
+      "scorpion"
+    ],
+    "areaId": "community-hebi-bikkubado-scorpion-west",
+    "method": "user-corrected-region",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 231,
+    "name": "Hunt Black Death 350+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:black-death",
+    "familyName": "Black Death",
+    "mobIds": [
+      "black-death"
+    ],
+    "areaId": "area-6-231-93",
+    "method": "single-family-terrain",
+    "nativeColor": "#336699"
+  },
+  {
+    "id": 232,
+    "name": "Hunt Rounin Waraji 450+ (Task Hagoromo)",
+    "z": 7,
+    "status": "unexplored",
+    "familyKey": "unknown:rounin-waraji",
+    "familyName": "Rounin Waraji",
+    "mobIds": [],
+    "reason": "Sem terreno explorado nesta coordenada.",
+    "nativeColor": "#000000"
+  },
+  {
+    "id": 233,
+    "name": "Beezer (Hunt)",
+    "z": 7,
+    "status": "access",
+    "familyKey": "unknown:beezer",
+    "familyName": "Beezer ",
+    "mobIds": [],
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00",
+    "hideHuntOnSurface": true,
+    "reason": "Ponto de acesso ao subsolo; sem hunt nas ruas da cidade."
+  },
+  {
+    "id": 234,
+    "name": "Ponte Kirigakure, Hunts, Dungeon Jya",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "unknown:ponte-kirigakure",
+    "familyName": "Ponte Kirigakure",
+    "mobIds": [],
+    "areaId": "area-5-234-32",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 239,
+    "name": "Hunt Sound Shinobi · neve",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:sound-shinobi",
+    "familyName": "Sound Shinobi",
+    "mobIds": [
+      "sound-shinobi"
+    ],
+    "areaId": "community-sound-shinobi-snow-z7",
+    "method": "user-corrected-terrain-division",
+    "nativeColor": "#ffffff"
+  },
+  {
+    "id": 241,
+    "name": "Hunt Werewolf",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:werewolf",
+    "familyName": "Werewolf",
+    "mobIds": [
+      "werewolf"
+    ],
+    "areaId": "area-5-241-23",
+    "method": "single-family-island",
+    "nativeColor": "#666666"
+  },
+  {
+    "id": 242,
+    "name": "Hunt 500+ (diversos mobs)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 500+ (diversos mobs)",
+    "mobIds": [],
+    "areaId": "area-7-242-158",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 244,
+    "name": "Hunts 350+ e Rei de Gelo",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunts 350+ e Rei de Gelo",
+    "mobIds": [],
+    "areaId": "area-6-27-61-244-321-75",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 245,
+    "name": "Hunt Scorpion 350+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:scorpion",
+    "familyName": "Scorpion",
+    "mobIds": [
+      "scorpion"
+    ],
+    "areaId": "area-6-245-46",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 246,
+    "name": "Hunt Miratsu, Dokuhebi e Scorpion - Nivel 400+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:dokuhebi,miratsu,scorpion",
+    "familyName": "Scorpion / Dokuhebi / Miratsu",
+    "mobIds": [
+      "scorpion",
+      "dokuhebi",
+      "miratsu"
+    ],
+    "areaId": "area-7-246-136",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 248,
+    "name": "Hunt Kido 500+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:kido",
+    "familyName": "Kido",
+    "mobIds": [
+      "kido"
+    ],
+    "areaId": "area-8-248-230",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 250,
+    "name": "Hunt Keshin, Vampire Mutated, Skeleton Fear - Nivel 450+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:keshin,skeleton-fear,vampire-mutated",
+    "familyName": "Vampire Mutated / Skeleton Fear / Keshin",
+    "mobIds": [
+      "vampire-mutated",
+      "skeleton-fear",
+      "keshin"
+    ],
+    "areaId": "area-7-250-213",
+    "method": "shared-terrain",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 253,
+    "name": "Hunt Aranto e Aronak 350+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:aranto,aronak",
+    "familyName": "Aronak / Aranto",
+    "mobIds": [
+      "aronak",
+      "aranto"
+    ],
+    "areaId": "area-8-253-231",
+    "method": "single-family-cave",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 256,
+    "name": "Hunt Supreme Skeleton 250+",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": "mob:supreme-skeleton",
+    "familyName": "Supreme Skeleton",
+    "mobIds": [
+      "supreme-skeleton"
+    ],
+    "areaId": "community-supreme-z9",
+    "method": "user-corrected-region",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 259,
+    "name": "Gamaguren",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:gamaguren",
+    "familyName": "Gamaguren",
+    "mobIds": [
+      "gamaguren"
+    ],
+    "areaId": "area-7-259-215",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 262,
+    "name": "Hunt Kamon Estrela",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "area-7-262-319-594-216",
+    "method": "single-family-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 263,
+    "name": "Hunt 400+ (Akaname e Akamanto)",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:akamanto,akaname",
+    "familyName": "Akamanto / Akaname",
+    "mobIds": [
+      "akamanto",
+      "akaname"
+    ],
+    "areaId": "area-6-263-47",
+    "method": "single-family-cave",
+    "nativeColor": "#ccffff"
+  },
+  {
+    "id": 265,
+    "name": "Hunt Eirian",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:eirian",
+    "familyName": "Eirian",
+    "mobIds": [
+      "eirian"
+    ],
+    "areaId": "cave-group-8-120",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 266,
+    "name": "Hunts 200+ e Sasuke Boss",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:sasuke-boss",
+    "familyName": "Sasuke Boss",
+    "mobIds": [
+      "sasuke-boss"
+    ],
+    "areaId": "area-8-266-255",
+    "method": "cave-floor",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 267,
+    "name": "Akatsuki",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:akatsuki",
+    "familyName": "Akatsuki",
+    "mobIds": [
+      "akatsuki"
+    ],
+    "areaId": "area-8-93-267-245",
+    "method": "shared-cave-floor",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 269,
+    "name": "Hunt Devil 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:devil",
+    "familyName": "Devil",
+    "mobIds": [
+      "devil"
+    ],
+    "anchorOutside": true,
+    "anchorDistance": 22.0,
+    "areaId": "hunt-7-558",
+    "method": "user-reviewed-terrain",
+    "nativeColor": "#336699"
+  },
+  {
+    "id": 271,
+    "name": "Ibuki e Iranki",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-6-18-86-90-271-70",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 272,
+    "name": "Hunt Dino 300+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:dino",
+    "familyName": "Dino",
+    "mobIds": [
+      "dino"
+    ],
+    "areaId": "area-6-272-94",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 273,
+    "name": "Hunt Gedou Skeleton 300+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:gedou-skeleton",
+    "familyName": "Gedou Skeleton",
+    "mobIds": [
+      "gedou-skeleton"
+    ],
+    "areaId": "area-7-273-121",
+    "method": "single-family-island",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 275,
+    "name": "Hunt Spectre · Z4 · acesso a quest/dungeon",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:spectro",
+    "familyName": "Spectre",
+    "mobIds": [
+      "spectro"
+    ],
+    "areaId": "community-spectre-island-z4",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 278,
+    "name": "Bandits e Bau",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bandit",
+    "familyName": "Bandit",
+    "mobIds": [
+      "bandit"
+    ],
+    "areaId": "hunt-7-602-278",
+    "method": "user-reviewed-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 280,
+    "name": "Bandits e Bau",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:bandit",
+    "familyName": "Bandit",
+    "mobIds": [
+      "bandit"
+    ],
+    "areaId": "area-6-280-48",
+    "method": "single-family-cave",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 281,
+    "name": "Hunt Scorpion 350+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:scorpion",
+    "familyName": "Scorpion",
+    "mobIds": [
+      "scorpion"
+    ],
+    "areaId": "area-6-281-49",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 282,
+    "name": "Hunt Gamaguren 150+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:gamaguren",
+    "familyName": "Gamaguren",
+    "mobIds": [
+      "gamaguren"
+    ],
+    "areaId": "area-7-282-217",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 283,
+    "name": "Doragon 450+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:doragon",
+    "familyName": "Doragon",
+    "mobIds": [
+      "doragon"
+    ],
+    "areaId": "area-7-283-218",
+    "method": "single-family-terrain",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 284,
+    "name": "Hunt Floresta 350+ (Diversos Mobs)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt Floresta 350+ (Diversos Mobs)",
+    "mobIds": [],
+    "areaId": "area-7-284-179",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 285,
+    "name": "Hunt Gamaguren · Z6",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:gamaguren",
+    "familyName": "Gamaguren",
+    "mobIds": [
+      "gamaguren"
+    ],
+    "areaId": "community-gamaguren-z6",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 288,
+    "name": "Hunt 450+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 450+",
+    "mobIds": [],
+    "areaId": "area-7-288-208",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 289,
+    "name": "Hunt Snake Najin, Great Snake e Severium Snake 350+",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:great-snake,severium-snake,snake-najin",
+    "familyName": "Snake Najin / Great Snake / Severium Snake",
+    "mobIds": [
+      "snake-najin",
+      "great-snake",
+      "severium-snake"
+    ],
+    "areaId": "community-snakes-z4",
+    "method": "user-corrected-region",
+    "nativeColor": "#ff3300"
+  },
+  {
+    "id": 290,
+    "name": "Zyhan",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:zyhan",
+    "familyName": "Zyhan",
+    "mobIds": [
+      "zyhan"
+    ],
+    "areaId": "area-4-290-13",
+    "method": "shared-terrain",
+    "nativeColor": "#336699"
+  },
+  {
+    "id": 292,
+    "name": "Eirian",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:eirian",
+    "familyName": "Eirian",
+    "mobIds": [
+      "eirian"
+    ],
+    "areaId": "cave-group-8-226",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 296,
+    "name": "Hunt Scorpion 400+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:scorpion",
+    "familyName": "Scorpion",
+    "mobIds": [
+      "scorpion"
+    ],
+    "areaId": "area-8-296-232",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 302,
+    "name": "Hunt Wamu 400+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:wamu",
+    "familyName": "Wamu",
+    "mobIds": [
+      "wamu"
+    ],
+    "areaId": "cave-group-8-136",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 304,
+    "name": "Wamu",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:wamu",
+    "familyName": "Wamu",
+    "mobIds": [
+      "wamu"
+    ],
+    "areaId": "area-6-304-95",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 305,
+    "name": "Hunt Renegade",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:renegade",
+    "familyName": "Renegade",
+    "mobIds": [
+      "renegade"
+    ],
+    "areaId": "area-6-305-98",
+    "method": "single-family-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 306,
+    "name": "Hunt Yoth Furie 200+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:yoth-furie",
+    "familyName": "Yoth Furie",
+    "mobIds": [
+      "yoth-furie"
+    ],
+    "areaId": "area-6-306-604-51",
+    "method": "single-family-cave",
+    "nativeColor": "#ccffff"
+  },
+  {
+    "id": 307,
+    "name": "Zyhan",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:zyhan",
+    "familyName": "Zyhan",
+    "mobIds": [
+      "zyhan"
+    ],
+    "areaId": "area-4-307-15",
+    "method": "shared-terrain",
+    "nativeColor": "#336699"
+  },
+  {
+    "id": 310,
+    "name": "Hunt 400+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 400+",
+    "mobIds": [],
+    "areaId": "area-8-310-233",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 314,
+    "name": "Hunt Bikkubado 350+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado",
+    "familyName": "Bikkubado",
+    "mobIds": [
+      "bikkubado"
+    ],
+    "areaId": "area-5-314-24",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 316,
+    "name": "Hunts 200+ e Sasuke Boss",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:sasuke-boss",
+    "familyName": "Sasuke Boss",
+    "mobIds": [
+      "sasuke-boss"
+    ],
+    "areaId": "area-6-316-52",
+    "method": "single-family-cave",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 317,
+    "name": "Hunt Giant Fear 200+",
+    "z": 10,
+    "status": "mapped",
+    "familyKey": "mob:giant-fear",
+    "familyName": "Giant Fear",
+    "mobIds": [
+      "giant-fear"
+    ],
+    "areaId": "cave-group-10-296",
+    "method": "consolidated-cave",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 319,
+    "name": "Hunt Kamon 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "area-7-262-319-594-216",
+    "method": "single-family-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 321,
+    "name": "As hunts são iguais independete do lado que siga as hunts serão iguais e terão os mesmos mobs",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "unknown:s-o-iguais-independete-do-lado-que-siga-as-hunts-ser-o-iguais-e-ter-o-os-mesmos-mobs",
+    "familyName": "são iguais independete do lado que siga as hunts serão iguais e terão os mesmos mobs",
+    "mobIds": [],
+    "areaId": "area-6-27-61-244-321-75",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 322,
+    "name": "Yoth Furie e Kamon",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kamon,yoth-furie",
+    "familyName": "Yoth Furie / Kamon",
+    "mobIds": [
+      "yoth-furie",
+      "kamon"
+    ],
+    "areaId": "area-6-185-322-44",
+    "method": "single-family-cave",
+    "nativeColor": "#ccffff"
+  },
+  {
+    "id": 325,
+    "name": "Ribaiasan",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:ribaiasan",
+    "familyName": "Ribaiasan",
+    "mobIds": [
+      "ribaiasan"
+    ],
+    "areaId": "area-6-325-96",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 330,
+    "name": "Hunt Mamushi 400+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:mamushi",
+    "familyName": "Mamushi",
+    "mobIds": [
+      "mamushi"
+    ],
+    "areaId": "area-6-330-97",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 331,
+    "name": "Hunt Floresta 400+ (Diversos Mobs)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt Floresta 400+ (Diversos Mobs)",
+    "mobIds": [],
+    "areaId": "area-7-331-199",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 333,
+    "name": "Hunt Araks 400+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-8-333-234",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 334,
+    "name": "Hunts 400+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunts 400+",
+    "mobIds": [],
+    "areaId": "area-5-334-25",
+    "method": "single-family-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 335,
+    "name": "Hunt Mummy 300+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:mummy",
+    "familyName": "Mummy",
+    "mobIds": [
+      "mummy"
+    ],
+    "areaId": "area-7-335-219",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 336,
+    "name": "Yudoku",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:yudoku",
+    "familyName": "Yudoku",
+    "mobIds": [
+      "yudoku"
+    ],
+    "areaId": "area-4-336-14",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 339,
+    "name": "Mamushi, Ribaiasan, Wamu, Eirian e Vermion",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:eirian,mamushi,ribaiasan,vermion,wamu",
+    "familyName": "Ribaiasan / Vermion / Mamushi / Eirian / Wamu",
+    "mobIds": [
+      "ribaiasan",
+      "vermion",
+      "mamushi",
+      "eirian",
+      "wamu"
+    ],
+    "areaId": "area-7-339-200",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 343,
+    "name": "Araks",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-6-343-53",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 344,
+    "name": "Hunt 400+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 400+",
+    "mobIds": [],
+    "areaId": "area-7-344-209",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 348,
+    "name": "Hunt Kikkai 250+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kikkai",
+    "familyName": "Kikkai",
+    "mobIds": [
+      "kikkai"
+    ],
+    "areaId": "area-6-348-54",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 350,
+    "name": "Hunt Tayuya e Jiroubou 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:jiiroubou,tayuya",
+    "familyName": "Tayuya / Jiroubou",
+    "mobIds": [
+      "tayuya",
+      "jiiroubou"
+    ],
+    "areaId": "community-fortress-tayuya-jiroubou",
+    "method": "user-corrected-region",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 352,
+    "name": "Hunts, passagem Kumogakure, Quest Craft",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunts, passagem Kumogakure, Quest Craft",
+    "mobIds": [],
+    "areaId": "area-6-352-99",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 353,
+    "name": "Hunt Beezer · subsolo · Z8",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:beezer",
+    "familyName": "Beezer",
+    "mobIds": [
+      "beezer"
+    ],
+    "areaId": "area-8-353-258",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 356,
+    "name": "Hunt Venom Snake 1 - 200+",
+    "z": 11,
+    "status": "mapped",
+    "familyKey": "mob:venom-snake",
+    "familyName": "Venom Snake",
+    "mobIds": [
+      "venom-snake"
+    ],
+    "areaId": "area-11-356-283",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 358,
+    "name": "Hunt Gedou Dog",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:gedou-dog",
+    "familyName": "Gedou Dog",
+    "mobIds": [
+      "gedou-dog"
+    ],
+    "areaId": "area-7-358-483-137",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 360,
+    "name": "Danzou (Concede permissao para acessar a Island Tsuin em Covil Orochimaru - Precisa ser Anbu)",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": "mob:anbu,orochimaru",
+    "familyName": "Orochimaru / Anbu",
+    "mobIds": [
+      "orochimaru",
+      "anbu"
+    ],
+    "areaId": "cave-group-9-10",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 362,
+    "name": "Ishikawa e Godokawa 4",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:godokawa,ishikawa",
+    "familyName": "Ishikawa / Godokawa",
+    "mobIds": [
+      "ishikawa",
+      "godokawa"
+    ],
+    "areaId": "area-6-225-362-532-546-71",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 363,
+    "name": "Yudoku",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:yudoku",
+    "familyName": "Yudoku",
+    "mobIds": [
+      "yudoku"
+    ],
+    "areaId": "area-4-363-16",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 364,
+    "name": "Hunt Bikkubado, Scorpion e Hebi Shiro",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado,hebi-shiro,scorpion",
+    "familyName": "Bikkubado / Scorpion / Hebi Shiro",
+    "mobIds": [
+      "bikkubado",
+      "scorpion",
+      "hebi-shiro"
+    ],
+    "areaId": "community-hebi-bikkubado-scorpion-island",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 366,
+    "name": "Hunt Skeleton Fear e Dog Fear 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:dog-fear,skeleton-fear",
+    "familyName": "Skeleton Fear / Dog Fear",
+    "mobIds": [
+      "skeleton-fear",
+      "dog-fear"
+    ],
+    "areaId": "community-fear-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 368,
+    "name": "Hunt 450+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 450+",
+    "mobIds": [],
+    "areaId": "area-6-368-55",
+    "method": "single-family-cave",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 372,
+    "name": "Hunt Kamon Estrela",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "area-6-372-629-102",
+    "method": "single-family-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 374,
+    "name": "Hunt Miratsu 300+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:miratsu",
+    "familyName": "Miratsu",
+    "mobIds": [
+      "miratsu"
+    ],
+    "areaId": "area-6-374-72",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 376,
+    "name": "Hunt Konchu 200+",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:konchu",
+    "familyName": "Konchu",
+    "mobIds": [
+      "konchu"
+    ],
+    "areaId": "area-4-376-4",
+    "method": "single-family-cave",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 377,
+    "name": "Ponte para Hunt e Dungeon",
+    "z": 7,
+    "status": "access",
+    "familyKey": null,
+    "familyName": "Ponte para Hunt e Dungeon",
+    "mobIds": [],
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00",
+    "reason": "Acesso preservado sem pintar a cidade. A hunt não ocupa esta faixa urbana.",
+    "hideHuntOnSurface": true
+  },
+  {
+    "id": 378,
+    "name": "Hunts 200+ e Sasuke Boss",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": "mob:sasuke-boss",
+    "familyName": "Sasuke Boss",
+    "mobIds": [
+      "sasuke-boss"
+    ],
+    "areaId": "cave-group-9-10",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 379,
+    "name": "Acesso ao Renegade · andar acima (Z6)",
+    "z": 7,
+    "status": "access",
+    "familyKey": "mob:renegade",
+    "familyName": "Renegade",
+    "mobIds": [],
+    "method": "user-corrected-floor",
+    "nativeColor": "#00cc00",
+    "hideHuntOnSurface": true,
+    "reason": "Não há Renegade neste trecho do Z7. A hunt fica somente no andar acima, Z6, na referência 508."
+  },
+  {
+    "id": 382,
+    "name": "Passagem Suna (Hunt Karasu)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:karasu",
+    "familyName": "Karasu",
+    "mobIds": [
+      "karasu"
+    ],
+    "areaId": "community-karasu-fortress-entry",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 383,
+    "name": "Hunt Wamu 300+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:wamu",
+    "familyName": "Wamu",
+    "mobIds": [
+      "wamu"
+    ],
+    "areaId": "area-8-383-235",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 384,
+    "name": "Hunt Dino e Mummy",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:dino,mummy",
+    "familyName": "Mummy / Dino",
+    "mobIds": [
+      "mummy",
+      "dino"
+    ],
+    "areaId": "shared-group-6-384",
+    "method": "consolidated-cave",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 389,
+    "name": "Hunts e Dungeon Ibuki",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:ibuki",
+    "familyName": "Ibuki",
+    "mobIds": [
+      "ibuki"
+    ],
+    "areaId": "area-4-389-17",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 391,
+    "name": "Zyhan",
+    "z": 2,
+    "status": "mapped",
+    "familyKey": "mob:zyhan",
+    "familyName": "Zyhan",
+    "mobIds": [
+      "zyhan"
+    ],
+    "areaId": "area-2-391-2",
+    "method": "single-family-island",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 392,
+    "name": "Eikou e Washi",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:eikou,washi",
+    "familyName": "Eikou / Washi",
+    "mobIds": [
+      "eikou",
+      "washi"
+    ],
+    "areaId": "shared-group-6-392",
+    "method": "consolidated-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 394,
+    "name": "Hunt Araks",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-7-394-122",
+    "method": "single-family-island",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 395,
+    "name": "Hunt Gedou Dog 200+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:gedou-dog",
+    "familyName": "Gedou Dog",
+    "mobIds": [
+      "gedou-dog"
+    ],
+    "areaId": "area-6-395-73",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 397,
+    "name": "Werewolf",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:werewolf",
+    "familyName": "Werewolf",
+    "mobIds": [
+      "werewolf"
+    ],
+    "areaId": "area-6-397-103",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 398,
+    "name": "Supreme Sands 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:supreme-sand",
+    "familyName": "Supreme Sand",
+    "mobIds": [
+      "supreme-sand"
+    ],
+    "areaId": "area-7-398-495-139",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 399,
+    "name": "Hunt Werekan 450+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:werekan",
+    "familyName": "Werekan",
+    "mobIds": [
+      "werekan"
+    ],
+    "areaId": "area-7-168-399-428-481-567-615-634-120",
+    "method": "single-family-island",
+    "nativeColor": "#ccffff"
+  },
+  {
+    "id": 404,
+    "name": "Hunt Bikkubado, Scorpion e Hebi Shiro",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado,hebi-shiro,scorpion",
+    "familyName": "Bikkubado / Scorpion / Hebi Shiro",
+    "mobIds": [
+      "bikkubado",
+      "scorpion",
+      "hebi-shiro"
+    ],
+    "areaId": "community-hebi-bikkubado-scorpion-island",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 405,
+    "name": "Hunt Yoth Furie e Dungeon Yoth Furie",
+    "z": 7,
+    "status": "access",
+    "familyKey": "mob:yoth-furie",
+    "familyName": "Yoth Furie",
+    "mobIds": [
+      "yoth-furie"
+    ],
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00",
+    "reason": "Acesso preservado sem pintar a cidade. A hunt não ocupa esta faixa urbana.",
+    "hideHuntOnSurface": true
+  },
+  {
+    "id": 406,
+    "name": "Hunt Skeleton 200+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:skeleton",
+    "familyName": "Skeleton",
+    "mobIds": [
+      "skeleton"
+    ],
+    "areaId": "area-8-406-449-236",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 410,
+    "name": "Hunt Gedou Dog 200+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:gedou-dog",
+    "familyName": "Gedou Dog",
+    "mobIds": [
+      "gedou-dog"
+    ],
+    "areaId": "area-6-410-89",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 413,
+    "name": "Hunt 450+/Quest Geleira/Ponte Para Iwagakure",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 450+/Quest Geleira/Ponte Para Iwagakure",
+    "mobIds": [],
+    "areaId": "area-7-413-196",
+    "method": "shared-terrain",
+    "nativeColor": "#ccffff"
+  },
+  {
+    "id": 414,
+    "name": "Hunt Skeleton Fear 250+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:skeleton-fear",
+    "familyName": "Skeleton Fear",
+    "mobIds": [
+      "skeleton-fear"
+    ],
+    "areaId": "community-fear-z8",
+    "method": "user-corrected-region",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 416,
+    "name": "Hunt Gedou Dog 250+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:gedou-dog",
+    "familyName": "Gedou Dog",
+    "mobIds": [
+      "gedou-dog"
+    ],
+    "areaId": "area-5-416-26",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 418,
+    "name": "Hunt Chisana 400+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "unknown:chisana",
+    "familyName": "Chisana",
+    "mobIds": [],
+    "areaId": "area-5-418-27",
+    "method": "single-family-cave",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 419,
+    "name": "Hunt Rounin e AKaname 450+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:akaname|rounin",
+    "familyName": "Rounin / Akaname",
+    "mobIds": [
+      "akaname"
+    ],
+    "anchorDistance": 21.47,
+    "anchorOutside": true,
+    "areaId": "area-7-419-197",
+    "method": "shared-terrain",
+    "nativeColor": "#336699"
+  },
+  {
+    "id": 422,
+    "name": "Hunt Kimimaro 250+ e Quest Matatabi",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kimimaro",
+    "familyName": "Kimimaro",
+    "mobIds": [
+      "kimimaro"
+    ],
+    "areaId": "community-kimimaro-region-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 423,
+    "name": "Hunt de Devil",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:devil",
+    "familyName": "Devil",
+    "mobIds": [
+      "devil"
+    ],
+    "areaId": "area-6-423-105",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 425,
+    "name": "Hunt 500+ (diversos mobs)",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 500+ (diversos mobs)",
+    "mobIds": [],
+    "areaId": "area-6-425-68",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 427,
+    "name": "Hunt Gedou Dog - Nivel 200+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:gedou-dog",
+    "familyName": "Gedou Dog",
+    "mobIds": [
+      "gedou-dog"
+    ],
+    "areaId": "area-6-427-106",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 428,
+    "name": "Rei Pedre e Hunts",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Rei Pedre e Hunts",
+    "mobIds": [],
+    "areaId": "area-7-168-399-428-481-567-615-634-120",
+    "method": "single-family-island",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 430,
+    "name": "Hunt Nukenin - Nivel 150 a 350/400",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:nukenin",
+    "familyName": "Nukenin",
+    "mobIds": [
+      "nukenin"
+    ],
+    "areaId": "community-south-forest",
+    "method": "user-corrected-region",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 432,
+    "name": "Hunt Servium Snake 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "unknown:servium-snake",
+    "familyName": "Servium Snake",
+    "mobIds": [],
+    "areaId": "area-7-432-150",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 433,
+    "name": "Hunt Hebi Shiro, Bikkubado e Scorpion",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado,hebi-shiro,scorpion",
+    "familyName": "Hebi Shiro / Bikkubado / Scorpion",
+    "mobIds": [
+      "hebi-shiro",
+      "bikkubado",
+      "scorpion"
+    ],
+    "areaId": "community-hebi-bikkubado-scorpion-west",
+    "method": "user-corrected-region",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 434,
+    "name": "Hunt Keshin -2/Portal Quest Susano Armor",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:keshin",
+    "familyName": "Keshin",
+    "mobIds": [
+      "keshin"
+    ],
+    "areaId": "cave-group-8-269",
+    "method": "consolidated-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 435,
+    "name": "Hunt Gamaguren 100+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:gamaguren",
+    "familyName": "Gamaguren",
+    "mobIds": [
+      "gamaguren"
+    ],
+    "areaId": "area-7-435-151",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 439,
+    "name": "Hunt Wamu 350+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:wamu",
+    "familyName": "Wamu",
+    "mobIds": [
+      "wamu"
+    ],
+    "areaId": "cave-group-8-226",
+    "method": "consolidated-cave",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 445,
+    "name": "Kamons",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "area-6-445-107",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 448,
+    "name": "Hunt Hebi Shiro - Nivel 200+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:hebi-shiro",
+    "familyName": "Hebi Shiro",
+    "mobIds": [
+      "hebi-shiro"
+    ],
+    "areaId": "area-6-448-56",
+    "method": "single-family-cave",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 449,
+    "name": "Kinkaku (QUEST) e Hunts 350+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Kinkaku (QUEST) e Hunts 350+",
+    "mobIds": [],
+    "areaId": "area-8-406-449-236",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 450,
+    "name": "Hunt Zetsu 450+ (Clique com direito na cortina)",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "unknown:zetsu",
+    "familyName": "Zetsu",
+    "mobIds": [],
+    "areaId": "area-8-450-246",
+    "method": "shared-cave-floor",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 454,
+    "name": "Hunt Gedou Dog 250+ · Covil Orochimaru",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:gedou-dog",
+    "familyName": "Gedou Dog",
+    "mobIds": [
+      "gedou-dog"
+    ],
+    "areaId": "community-gedou-dog-covil-z6",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 456,
+    "name": "Shinobi Fire 100+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:shinobi-fire",
+    "familyName": "Shinobi Fire",
+    "mobIds": [
+      "shinobi-fire"
+    ],
+    "areaId": "area-7-456-141",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 458,
+    "name": "Zyhan",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:zyhan",
+    "familyName": "Zyhan",
+    "mobIds": [
+      "zyhan"
+    ],
+    "areaId": "area-4-458-18",
+    "method": "single-family-terrain",
+    "nativeColor": "#336699"
+  },
+  {
+    "id": 459,
+    "name": "Dragon",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:dragon",
+    "familyName": "Dragon",
+    "mobIds": [
+      "dragon"
+    ],
+    "areaId": "area-6-459-57",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 460,
+    "name": "Hunt Ibuki e Iranki 4 - 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-7-460-222",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 463,
+    "name": "Hunt Gedou Dog/Gedou Skeleton e Shinobi Fire 200+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:gedou-dog,gedou-skeleton,shinobi-fire",
+    "familyName": "Gedou Skeleton / Shinobi Fire / Gedou Dog",
+    "mobIds": [
+      "gedou-skeleton",
+      "shinobi-fire",
+      "gedou-dog"
+    ],
+    "areaId": "area-5-45-463-20",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 464,
+    "name": "Hunt Gamaguren",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:gamaguren",
+    "familyName": "Gamaguren",
+    "mobIds": [
+      "gamaguren"
+    ],
+    "areaId": "area-6-464-108",
+    "method": "single-family-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 467,
+    "name": "Eikou",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:eikou",
+    "familyName": "Eikou",
+    "mobIds": [
+      "eikou"
+    ],
+    "areaId": "area-6-467-69",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 470,
+    "name": "Hunt Skeleton Fear 250+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:skeleton-fear",
+    "familyName": "Skeleton Fear",
+    "mobIds": [
+      "skeleton-fear"
+    ],
+    "areaId": "community-fear-z8",
+    "method": "user-corrected-region",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 472,
+    "name": "Hunt Arak · Z7",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "community-arak-island-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 473,
+    "name": "Hunt Spectre · Z4",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:spectro",
+    "familyName": "Spectre",
+    "mobIds": [
+      "spectro"
+    ],
+    "areaId": "community-spectre-island-z4",
+    "method": "user-corrected-region",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 474,
+    "name": "Hunt Ibuki e Iranki 1 - 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-7-474-223",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 478,
+    "name": "Jump Down aqui (acesso a hunt e quests)",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Jump Down aqui (acesso a hunt e quests)",
+    "mobIds": [],
+    "areaId": "area-8-478-237",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 479,
+    "name": "Sand Sc2",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:sand-sc2",
+    "familyName": "Sand Sc2",
+    "mobIds": [
+      "sand-sc2"
+    ],
+    "areaId": "area-6-479-58",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 480,
+    "name": "Hunt Wamu e Eirian 450+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:eirian,wamu",
+    "familyName": "Eirian / Wamu",
+    "mobIds": [
+      "eirian",
+      "wamu"
+    ],
+    "areaId": "area-7-480-201",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 481,
+    "name": "Hunt Werekan 450+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:werekan",
+    "familyName": "Werekan",
+    "mobIds": [
+      "werekan"
+    ],
+    "areaId": "area-7-168-399-428-481-567-615-634-120",
+    "method": "single-family-island",
+    "nativeColor": "#ccffff"
+  },
+  {
+    "id": 482,
+    "name": "Hunt Ibuki e Iranki 3 - 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-7-482-224",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 483,
+    "name": "Hunt Supreme Sand 350+ · circuito costeiro",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:supreme-sand",
+    "familyName": "Supreme Sand",
+    "mobIds": [
+      "supreme-sand"
+    ],
+    "areaId": "community-supreme-sand-coastal-ring",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 486,
+    "name": "Hunt Kimimaro 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kimimaro",
+    "familyName": "Kimimaro",
+    "mobIds": [
+      "kimimaro"
+    ],
+    "areaId": "community-kimimaro-region-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 488,
+    "name": "Bikkubado",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado",
+    "familyName": "Bikkubado",
+    "mobIds": [
+      "bikkubado"
+    ],
+    "areaId": "area-4-488-5",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 491,
+    "name": "Hunt Araks 400+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-8-491-238",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 495,
+    "name": "Hunt Supreme Sand 350+ · circuito costeiro",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:supreme-sand",
+    "familyName": "Supreme Sand",
+    "mobIds": [
+      "supreme-sand"
+    ],
+    "areaId": "community-supreme-sand-coastal-ring",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 496,
+    "name": "Hunt Sound Shinobi e Bandit Sword - Nivel 150+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:bandit-sword,sound-shinobi",
+    "familyName": "Sound shinobi / Bandit Sword",
+    "mobIds": [
+      "sound-shinobi",
+      "bandit-sword"
+    ],
+    "areaId": "area-6-496-59",
+    "method": "single-family-island",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 500,
+    "name": "Kidos",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kido",
+    "familyName": "Kido",
+    "mobIds": [
+      "kido"
+    ],
+    "areaId": "area-6-17-500-506-67",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 501,
+    "name": "Hunt Dai Wamus 350+",
+    "z": 10,
+    "status": "mapped",
+    "familyKey": "mob:dai-wamu",
+    "familyName": "Dai Wamu",
+    "mobIds": [
+      "dai-wamu"
+    ],
+    "areaId": "area-10-501-275",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 502,
+    "name": "Hunt 300+ (Diversos Mobs)",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 300+ (Diversos Mobs)",
+    "mobIds": [],
+    "areaId": "area-9-502-265",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 503,
+    "name": "Hunt Sand Sc2 100+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:sand-sc2",
+    "familyName": "Sand Sc2",
+    "mobIds": [
+      "sand-sc2"
+    ],
+    "areaId": "area-6-503-574-60",
+    "method": "single-family-cave",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 506,
+    "name": "Kido",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kido",
+    "familyName": "Kido",
+    "mobIds": [
+      "kido"
+    ],
+    "areaId": "area-6-17-500-506-67",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 507,
+    "name": "Hunt 450+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 450+",
+    "mobIds": [],
+    "areaId": "area-5-507-628-28",
+    "method": "single-family-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 508,
+    "name": "Hunt Renegades - Nivel 200+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:renegade",
+    "familyName": "Renegade",
+    "mobIds": [
+      "renegade"
+    ],
+    "areaId": "area-6-508-61",
+    "method": "single-family-cave",
+    "nativeColor": "#666666"
+  },
+  {
+    "id": 509,
+    "name": "Hunt Ibuki e Iranki 2 - 350+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:ibuki,iranki",
+    "familyName": "Iranki / Ibuki",
+    "mobIds": [
+      "iranki",
+      "ibuki"
+    ],
+    "areaId": "area-7-509-225",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 513,
+    "name": "Hunt Zetsu 300+",
+    "z": 7,
+    "status": "access",
+    "familyKey": "unknown:zetsu",
+    "familyName": "Zetsu",
+    "mobIds": [],
+    "reason": "Referência original preservada junto da área revisada.",
+    "nativeColor": "#336699"
+  },
+  {
+    "id": 517,
+    "name": "Hunt Araks",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-6-517-104",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 521,
+    "name": "Hunt Arak · Z7",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "community-arak-island-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 522,
+    "name": "Hunt Bikkubado, Scorpion e Hebi Shiro",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bikkubado,hebi-shiro,scorpion",
+    "familyName": "Bikkubado / Scorpion / Hebi Shiro",
+    "mobIds": [
+      "bikkubado",
+      "scorpion",
+      "hebi-shiro"
+    ],
+    "areaId": "community-hebi-bikkubado-scorpion-island",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 525,
+    "name": "Werewolf",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:werewolf",
+    "familyName": "Werewolf",
+    "mobIds": [
+      "werewolf"
+    ],
+    "areaId": "area-6-525-109",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 527,
+    "name": "Hunt Keshin e Vampires 400+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:keshin,vampire",
+    "familyName": "Vampire / Keshin",
+    "mobIds": [
+      "vampire",
+      "keshin"
+    ],
+    "areaId": "cave-group-8-269",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 532,
+    "name": "Ishikawa e Godokawa 3",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:godokawa,ishikawa",
+    "familyName": "Ishikawa / Godokawa",
+    "mobIds": [
+      "ishikawa",
+      "godokawa"
+    ],
+    "areaId": "area-6-225-362-532-546-71",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 534,
+    "name": "Hunt Araks",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "area-6-534-110",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 535,
+    "name": "Hunt Kamon Estrela 250+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "hunt-8-535",
+    "method": "user-reviewed-terrain",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 538,
+    "name": "Hunt Snake Najin 150+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:snake-najin",
+    "familyName": "Snake Najin",
+    "mobIds": [
+      "snake-najin"
+    ],
+    "areaId": "area-7-538-166",
+    "method": "shared-terrain",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 539,
+    "name": "Hunt Serverium Snake 200+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "unknown:serverium-snake",
+    "familyName": "Serverium Snake",
+    "mobIds": [],
+    "areaId": "area-7-539-142",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 541,
+    "name": "Hunt Giant Fear 200+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:giant-fear",
+    "familyName": "Giant Fear",
+    "mobIds": [
+      "giant-fear"
+    ],
+    "areaId": "area-5-541-29",
+    "method": "single-family-cave",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 543,
+    "name": "Pain Boss (QUEST) e Hunt 300+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Pain Boss (QUEST) e Hunt 300+",
+    "mobIds": [],
+    "areaId": "area-8-543-578-263",
+    "method": "cave-floor",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 544,
+    "name": "Hunt Keshin -2",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:keshin",
+    "familyName": "Keshin",
+    "mobIds": [
+      "keshin"
+    ],
+    "areaId": "cave-group-8-269",
+    "method": "consolidated-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 546,
+    "name": "Ishikawa e Godokawa 1",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:godokawa,ishikawa",
+    "familyName": "Ishikawa / Godokawa",
+    "mobIds": [
+      "ishikawa",
+      "godokawa"
+    ],
+    "areaId": "area-6-225-362-532-546-71",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 548,
+    "name": "Hunt Kamon Estrela",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "area-6-548-90",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 549,
+    "name": "Hunt 400+ (Diversos Mobs)",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 400+ (Diversos Mobs)",
+    "mobIds": [],
+    "areaId": "area-6-549-111",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 550,
+    "name": "Hunt 550+ (Eikou, Washi e Outori)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:eikou,outori,washi",
+    "familyName": "Outori / Eikou / Washi",
+    "mobIds": [
+      "outori",
+      "eikou",
+      "washi"
+    ],
+    "areaId": "area-7-550-159",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 551,
+    "name": "Hunt 500+ (Diversos Mobs)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 500+ (Diversos Mobs)",
+    "mobIds": [],
+    "areaId": "area-7-551-160",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 552,
+    "name": "Todo area da ilha pode ser utilizada como hunt UP, principalmente subindo as rochas",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Todo area da ilha pode ser utilizada como hunt UP, principalmente subindo as rochas",
+    "mobIds": [],
+    "areaId": "area-6-552-62",
+    "method": "single-family-cave",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 553,
+    "name": "Hunt Venom Snake 2 - 200+",
+    "z": 12,
+    "status": "mapped",
+    "familyKey": "mob:venom-snake",
+    "familyName": "Venom Snake",
+    "mobIds": [
+      "venom-snake"
+    ],
+    "areaId": "area-12-553-284",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 555,
+    "name": "Ponte Kirigakure (Quest Geleira, Hunts 250+ e 500+)",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Ponte Kirigakure (Quest Geleira, Hunts 250+ e 500+)",
+    "mobIds": [],
+    "areaId": "area-6-76-555-76",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 556,
+    "name": "Hunt Arak · Z7 · Quest New Boots",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:arak",
+    "familyName": "Arak",
+    "mobIds": [
+      "arak"
+    ],
+    "areaId": "community-arak-island-z7",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 557,
+    "name": "Orochimaru (1 spawn) e Jya Boss",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:jya-boss,orochimaru",
+    "familyName": "Orochimaru / Jya Boss",
+    "mobIds": [
+      "orochimaru",
+      "jya-boss"
+    ],
+    "areaId": "community-orochimaru-jya-z4",
+    "method": "user-corrected-region",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 558,
+    "name": "Hunt Devil 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:devil",
+    "familyName": "Devil",
+    "mobIds": [
+      "devil"
+    ],
+    "areaId": "hunt-7-558",
+    "method": "user-reviewed-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 561,
+    "name": "Hunt Karasu · entrada da Fortress e baú",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:karasu",
+    "familyName": "Karasu",
+    "mobIds": [
+      "karasu"
+    ],
+    "areaId": "community-karasu-fortress-entry",
+    "method": "user-corrected-region",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 563,
+    "name": "Bandit · arredores de Konoha",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bandit",
+    "familyName": "Bandit",
+    "mobIds": [
+      "bandit"
+    ],
+    "areaId": "hunt-7-602-278",
+    "method": "user-reviewed-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 564,
+    "name": "Hunt 500+ (diversos mobs)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 500+ (diversos mobs)",
+    "mobIds": [],
+    "areaId": "area-7-564-161",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 567,
+    "name": "Hunt Werekan",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:werekan",
+    "familyName": "Werekan",
+    "mobIds": [
+      "werekan"
+    ],
+    "areaId": "area-7-168-399-428-481-567-615-634-120",
+    "method": "single-family-island",
+    "nativeColor": "#ccffff"
+  },
+  {
+    "id": 569,
+    "name": "Hunt Scorpion 350+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:scorpion",
+    "familyName": "Scorpion",
+    "mobIds": [
+      "scorpion"
+    ],
+    "areaId": "area-6-569-63",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 570,
+    "name": "Hunt Hebi Shiro",
+    "z": 7,
+    "status": "access",
+    "familyKey": "mob:hebi-shiro",
+    "familyName": "Hebi Shiro",
+    "mobIds": [
+      "hebi-shiro"
+    ],
+    "reason": "Referência original preservada junto da área revisada.",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 571,
+    "name": "Konchu",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:konchu",
+    "familyName": "Konchu",
+    "mobIds": [
+      "konchu"
+    ],
+    "areaId": "area-6-571-64",
+    "method": "single-family-island",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 573,
+    "name": "Hunt 550+ (Diversos Mobs)",
+    "z": 10,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt 550+ (Diversos Mobs)",
+    "mobIds": [],
+    "areaId": "area-10-573-276",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 574,
+    "name": "Hunt Sand Sc2 100+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:sand-sc2",
+    "familyName": "Sand Sc2",
+    "mobIds": [
+      "sand-sc2"
+    ],
+    "areaId": "area-6-503-574-60",
+    "method": "single-family-cave",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 575,
+    "name": "Hunt Mummy",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:mummy",
+    "familyName": "Mummy",
+    "mobIds": [
+      "mummy"
+    ],
+    "anchorOutside": true,
+    "anchorDistance": 20.4,
+    "areaId": "shared-group-6-384",
+    "method": "consolidated-cave",
+    "nativeColor": "#336699"
+  },
+  {
+    "id": 578,
+    "name": "Hunt Skeleton Fear 200+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:skeleton-fear",
+    "familyName": "Skeleton Fear",
+    "mobIds": [
+      "skeleton-fear"
+    ],
+    "areaId": "area-8-543-578-263",
+    "method": "cave-floor",
+    "nativeColor": "#666666"
+  },
+  {
+    "id": 580,
+    "name": "Amegakure, Covil Orochimaru, Ilhota",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:orochimaru",
+    "familyName": "Orochimaru",
+    "mobIds": [
+      "orochimaru"
+    ],
+    "areaId": "area-7-580-214",
+    "method": "shared-terrain",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 583,
+    "name": "Hunt Karasu 150+",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:karasu",
+    "familyName": "Karasu",
+    "mobIds": [
+      "karasu"
+    ],
+    "areaId": "area-8-583-239",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 584,
+    "name": "Hunts Heishi/Keshin e Portal Quest Susano Armor",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:heishi,keshin",
+    "familyName": "Heishi / Keshin",
+    "mobIds": [
+      "heishi",
+      "keshin"
+    ],
+    "areaId": "area-6-584-74",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 587,
+    "name": "Washi",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:washi",
+    "familyName": "Washi",
+    "mobIds": [
+      "washi"
+    ],
+    "areaId": "shared-group-6-392",
+    "method": "consolidated-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 589,
+    "name": "Hunt Eirian 450+",
+    "z": 10,
+    "status": "mapped",
+    "familyKey": "mob:eirian",
+    "familyName": "Eirian",
+    "mobIds": [
+      "eirian"
+    ],
+    "areaId": "area-10-589-277",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 592,
+    "name": "Eikou",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:eikou",
+    "familyName": "Eikou",
+    "mobIds": [
+      "eikou"
+    ],
+    "areaId": "shared-group-6-392",
+    "method": "consolidated-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 594,
+    "name": "Kamons",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "area-7-262-319-594-216",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 595,
+    "name": "Hunt 400+ e Dungeons Heishi e Jouzetsu",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:heishi",
+    "familyName": "Heishi",
+    "mobIds": [
+      "heishi"
+    ],
+    "areaId": "area-5-595-33",
+    "method": "shared-terrain",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 596,
+    "name": "Hunt Aracnideo 450+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:aracnideo",
+    "familyName": "Aracnideo",
+    "mobIds": [
+      "aracnideo"
+    ],
+    "areaId": "area-5-596-30",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 598,
+    "name": "Npc Minorax (Hunt Vermon e Gedou Dog 300+) Necessario Saga Invasao Pain",
+    "z": 7,
+    "status": "access",
+    "familyKey": "mob:gedou-dog,vermon",
+    "familyName": "Gedou Dog / Vermon",
+    "mobIds": [
+      "gedou-dog",
+      "vermon"
+    ],
+    "method": "shared-terrain",
+    "nativeColor": "#cc6600",
+    "reason": "Referência de acesso; hunt removida da superfície da cidade.",
+    "hideHuntOnSurface": true
+  },
+  {
+    "id": 599,
+    "name": "Hunt Chisana",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "unknown:chisana",
+    "familyName": "Chisana",
+    "mobIds": [],
+    "areaId": "area-6-599-112",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 601,
+    "name": "Venom Snake",
+    "z": 10,
+    "status": "mapped",
+    "familyKey": "mob:venom-snake",
+    "familyName": "Venom Snake",
+    "mobIds": [
+      "venom-snake"
+    ],
+    "areaId": "cave-group-10-313",
+    "method": "consolidated-cave",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 602,
+    "name": "Hunt Bandit - Nivel 80 a 160 (Farm Ervas SAGA)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:bandit",
+    "familyName": "Bandit",
+    "mobIds": [
+      "bandit"
+    ],
+    "areaId": "hunt-7-602-278",
+    "method": "user-reviewed-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 604,
+    "name": "Hunt e Dungeon",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunt e Dungeon",
+    "mobIds": [],
+    "areaId": "area-6-306-604-51",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 605,
+    "name": "Hunt Kyojin e Jaakuna 400+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "unknown:kyojin-e-jaakuna",
+    "familyName": "Kyojin e Jaakuna",
+    "mobIds": [],
+    "areaId": "area-7-605-202",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 606,
+    "name": "Yudoku",
+    "z": 4,
+    "status": "mapped",
+    "familyKey": "mob:yudoku",
+    "familyName": "Yudoku",
+    "mobIds": [
+      "yudoku"
+    ],
+    "areaId": "area-4-606-6",
+    "method": "single-family-island",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 614,
+    "name": "Hunt Keshin 400+",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": "mob:keshin",
+    "familyName": "Keshin",
+    "mobIds": [
+      "keshin"
+    ],
+    "areaId": "area-9-614-266",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 615,
+    "name": "Hunts 450+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunts 450+",
+    "mobIds": [],
+    "areaId": "area-7-168-399-428-481-567-615-634-120",
+    "method": "single-family-island",
+    "nativeColor": "#ffffff"
+  },
+  {
+    "id": 617,
+    "name": "Covil Akatsuki/Hunts 300+/Dungeon Deidara",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:akatsuki",
+    "familyName": "Akatsuki",
+    "mobIds": [
+      "akatsuki"
+    ],
+    "areaId": "area-8-617-254",
+    "method": "shared-cave-floor",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 618,
+    "name": "Hunt Heishi e Akamanto - Nivel 350+",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:akamanto,heishi",
+    "familyName": "Akamanto / Heishi",
+    "mobIds": [
+      "akamanto",
+      "heishi"
+    ],
+    "areaId": "area-6-618-65",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 619,
+    "name": "Hunts Keshin e Portal Quest Susano Armor",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:keshin",
+    "familyName": "Keshin",
+    "mobIds": [
+      "keshin"
+    ],
+    "areaId": "area-7-619-155",
+    "method": "shared-terrain",
+    "nativeColor": "#ffff00"
+  },
+  {
+    "id": 624,
+    "name": "Hunt Kamon Estrela 250+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "hunt-7-624",
+    "method": "user-reviewed-terrain",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 625,
+    "name": "Black SHinobi",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:black-shinobi",
+    "familyName": "Black Shinobi",
+    "mobIds": [
+      "black-shinobi"
+    ],
+    "areaId": "area-7-625-174",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 626,
+    "name": "Hunts 250+ e Sasuke Boss",
+    "z": 10,
+    "status": "mapped",
+    "familyKey": "mob:sasuke-boss",
+    "familyName": "Sasuke Boss",
+    "mobIds": [
+      "sasuke-boss"
+    ],
+    "areaId": "cave-group-10-296",
+    "method": "consolidated-cave",
+    "nativeColor": "#996633"
+  },
+  {
+    "id": 627,
+    "name": "Hunt Keshin 400+",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": "mob:keshin",
+    "familyName": "Keshin",
+    "mobIds": [
+      "keshin"
+    ],
+    "areaId": "area-9-627-267",
+    "method": "single-family-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 628,
+    "name": "Hunt mamushi 450+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:mamushi",
+    "familyName": "Mamushi",
+    "mobIds": [
+      "mamushi"
+    ],
+    "areaId": "area-5-507-628-28",
+    "method": "single-family-cave",
+    "nativeColor": "#ffffff"
+  },
+  {
+    "id": 629,
+    "name": "Kamons",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "area-6-372-629-102",
+    "method": "single-family-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 632,
+    "name": "Hunt Great Snake 200+",
+    "z": 9,
+    "status": "mapped",
+    "familyKey": "mob:great-snake",
+    "familyName": "Great Snake",
+    "mobIds": [
+      "great-snake"
+    ],
+    "areaId": "cave-group-9-10",
+    "method": "consolidated-cave",
+    "nativeColor": "#999999"
+  },
+  {
+    "id": 633,
+    "name": "Dragon",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:dragon",
+    "familyName": "Dragon",
+    "mobIds": [
+      "dragon"
+    ],
+    "areaId": "area-7-162-633-133",
+    "method": "shared-terrain",
+    "nativeColor": "#ffcc99"
+  },
+  {
+    "id": 634,
+    "name": "Hunts 400+",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "Hunts 400+",
+    "mobIds": [],
+    "areaId": "area-7-168-399-428-481-567-615-634-120",
+    "method": "single-family-island",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 636,
+    "name": "South Florest (Dungeons, Quests e Hunts)",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": null,
+    "familyName": "South Florest (Dungeons, Quests e Hunts)",
+    "mobIds": [],
+    "areaId": "area-7-636-144",
+    "method": "shared-terrain",
+    "nativeColor": "#00cc00"
+  },
+  {
+    "id": 637,
+    "name": "Hunt Mamushi 400+",
+    "z": 5,
+    "status": "mapped",
+    "familyKey": "mob:mamushi",
+    "familyName": "Mamushi",
+    "mobIds": [
+      "mamushi"
+    ],
+    "areaId": "area-5-637-31",
+    "method": "single-family-cave",
+    "nativeColor": "#ffffff"
+  },
+  {
+    "id": 638,
+    "name": "Hunt Kuroari · South Forest",
+    "z": 7,
+    "status": "mapped",
+    "familyKey": "mob:kuroari",
+    "familyName": "Kuroari",
+    "mobIds": [
+      "kuroari"
+    ],
+    "areaId": "community-south-forest",
+    "method": "user-corrected-region",
+    "nativeColor": "#006600"
+  },
+  {
+    "id": 359,
+    "name": "Jiroubou · Fortress",
+    "z": 7,
+    "status": "mapped",
+    "mobIds": [
+      "jiiroubou"
+    ],
+    "familyKey": "mob:jiiroubou",
+    "familyName": "Jiroubou",
+    "areaId": "community-fortress-tayuya-jiroubou",
+    "method": "user-corrected-region"
+  },
+  {
+    "id": 639,
+    "name": "Hunt Yoth · montanhas da neve",
+    "z": 7,
+    "status": "mapped",
+    "areaId": "community-yoth-snow-mountains-z7",
+    "method": "user-corrected-region",
+    "mobIds": [
+      "yoth"
+    ],
+    "familyKey": "mob:yoth",
+    "familyName": "Yoth"
+  },
+  {
+    "id": 640,
+    "name": "Hunt Giant Ice Yoth 100+ · cave inteira",
+    "z": 8,
+    "status": "mapped",
+    "familyKey": "mob:giante-ice-yoth",
+    "familyName": "Giant Ice Yoth",
+    "mobIds": [
+      "giante-ice-yoth"
+    ],
+    "areaId": "community-giant-ice-yoth-z8",
+    "method": "user-corrected-region"
+  },
+  {
+    "id": 641,
+    "name": "Hunt Kamon 250+ · cave inteira",
+    "z": 6,
+    "status": "mapped",
+    "familyKey": "mob:kamon",
+    "familyName": "Kamon",
+    "mobIds": [
+      "kamon"
+    ],
+    "areaId": "community-kamon-cave-z6",
+    "method": "user-corrected-region"
+  }
+]

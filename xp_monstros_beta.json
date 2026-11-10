@@ -1,0 +1,559 @@
+{
+  "version": "beta-1",
+  "source": "Registros de XP e imagem das rates do Guia NTO enviados pelo usuário em 09/11/2026",
+  "referenceLevel": 581,
+  "referenceRate": 2,
+  "bonusModel": "multiplicativo: +80% = 1.8; +380% = 4.8",
+  "formula": "baseXp = observedXp / referenceRate / (1 + observedBonusPercent / 100)",
+  "stages": [
+    {
+      "minLevel": 1,
+      "maxLevel": 50,
+      "rate": 1500
+    },
+    {
+      "minLevel": 51,
+      "maxLevel": 80,
+      "rate": 1400
+    },
+    {
+      "minLevel": 81,
+      "maxLevel": 100,
+      "rate": 1300
+    },
+    {
+      "minLevel": 101,
+      "maxLevel": 150,
+      "rate": 1250
+    },
+    {
+      "minLevel": 151,
+      "maxLevel": 200,
+      "rate": 1100
+    },
+    {
+      "minLevel": 201,
+      "maxLevel": 250,
+      "rate": 900
+    },
+    {
+      "minLevel": 251,
+      "maxLevel": 300,
+      "rate": 300
+    },
+    {
+      "minLevel": 301,
+      "maxLevel": 350,
+      "rate": 200
+    },
+    {
+      "minLevel": 351,
+      "maxLevel": 400,
+      "rate": 150
+    },
+    {
+      "minLevel": 401,
+      "maxLevel": 450,
+      "rate": 50
+    },
+    {
+      "minLevel": 451,
+      "maxLevel": 560,
+      "rate": 41
+    },
+    {
+      "minLevel": 561,
+      "maxLevel": 579,
+      "rate": 4
+    },
+    {
+      "minLevel": 580,
+      "maxLevel": 699,
+      "rate": 2
+    },
+    {
+      "minLevel": 700,
+      "maxLevel": null,
+      "rate": 0
+    }
+  ],
+  "mobs": [
+    {
+      "id": "bandit",
+      "name": "Bandit",
+      "observedXp": 780,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 216.66666666666666
+    },
+    {
+      "id": "sound-shinobi",
+      "name": "Sound Shinobi",
+      "observedXp": 2028,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 563.3333333333334
+    },
+    {
+      "id": "dark-snake",
+      "name": "Dark Snake",
+      "observedXp": 4030,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 1119.4444444444443
+    },
+    {
+      "id": "renegade",
+      "name": "Renegade",
+      "observedXp": 5720,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 1588.888888888889
+    },
+    {
+      "id": "great-snake",
+      "name": "Great Snake",
+      "observedXp": 3640,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 1011.1111111111111
+    },
+    {
+      "id": "giant-fear",
+      "name": "Giant Fear",
+      "observedXp": 4160,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 1155.5555555555554
+    },
+    {
+      "id": "severium-snake",
+      "name": "Severium Snake",
+      "observedXp": 2080,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 577.7777777777777
+    },
+    {
+      "id": "shinobi-skys",
+      "name": "Shinobi Skys",
+      "observedXp": 7540,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 2094.4444444444443
+    },
+    {
+      "id": "kuroari",
+      "name": "Kuroari",
+      "observedXp": 7800,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 2166.6666666666665
+    },
+    {
+      "id": "nukenin",
+      "name": "Nukenin",
+      "observedXp": 8320,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 2311.111111111111
+    },
+    {
+      "id": "shinobi-of-sound",
+      "name": "Shinobi of Sound",
+      "observedXp": 2210,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 613.8888888888889
+    },
+    {
+      "id": "skeleton",
+      "name": "Skeleton",
+      "observedXp": 9620,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 2672.222222222222
+    },
+    {
+      "id": "konchu",
+      "name": "Konchu",
+      "observedXp": 18980,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 5272.222222222222
+    },
+    {
+      "id": "konchu-doku",
+      "name": "Konchu Doku",
+      "observedXp": 20540,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 5705.555555555556
+    },
+    {
+      "id": "tsuyoi-kyojin",
+      "name": "Tsuyoi Kyojin",
+      "observedXp": 27300,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 7583.333333333333
+    },
+    {
+      "id": "jaakuna-tako",
+      "name": "Jaakuna Tako",
+      "observedXp": 23400,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 6500.0
+    },
+    {
+      "id": "wamu",
+      "name": "Wamu",
+      "observedXp": 33800,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 9388.888888888889
+    },
+    {
+      "id": "venom-scorpion",
+      "name": "Venom Scorpion",
+      "observedXp": 46800,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 13000.0
+    },
+    {
+      "id": "mamushi",
+      "name": "Mamushi",
+      "observedXp": 32500,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 9027.777777777777
+    },
+    {
+      "id": "ribaiasan",
+      "name": "Ribaiasan",
+      "observedXp": 36400,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 10111.111111111111
+    },
+    {
+      "id": "dino",
+      "name": "Dino",
+      "observedXp": 19500,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 5416.666666666667
+    },
+    {
+      "id": "mummy",
+      "name": "Mummy",
+      "observedXp": 15600,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 4333.333333333333
+    },
+    {
+      "id": "jya-boss",
+      "name": "Jya Boss",
+      "observedXp": 46280,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 12855.555555555555
+    },
+    {
+      "id": "yoth-furie",
+      "name": "Yoth Furie",
+      "observedXp": 19500,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 5416.666666666667
+    },
+    {
+      "id": "beezer",
+      "name": "Beezer",
+      "observedXp": 78,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 21.666666666666668
+    },
+    {
+      "id": "yoth",
+      "name": "Yoth",
+      "observedXp": 2080,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 577.7777777777777
+    },
+    {
+      "id": "giante-ice-yoth",
+      "name": "Giant Ice Yoth",
+      "observedXp": 6500,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 1805.5555555555554
+    },
+    {
+      "id": "supreme-sand",
+      "name": "Supreme Sand",
+      "observedXp": 16120,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 4477.777777777777
+    },
+    {
+      "id": "kimimaro",
+      "name": "Kimimaro",
+      "observedXp": 15600,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 4333.333333333333
+    },
+    {
+      "id": "karasu",
+      "name": "Karasu",
+      "observedXp": 7020,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 1950.0
+    },
+    {
+      "id": "jiiroubou",
+      "name": "Jiroubou",
+      "observedXp": 14300,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 3972.222222222222
+    },
+    {
+      "id": "tayuya",
+      "name": "Tayuya",
+      "observedXp": 14040,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 3900.0
+    },
+    {
+      "id": "gedou-dog",
+      "name": "Gedou Dog",
+      "observedXp": 14820,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 4116.666666666667
+    },
+    {
+      "id": "gedou-skeleton",
+      "name": "Gedou Skeleton",
+      "observedXp": 14820,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 4116.666666666667
+    },
+    {
+      "id": "spectro",
+      "name": "Spectre",
+      "observedXp": 15600,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 4333.333333333333
+    },
+    {
+      "id": "hebi-shiro",
+      "name": "Hebi Shiro",
+      "observedXp": 32500,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 9027.777777777777
+    },
+    {
+      "id": "araken",
+      "name": "Araken",
+      "observedXp": 22100,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 6138.888888888889
+    },
+    {
+      "id": "aracnideo",
+      "name": "Aracnideo",
+      "observedXp": 49400,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 13722.222222222223
+    },
+    {
+      "id": "werekan",
+      "name": "Werekan",
+      "observedXp": 26260,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 7294.444444444444
+    },
+    {
+      "id": "oukina",
+      "name": "Oukina",
+      "observedXp": 92300,
+      "observedBonusPercent": 80,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 25638.888888888887
+    },
+    {
+      "id": "yudoku",
+      "name": "Yudoku",
+      "observedXp": 163400,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 17020.833333333336
+    },
+    {
+      "id": "zyhan",
+      "name": "Zyhan",
+      "observedXp": 184900,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 19260.416666666668
+    },
+    {
+      "id": "aronak",
+      "name": "Aronak",
+      "observedXp": 124700,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 12989.583333333334
+    },
+    {
+      "id": "aranto",
+      "name": "Aranto",
+      "observedXp": 133300,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 13885.416666666668
+    },
+    {
+      "id": "arak",
+      "name": "Arak",
+      "observedXp": 68800,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 7166.666666666667
+    },
+    {
+      "id": "werewolf",
+      "name": "Werewolf",
+      "observedXp": 172000,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 17916.666666666668
+    },
+    {
+      "id": "salamandra",
+      "name": "Salamandra",
+      "observedXp": 86000,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 8958.333333333334
+    },
+    {
+      "id": "wapi",
+      "name": "Wapi",
+      "observedXp": 103200,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 10750.0
+    },
+    {
+      "id": "chisana",
+      "name": "Chisana",
+      "observedXp": 107973,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 11247.1875
+    },
+    {
+      "id": "akamanto",
+      "name": "Akamanto",
+      "observedXp": 116100,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 12093.75
+    },
+    {
+      "id": "heishi",
+      "name": "Heishi",
+      "observedXp": 184900,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 19260.416666666668
+    },
+    {
+      "id": "sand-sc2",
+      "name": "Sand Sc2",
+      "observedXp": 3010,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 313.5416666666667
+    },
+    {
+      "id": "sand-cros",
+      "name": "Sand Cros",
+      "observedXp": 1376,
+      "observedBonusPercent": 380,
+      "referenceLevel": 581,
+      "referenceRate": 2,
+      "baseXp": 143.33333333333334
+    }
+  ]
+}

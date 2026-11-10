@@ -1,0 +1,592 @@
+{
+  "video": "EsKxPj9DGYg",
+  "duration_seconds": 977.978,
+  "method": "Amostragem de quadros do MP4 enviado + inspeção visual + comparação ao minimapa e sprites; pontos aproximados não são geometria georreferenciada. Acompanhamento automático do minimapa pela correlação de modelo na imagem do atlas: 1 pixel=1 tile, escala estimada 0,7; posições aproximadas para quadros com correspondência elevada. Acompanhamento automático do minimapa pela correlação de modelo na imagem do atlas: 1 pixel=1 tile, escala estimada 0,7; posições aproximadas para quadros com correspondência elevada.",
+  "observations": [
+    {
+      "t": 10,
+      "time": "00:10",
+      "region": "konoha",
+      "area": "Konoha",
+      "title": "Exterior de Konoha: construção vermelha, gramado e calçamento",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 1011,
+        "y": 900,
+        "z": 7
+      },
+      "screenshot": "video_refs/0010.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=10s",
+      "approximate_position": {
+        "x": 1011,
+        "y": 900,
+        "z": 7
+      },
+      "match_confidence": 0.83,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 20,
+      "time": "00:20",
+      "region": "konoha",
+      "area": "Konoha",
+      "title": "Construção circular: cobertura vermelha, pátio claro e cercado de madeira",
+      "visual_confirmed": true,
+      "georeference": "approximate_region",
+      "reference_anchor": {
+        "x": 1014,
+        "y": 912,
+        "z": 7
+      },
+      "screenshot": "video_refs/0020.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=20s"
+    },
+    {
+      "t": 30,
+      "time": "00:30",
+      "region": "konoha",
+      "area": "Konoha / floresta próxima",
+      "title": "Floresta próxima de Konoha: copas densas envolvendo clareira",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 1114,
+        "y": 920,
+        "z": 7
+      },
+      "screenshot": "video_refs/0030.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=30s",
+      "approximate_position": {
+        "x": 1114,
+        "y": 920,
+        "z": 7
+      },
+      "match_confidence": 0.832,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 50,
+      "time": "00:50",
+      "region": "konoha",
+      "area": "Konoha / canal",
+      "title": "Canal azul junto a construção, chão e vegetação próximos",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 1117,
+        "y": 909,
+        "z": 7
+      },
+      "screenshot": "video_refs/0050.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=50s",
+      "approximate_position": {
+        "x": 1117,
+        "y": 909,
+        "z": 7
+      },
+      "match_confidence": 0.835,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 60,
+      "time": "01:00",
+      "region": "konoha",
+      "area": "Konoha",
+      "title": "Telhados vermelhos, praça bege e elementos de cidade",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 1096,
+        "y": 947,
+        "z": 7
+      },
+      "screenshot": "video_refs/0060.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=60s",
+      "approximate_position": {
+        "x": 1096,
+        "y": 947,
+        "z": 7
+      },
+      "match_confidence": 0.855,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 80,
+      "time": "01:20",
+      "region": "konoha",
+      "area": "Konoha / interior",
+      "title": "Edifício circular: piso de madeira, bancos, plantas e escada",
+      "visual_confirmed": true,
+      "georeference": "approximate_region",
+      "reference_anchor": {
+        "x": 1014,
+        "y": 912,
+        "z": 7
+      },
+      "screenshot": "video_refs/0080.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=80s"
+    },
+    {
+      "t": 90,
+      "time": "01:30",
+      "region": "konoha",
+      "area": "Konoha / canal",
+      "title": "Água contornando construções, escadas e travessias",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 1030,
+        "y": 901,
+        "z": 7
+      },
+      "screenshot": "video_refs/0090.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=90s",
+      "approximate_position": {
+        "x": 1030,
+        "y": 901,
+        "z": 7
+      },
+      "match_confidence": 0.798,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 110,
+      "time": "01:50",
+      "region": "forest",
+      "area": "Exterior arborizado",
+      "title": "Margem de água azul e grandes blocos de árvores",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0110.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=110s"
+    },
+    {
+      "t": 140,
+      "time": "02:20",
+      "region": "forest",
+      "area": "Floresta com piso ciano",
+      "title": "Terreno verde-ciano, arbustos e caminhos próximos a construção",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 966,
+        "y": 914,
+        "z": 7
+      },
+      "screenshot": "video_refs/0140.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=140s",
+      "approximate_position": {
+        "x": 966,
+        "y": 914,
+        "z": 7
+      },
+      "match_confidence": 0.856,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 170,
+      "time": "02:50",
+      "region": "forest",
+      "area": "Mata / estruturas",
+      "title": "Piso ciano com vegetação e árvores, possível construção",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 967,
+        "y": 889,
+        "z": 7
+      },
+      "screenshot": "video_refs/0170.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=170s",
+      "approximate_position": {
+        "x": 967,
+        "y": 889,
+        "z": 7
+      },
+      "match_confidence": 0.845,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 220,
+      "time": "03:40",
+      "region": "forest",
+      "area": "Mata externa",
+      "title": "Clareira e vegetação com textura ciano",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0220.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=220s"
+    },
+    {
+      "t": 290,
+      "time": "04:50",
+      "region": "other",
+      "area": "Zona arenosa",
+      "title": "Solo claro arenoso, bordas de água e vegetação",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0290.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=290s"
+    },
+    {
+      "t": 330,
+      "time": "05:30",
+      "region": "forest",
+      "area": "Floresta com clareira",
+      "title": "Massa de árvores com clareira no centro, alguns objetos/obstáculos",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0330.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=330s"
+    },
+    {
+      "t": 380,
+      "time": "06:20",
+      "region": "konoha",
+      "area": "Konoha / área construída",
+      "title": "Construções e passagem entre interior e exterior",
+      "visual_confirmed": true,
+      "georeference": "minimap_match_floor_uncertain",
+      "reference_anchor": {
+        "x": 1004,
+        "y": 907,
+        "z": 7
+      },
+      "screenshot": "video_refs/0380.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=380s",
+      "match_confidence": 0.82,
+      "match_details": "O minimapa do vídeo tem forte correspondência ao mapa de superfície, mas a cena é interior/tem andar incerto: não posicionar pin em Z7 sem verificar.",
+      "mini_alignment_reference": {
+        "x": 1004,
+        "y": 907,
+        "z": 7
+      }
+    },
+    {
+      "t": 400,
+      "time": "06:40",
+      "region": "other",
+      "area": "Vila / ponte",
+      "title": "Ponte de madeira extensa sobre canal azul",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0400.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=400s"
+    },
+    {
+      "t": 440,
+      "time": "07:20",
+      "region": "other",
+      "area": "Rochas / terreno escuro",
+      "title": "Área rochosa e cercada, elementos marrons",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0440.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=440s"
+    },
+    {
+      "t": 500,
+      "time": "08:20",
+      "region": "konoha",
+      "area": "Konoha / construções",
+      "title": "Interior e beira de rio com construção em telhas vermelhas",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 1016,
+        "y": 921,
+        "z": 7
+      },
+      "screenshot": "video_refs/0500.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=500s",
+      "approximate_position": {
+        "x": 1016,
+        "y": 921,
+        "z": 7
+      },
+      "match_confidence": 0.827,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 530,
+      "time": "08:50",
+      "region": "forest",
+      "area": "South Forest · caminho",
+      "title": "South Forest: chão verde-ciano e corredores densos de árvores repetidas",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 880,
+        "y": 1050,
+        "z": 7
+      },
+      "screenshot": "video_refs/0530.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=530s",
+      "approximate_position": {
+        "x": 880,
+        "y": 1050,
+        "z": 7
+      },
+      "match_confidence": 0.878,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 540,
+      "time": "09:00",
+      "region": "forest",
+      "area": "South Forest · Renegade",
+      "title": "South Forest: Jounin Renegade, árvores contíguas e plataforma de madeira",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 909,
+        "y": 973,
+        "z": 7
+      },
+      "screenshot": "video_refs/0540.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=540s",
+      "approximate_position": {
+        "x": 909,
+        "y": 973,
+        "z": 7
+      },
+      "match_confidence": 0.75,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 550,
+      "time": "09:10",
+      "region": "forest",
+      "area": "Mata densa",
+      "title": "Árvores repetidas ao redor de trilha ou clareira",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0550.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=550s"
+    },
+    {
+      "t": 570,
+      "time": "09:30",
+      "region": "forest",
+      "area": "Mata densa",
+      "title": "Clareiras e elementos no chão junto a massa florestal",
+      "visual_confirmed": true,
+      "georeference": "minimap_match_floor_uncertain",
+      "reference_anchor": {
+        "x": 1013,
+        "y": 923,
+        "z": 7
+      },
+      "screenshot": "video_refs/0570.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=570s",
+      "match_confidence": 0.821,
+      "match_details": "O minimapa do vídeo tem forte correspondência ao mapa de superfície, mas a cena é interior/tem andar incerto: não posicionar pin em Z7 sem verificar.",
+      "mini_alignment_reference": {
+        "x": 1013,
+        "y": 923,
+        "z": 7
+      }
+    },
+    {
+      "t": 620,
+      "time": "10:20",
+      "region": "konoha",
+      "area": "Konoha / interior",
+      "title": "Interior de casa, chão de madeira e plantações/objetos",
+      "visual_confirmed": true,
+      "georeference": "minimap_match_floor_uncertain",
+      "reference_anchor": {
+        "x": 991,
+        "y": 907,
+        "z": 7
+      },
+      "screenshot": "video_refs/0620.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=620s",
+      "match_confidence": 0.838,
+      "match_details": "O minimapa do vídeo tem forte correspondência ao mapa de superfície, mas a cena é interior/tem andar incerto: não posicionar pin em Z7 sem verificar.",
+      "mini_alignment_reference": {
+        "x": 991,
+        "y": 907,
+        "z": 7
+      }
+    },
+    {
+      "t": 680,
+      "time": "11:20",
+      "region": "other",
+      "area": "Área externa",
+      "title": "Edifício de telhado amarelo e área arborizada",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0680.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=680s"
+    },
+    {
+      "t": 730,
+      "time": "12:10",
+      "region": "forest",
+      "area": "Mata com pátio",
+      "title": "Vegetação, terreno ciano e entrada de estrutura",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0730.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=730s"
+    },
+    {
+      "t": 750,
+      "time": "12:30",
+      "region": "other",
+      "area": "Interior madeira",
+      "title": "Estrutura com muitos cômodos e móveis de madeira",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0750.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=750s"
+    },
+    {
+      "t": 800,
+      "time": "13:20",
+      "region": "other",
+      "area": "Sala interior",
+      "title": "Piso quadriculado claro e objeto principal em área central",
+      "visual_confirmed": true,
+      "georeference": "minimap_match_floor_uncertain",
+      "reference_anchor": {
+        "x": 1033,
+        "y": 819,
+        "z": 7
+      },
+      "screenshot": "video_refs/0800.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=800s",
+      "match_confidence": 0.907,
+      "match_details": "O minimapa do vídeo tem forte correspondência ao mapa de superfície, mas a cena é interior/tem andar incerto: não posicionar pin em Z7 sem verificar.",
+      "mini_alignment_reference": {
+        "x": 1033,
+        "y": 819,
+        "z": 7
+      }
+    },
+    {
+      "t": 870,
+      "time": "14:30",
+      "region": "konoha",
+      "area": "Konoha / transição",
+      "title": "Telhado vermelho, ponte, zona de gramado com árvores",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 971,
+        "y": 877,
+        "z": 7
+      },
+      "screenshot": "video_refs/0870.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=870s",
+      "approximate_position": {
+        "x": 971,
+        "y": 877,
+        "z": 7
+      },
+      "match_confidence": 0.848,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 890,
+      "time": "14:50",
+      "region": "forest",
+      "area": "Floresta compacta",
+      "title": "Densa vegetação verde e pequena clareira",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 991,
+        "y": 859,
+        "z": 7
+      },
+      "screenshot": "video_refs/0890.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=890s",
+      "approximate_position": {
+        "x": 991,
+        "y": 859,
+        "z": 7
+      },
+      "match_confidence": 0.839,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 900,
+      "time": "15:00",
+      "region": "forest",
+      "area": "Floresta compacta",
+      "title": "Copas em blocos, caminhos internos de grama",
+      "visual_confirmed": true,
+      "georeference": "minimap_template_match_approximate",
+      "reference_anchor": {
+        "x": 990,
+        "y": 856,
+        "z": 7
+      },
+      "screenshot": "video_refs/0900.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=900s",
+      "approximate_position": {
+        "x": 990,
+        "y": 856,
+        "z": 7
+      },
+      "match_confidence": 0.841,
+      "match_details": "Correlaçao da miniatura do minimapa do vídeo com Z7, escala 0,7, localização estimada da cruz central; verificar no jogo antes de tratar como exata."
+    },
+    {
+      "t": 930,
+      "time": "15:30",
+      "region": "other",
+      "area": "Caverna",
+      "title": "Chão escuro e paredes rochosas",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0930.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=930s"
+    },
+    {
+      "t": 950,
+      "time": "15:50",
+      "region": "other",
+      "area": "Água / ponte",
+      "title": "Margem de rio, barquinho e gramado",
+      "visual_confirmed": true,
+      "georeference": "unresolved",
+      "reference_anchor": null,
+      "screenshot": "video_refs/0950.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=950s"
+    },
+    {
+      "t": 970,
+      "time": "16:10",
+      "region": "konoha",
+      "area": "Konoha / interior",
+      "title": "Retorno ao edifício circular de madeira",
+      "visual_confirmed": true,
+      "georeference": "approximate_region",
+      "reference_anchor": {
+        "x": 1014,
+        "y": 912,
+        "z": 7
+      },
+      "screenshot": "video_refs/0970.webp",
+      "video_url": "https://www.youtube.com/watch?v=EsKxPj9DGYg&t=970s"
+    }
+  ],
+  "georeferenced_observations": 13,
+  "minimap_matches_total": 17
+}

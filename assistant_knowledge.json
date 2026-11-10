@@ -1,0 +1,305 @@
+{
+  "version": 1,
+  "source": "Guia NTO fornecido: seções Sets, Quest New Sword, NTO_COMPARATIVO, NTO_SETS_FREE, NTO_TASKS e atributos/origens dos itens. Coordenadas dos marcadores originais do Atlas.",
+  "weapons": {
+    "sword": {
+      "label": "espada / sword",
+      "aliases": [
+        "espada",
+        "espadas",
+        "sword",
+        "swords"
+      ],
+      "itemIds": [
+        "zabuzasword-7391",
+        "shibuki-10484",
+        "samehada-7425",
+        "algumaarmabolada2-7407",
+        "algumaarmabolada-7406",
+        "algumaarmabolada3-7421",
+        "hiramekarei-7461"
+      ],
+      "questId": "quest-newsword",
+      "markerIds": [
+        340,
+        401
+      ],
+      "source": "Guia: Melhores armas free — Quest New Sword (Ilhota)"
+    },
+    "distance": {
+      "label": "distance / shuriken",
+      "aliases": [
+        "distance",
+        "distancia",
+        "dist",
+        "shuriken",
+        "shurikens",
+        "ranged",
+        "range"
+      ],
+      "itemIds": [
+        "fumakatonshhuriken-3051"
+      ],
+      "markerIds": [
+        409,
+        126,
+        237
+      ],
+      "routeLabel": "Quest New Shuriken/Glove · Covil Orochimaru",
+      "originConfirmed": true,
+      "source": "Guia: Fuuma Katon como melhor ranged free; origem confirmada pelo usuário na Quest New Shuriken/Glove em 09/11/2026.",
+      "questId": "quest-newshuriken-glove"
+    },
+    "glove": {
+      "label": "luva / glove",
+      "aliases": [
+        "luva",
+        "luvas",
+        "glove",
+        "gloves",
+        "punho",
+        "soco"
+      ],
+      "itemIds": [
+        "raikageglove-3312"
+      ],
+      "alternateItemIds": [
+        "goldenslayerglove-3073"
+      ],
+      "questId": "quest-newkage",
+      "markerIds": [
+        409,
+        126,
+        237
+      ],
+      "routeLabel": "Acesso à Quest New Shuriken/Glove · Covil Orochimaru",
+      "source": "Guia: Raikage Furie Glove — Quest New Kage/Glove (Covil Orochimaru); Atlas: acesso de New Shuriken/Glove."
+    }
+  },
+  "sets": {
+    "akatsuki": {
+      "itemIds": [
+        "akatsuki-hat-11700",
+        "akatsukiarmor",
+        "akatsukiboots-10847",
+        "akatsukilegs",
+        "amulet-of-akatsuki",
+        "gourdfuin-10804"
+      ],
+      "passive": "+30% de EXP e cura 15% do dano causado por mobs.",
+      "source": "NTO_SETS_FREE.akatsuki"
+    },
+    "otsutsuki": {
+      "aliases": [
+        "otsutsuki",
+        "otsusuki",
+        "otsutsuke",
+        "hagoromo"
+      ],
+      "itemIds": [
+        "otsutsukiarmor",
+        "otsutsukibackpack",
+        "otsutsukiboots",
+        "otsutsukihat",
+        "otsutsukilegs"
+      ],
+      "passive": "+20% de EXP e cura 10% do dano causado por mobs.",
+      "npcMarkerId": 476,
+      "npcName": "NPC [Event] Hagoromo",
+      "location": "depot de Konoha",
+      "tasksPerDay": 3,
+      "tasksWithPass": 6,
+      "currency": "pontos de evento",
+      "source": "Guia: Como pegar o set Otsutsuki sendo iniciante; NTO_ITEMS.origem"
+    },
+    "anbu": {
+      "itemIds": [
+        "anbumask-7431",
+        "anbu-armor-set",
+        "anbu-legs",
+        "anbu-boots"
+      ],
+      "passive": "+20% de EXP e cura 10% da vida perdida em todo dano causado por mobs.",
+      "unlockLevel": 250,
+      "source": "NTO_ITEMS.origem"
+    }
+  },
+  "vipWeapons": {
+    "sword": [
+      "gunbai"
+    ],
+    "glove": [
+      "raijinslayer"
+    ],
+    "distance": [
+      "kurumakenshuriken"
+    ]
+  },
+  "tasks": [
+    {
+      "name": "Bandit",
+      "mobId": "bandit",
+      "kills": 150,
+      "points": 10,
+      "note": "Boa pra quem está começando."
+    },
+    {
+      "name": "Nukenin",
+      "mobId": "nukenin",
+      "kills": 250,
+      "points": 20,
+      "note": "Boa pra quem está começando."
+    },
+    {
+      "name": "Renegade",
+      "mobId": "renegade",
+      "kills": 250,
+      "points": 25,
+      "note": ""
+    },
+    {
+      "name": "Arak",
+      "mobId": "arak",
+      "kills": 200,
+      "points": 40,
+      "note": ""
+    },
+    {
+      "name": "Kamon",
+      "mobId": "kamon",
+      "kills": 200,
+      "points": 40,
+      "note": ""
+    },
+    {
+      "name": "Mamushi",
+      "mobId": "mamushi",
+      "kills": 200,
+      "points": 40,
+      "note": ""
+    },
+    {
+      "name": "Ribaiasan",
+      "mobId": "ribaiasan",
+      "kills": 200,
+      "points": 40,
+      "note": ""
+    },
+    {
+      "name": "Scorpion",
+      "mobId": "scorpion",
+      "kills": 150,
+      "points": 40,
+      "note": ""
+    },
+    {
+      "name": "Zyhan",
+      "mobId": "zyhan",
+      "kills": 250,
+      "points": 55,
+      "note": ""
+    },
+    {
+      "name": "Iranki",
+      "mobId": "iranki",
+      "kills": 250,
+      "points": 55,
+      "note": ""
+    },
+    {
+      "name": "Ibuki",
+      "mobId": "ibuki",
+      "kills": 250,
+      "points": 55,
+      "note": ""
+    },
+    {
+      "name": "Heishi",
+      "mobId": "heishi",
+      "kills": 250,
+      "points": 55,
+      "note": ""
+    },
+    {
+      "name": "Rounin",
+      "mobId": "rounin",
+      "kills": 250,
+      "points": 55,
+      "note": ""
+    },
+    {
+      "name": "Rounin Zouri",
+      "mobId": "rounin-zouri",
+      "kills": 200,
+      "points": 65,
+      "note": ""
+    },
+    {
+      "name": "Senchou",
+      "mobId": "senchou",
+      "kills": 150,
+      "points": 75,
+      "note": ""
+    },
+    {
+      "name": "Keshin",
+      "mobId": "keshin",
+      "kills": 200,
+      "points": 80,
+      "note": ""
+    },
+    {
+      "name": "Rounin Waraji",
+      "mobId": "rounin-waraji",
+      "kills": 100,
+      "points": 80,
+      "note": "Level 450–550+. Tem cave bot 100% AFK da staff no Discord."
+    },
+    {
+      "name": "Eirian",
+      "mobId": "eirian",
+      "kills": 50,
+      "points": 100,
+      "note": "A que mais rende, mas é um dos monstros mais fortes do jogo: vá em grupo."
+    }
+  ],
+  "vipSet": {
+    "label": "Senju + Kurama",
+    "itemIds": [
+      "senjuhat",
+      "senjuarmor",
+      "senjulegs",
+      "senjuboots",
+      "amuletyinyang",
+      "bureraikage",
+      "kuramabackpack",
+      "kuramashield",
+      "gunbai",
+      "raijinslayer",
+      "kurumakenshuriken"
+    ],
+    "profiles": {
+      "shippuden": {
+        "efeito": "Cura 20% dos danos recebidos (de mobs e players) quando o HP estiver abaixo de 80%.",
+        "tipo": "Universal (PvP + PvE)",
+        "ideal": "Situações com vários inimigos ou PvP pesado."
+      },
+      "senju": {
+        "efeito": "Cura 25% de todo dano recebido de mobs + 50% de bônus de EXP.",
+        "tipo": "PvE pura",
+        "ideal": "Up, hunt e PvP-lure (onde tem muitos mobs)."
+      },
+      "uchiha": {
+        "efeito": "Cura 20% de todo dano causado no alvo quando o HP estiver abaixo de 95%.",
+        "tipo": "PvP ofensiva",
+        "ideal": "Quando você quer sustentar vida enquanto causa dano (auto-heal baseado em ataque)."
+      },
+      "kurama": {
+        "efeito": "Corta 25% da cura de quem te ataca quando seu HP está abaixo de 95%.",
+        "tipo": "Anti-heal / PvP tático",
+        "ideal": "Contra healers ou jogadores que se sustentam na cura (bijuu regeneration, big regeneration, chiyute, dai chiyute no jutsu etc.)."
+      }
+    },
+    "source": "Guia NTO: NTO_COMPARATIVO.vip e NTO_SETS_VIP"
+  }
+}

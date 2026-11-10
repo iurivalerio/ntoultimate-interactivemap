@@ -1,0 +1,176 @@
+{
+  "format": "OTMM 1.0",
+  "description": "Um pixel = um tile do minimapa; cores convertidas segundo OTClient",
+  "origin": {
+    "x": -64,
+    "y": 0
+  },
+  "worldBounds": {
+    "minX": -64,
+    "minY": 0,
+    "maxX": 4479,
+    "maxY": 3711
+  },
+  "floors": [
+    {
+      "z": 0,
+      "file": "andares/andar_Z00.png",
+      "x": 896,
+      "y": 1344,
+      "width": 1728,
+      "height": 320,
+      "exploredTiles": 1064,
+      "blocks": 10
+    },
+    {
+      "z": 1,
+      "file": "andares/andar_Z01.png",
+      "x": 64,
+      "y": 832,
+      "width": 2560,
+      "height": 2496,
+      "exploredTiles": 4312,
+      "blocks": 24
+    },
+    {
+      "z": 2,
+      "file": "andares/andar_Z02.png",
+      "x": 64,
+      "y": 512,
+      "width": 2560,
+      "height": 2944,
+      "exploredTiles": 22914,
+      "blocks": 59
+    },
+    {
+      "z": 3,
+      "file": "andares/andar_Z03.png",
+      "x": 0,
+      "y": 0,
+      "width": 2624,
+      "height": 3520,
+      "exploredTiles": 51155,
+      "blocks": 113
+    },
+    {
+      "z": 4,
+      "file": "andares/andar_Z04.png",
+      "x": 0,
+      "y": 0,
+      "width": 4352,
+      "height": 3584,
+      "exploredTiles": 221441,
+      "blocks": 319
+    },
+    {
+      "z": 5,
+      "file": "andares/andar_Z05.png",
+      "x": 0,
+      "y": 0,
+      "width": 4352,
+      "height": 3648,
+      "exploredTiles": 484392,
+      "blocks": 593
+    },
+    {
+      "z": 6,
+      "file": "andares/andar_Z06.png",
+      "x": 0,
+      "y": 0,
+      "width": 4416,
+      "height": 3648,
+      "exploredTiles": 1333949,
+      "blocks": 907
+    },
+    {
+      "z": 7,
+      "file": "andares/andar_Z07.png",
+      "x": -64,
+      "y": 0,
+      "width": 4544,
+      "height": 3712,
+      "exploredTiles": 4121762,
+      "blocks": 1474
+    },
+    {
+      "z": 8,
+      "file": "andares/andar_Z08.png",
+      "x": 64,
+      "y": 128,
+      "width": 2624,
+      "height": 3456,
+      "exploredTiles": 872325,
+      "blocks": 453
+    },
+    {
+      "z": 9,
+      "file": "andares/andar_Z09.png",
+      "x": 64,
+      "y": 128,
+      "width": 2688,
+      "height": 2176,
+      "exploredTiles": 671539,
+      "blocks": 346
+    },
+    {
+      "z": 10,
+      "file": "andares/andar_Z10.png",
+      "x": 128,
+      "y": 192,
+      "width": 2560,
+      "height": 1792,
+      "exploredTiles": 148166,
+      "blocks": 128
+    },
+    {
+      "z": 11,
+      "file": "andares/andar_Z11.png",
+      "x": 448,
+      "y": 256,
+      "width": 2304,
+      "height": 1792,
+      "exploredTiles": 331557,
+      "blocks": 152
+    },
+    {
+      "z": 12,
+      "file": "andares/andar_Z12.png",
+      "x": 448,
+      "y": 1216,
+      "width": 2176,
+      "height": 576,
+      "exploredTiles": 24045,
+      "blocks": 19
+    },
+    {
+      "z": 13,
+      "file": "andares/andar_Z13.png",
+      "x": 256,
+      "y": 0,
+      "width": 2368,
+      "height": 1792,
+      "exploredTiles": 104939,
+      "blocks": 55
+    },
+    {
+      "z": 14,
+      "file": "andares/andar_Z14.png",
+      "x": 512,
+      "y": 320,
+      "width": 2112,
+      "height": 960,
+      "exploredTiles": 6609,
+      "blocks": 7
+    },
+    {
+      "z": 15,
+      "file": "andares/andar_Z15.png",
+      "x": 2560,
+      "y": 1216,
+      "width": 64,
+      "height": 64,
+      "exploredTiles": 1260,
+      "blocks": 1
+    }
+  ]
+}

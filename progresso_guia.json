@@ -1,0 +1,1241 @@
+{
+  "basico": {
+    "title": "Set básico",
+    "set": "Set Hagoromo (Otsutsuki)",
+    "ranges": [
+      {
+        "id": "1-35-0",
+        "de": 1,
+        "ate": 35,
+        "options": [
+          {
+            "mobs": [
+              "Beezer"
+            ],
+            "local": "",
+            "nota": ""
+          },
+          {
+            "mobs": [
+              "Bandits"
+            ],
+            "local": "",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 602,
+            "name": "Hunt Bandit - Nivel 80 a 160 (Farm Ervas SAGA)",
+            "x": 962,
+            "y": 997,
+            "z": 7,
+            "mobs": [
+              "bandit"
+            ]
+          },
+          {
+            "id": 496,
+            "name": "Hunt Sound Shinobi e Bandit Sword - Nivel 150+",
+            "x": 928,
+            "y": 804,
+            "z": 6,
+            "mobs": [
+              "bandit"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "35-75-1",
+        "de": 35,
+        "ate": 75,
+        "options": [
+          {
+            "mobs": [
+              "Sound Shinobi"
+            ],
+            "local": "",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 7,
+            "name": "Hunt Shinobi of Sound 150+",
+            "x": 895,
+            "y": 872,
+            "z": 7,
+            "mobs": [
+              "sound-shinobi"
+            ]
+          },
+          {
+            "id": 496,
+            "name": "Hunt Sound Shinobi e Bandit Sword - Nivel 150+",
+            "x": 928,
+            "y": 804,
+            "z": 6,
+            "mobs": [
+              "sound-shinobi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "75-300-2",
+        "de": 75,
+        "ate": 300,
+        "options": [
+          {
+            "mobs": [
+              "Nukenins",
+              "Renegade",
+              "Skeleton"
+            ],
+            "local": "",
+            "nota": "Os três ficam na mesma área: dá pra caçar junto."
+          },
+          {
+            "mobs": [
+              "Skeleton"
+            ],
+            "local": "Sunagakure",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 430,
+            "name": "Hunt Nukenin - Nivel 150 a 350/400",
+            "x": 868,
+            "y": 1085,
+            "z": 7,
+            "mobs": [
+              "nukenin"
+            ]
+          },
+          {
+            "id": 147,
+            "name": "Hunt Renegades 150+",
+            "x": 939,
+            "y": 1173,
+            "z": 7,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 199,
+            "name": "Hunt Renegades 150+ (Rotação da Hunt vai até Minoru de south florest)",
+            "x": 924,
+            "y": 1109,
+            "z": 7,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 148,
+            "name": "Hunt Skeleton - Nivel 200+",
+            "x": 907,
+            "y": 911,
+            "z": 7,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Hunt Skeleton e Acesso Quest Kinkaku",
+            "x": 539,
+            "y": 1119,
+            "z": 7,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 563,
+            "name": "Renegade",
+            "x": 1005,
+            "y": 1022,
+            "z": 7,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 379,
+            "name": "Renegades 200+",
+            "x": 1030,
+            "y": 1090,
+            "z": 7,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 305,
+            "name": "Hunt Renegade",
+            "x": 563,
+            "y": 747,
+            "z": 6,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 508,
+            "name": "Hunt Renegades - Nivel 200+",
+            "x": 1029,
+            "y": 1074,
+            "z": 6,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Hunt Skeleton 200+",
+            "x": 905,
+            "y": 899,
+            "z": 8,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 406,
+            "name": "Hunt Skeleton 200+",
+            "x": 499,
+            "y": 1162,
+            "z": 8,
+            "mobs": [
+              "skeleton"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "300-500-3",
+        "de": 300,
+        "ate": 500,
+        "options": [
+          {
+            "mobs": [
+              "Konchu"
+            ],
+            "local": "Iwagakure",
+            "nota": ""
+          },
+          {
+            "mobs": [
+              "Yoth Furie"
+            ],
+            "local": "Kirigakure",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 59,
+            "name": "Hunt 300+ (Konchu, Konchu Doku e Venom Scorpion)",
+            "x": 1480,
+            "y": 1767,
+            "z": 7,
+            "mobs": [
+              "konchu"
+            ]
+          },
+          {
+            "id": 135,
+            "name": "Hunt Konchu 200+",
+            "x": 2120,
+            "y": 1269,
+            "z": 7,
+            "mobs": [
+              "konchu"
+            ]
+          },
+          {
+            "id": 169,
+            "name": "Hunt Yoth Furie 200+",
+            "x": 912,
+            "y": 1220,
+            "z": 7,
+            "mobs": [
+              "yoth-furie"
+            ]
+          },
+          {
+            "id": 405,
+            "name": "Hunt Yoth Furie e Dungeon yoth",
+            "x": 1100,
+            "y": 1201,
+            "z": 7,
+            "mobs": [
+              "yoth-furie"
+            ]
+          },
+          {
+            "id": 376,
+            "name": "Hunt Konchu 200+",
+            "x": 2028,
+            "y": 1278,
+            "z": 4,
+            "mobs": [
+              "konchu"
+            ]
+          },
+          {
+            "id": 306,
+            "name": "Hunt Yoth Furie 200+",
+            "x": 1014,
+            "y": 1226,
+            "z": 6,
+            "mobs": [
+              "yoth-furie"
+            ]
+          },
+          {
+            "id": 571,
+            "name": "Konchu",
+            "x": 1452,
+            "y": 1698,
+            "z": 6,
+            "mobs": [
+              "konchu"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "350-500-4",
+        "de": 350,
+        "ate": 500,
+        "options": [
+          {
+            "mobs": [
+              "Devil"
+            ],
+            "local": "",
+            "nota": ""
+          },
+          {
+            "mobs": [
+              "Anbu"
+            ],
+            "local": "",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 96,
+            "name": "Hunt Anbu",
+            "x": 1235,
+            "y": 1408,
+            "z": 7,
+            "mobs": [
+              "anbu"
+            ]
+          },
+          {
+            "id": 269,
+            "name": "Hunt Devil 250+",
+            "x": 834,
+            "y": 1688,
+            "z": 7,
+            "mobs": [
+              "devil"
+            ]
+          },
+          {
+            "id": 558,
+            "name": "Hunt Devil 250+",
+            "x": 844,
+            "y": 1597,
+            "z": 7,
+            "mobs": [
+              "devil"
+            ]
+          },
+          {
+            "id": 82,
+            "name": "Anbu e Black Shinobi",
+            "x": 1094,
+            "y": 1354,
+            "z": 10,
+            "mobs": [
+              "anbu"
+            ]
+          },
+          {
+            "id": 423,
+            "name": "Hunt de Devil",
+            "x": 883,
+            "y": 1706,
+            "z": 6,
+            "mobs": [
+              "devil"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "450-550-5",
+        "de": 450,
+        "ate": 550,
+        "options": [
+          {
+            "mobs": [
+              "Keshin",
+              "Vampires",
+              "Skeleton"
+            ],
+            "local": "",
+            "nota": "Caçados juntos na mesma hunt."
+          },
+          {
+            "mobs": [
+              "Rounins"
+            ],
+            "local": "",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 250,
+            "name": "Hunt Keshin, Vampire Mutated, Skeleton Fear - Nivel 450+",
+            "x": 690,
+            "y": 1579,
+            "z": 7,
+            "mobs": [
+              "keshin",
+              "vampire"
+            ]
+          },
+          {
+            "id": 232,
+            "name": "Hunt Rounin Waraji 450+ (Task Hagoromo)",
+            "x": 1747,
+            "y": 1403,
+            "z": 7,
+            "mobs": [
+              "rounin"
+            ]
+          },
+          {
+            "id": 419,
+            "name": "Hunt Rounin e AKaname 450+",
+            "x": 1501,
+            "y": 1301,
+            "z": 7,
+            "mobs": [
+              "rounin"
+            ]
+          },
+          {
+            "id": 148,
+            "name": "Hunt Skeleton - Nivel 200+",
+            "x": 907,
+            "y": 911,
+            "z": 7,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Hunt Skeleton e Acesso Quest Kinkaku",
+            "x": 539,
+            "y": 1119,
+            "z": 7,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 36,
+            "name": "Hunt Vampire e Vampire Mutated 300+",
+            "x": 832,
+            "y": 1924,
+            "z": 7,
+            "mobs": [
+              "vampire"
+            ]
+          },
+          {
+            "id": 619,
+            "name": "Hunts Keshin e Portal Quest Susano Armor",
+            "x": 1511,
+            "y": 2059,
+            "z": 7,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 544,
+            "name": "Hunt Keshin -2",
+            "x": 1386,
+            "y": 2113,
+            "z": 8,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 434,
+            "name": "Hunt Keshin -2/Portal Quest Susano Armor",
+            "x": 1599,
+            "y": 2151,
+            "z": 8,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 614,
+            "name": "Hunt Keshin 400+",
+            "x": 1654,
+            "y": 2157,
+            "z": 9,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 627,
+            "name": "Hunt Keshin 400+",
+            "x": 1338,
+            "y": 2120,
+            "z": 9,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 527,
+            "name": "Hunt Keshin e Vampires 400+",
+            "x": 1510,
+            "y": 2094,
+            "z": 8,
+            "mobs": [
+              "keshin",
+              "vampire"
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Hunt Skeleton 200+",
+            "x": 905,
+            "y": 899,
+            "z": 8,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 406,
+            "name": "Hunt Skeleton 200+",
+            "x": 499,
+            "y": 1162,
+            "z": 8,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 584,
+            "name": "Hunts Heishi/Keshin e Portal Quest Susano Armor",
+            "x": 1458,
+            "y": 2050,
+            "z": 6,
+            "mobs": [
+              "keshin"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "500-600-6",
+        "de": 500,
+        "ate": 600,
+        "options": [
+          {
+            "mobs": [
+              "Konchu",
+              "Venom Scorpion",
+              "Jaakuna Tako",
+              "Tsuyoi Kyojin"
+            ],
+            "local": "",
+            "nota": "Hunt mista: esses quatro aparecem juntos."
+          }
+        ],
+        "anchors": [
+          {
+            "id": 59,
+            "name": "Hunt 300+ (Konchu, Konchu Doku e Venom Scorpion)",
+            "x": 1480,
+            "y": 1767,
+            "z": 7,
+            "mobs": [
+              "venom-scorpion",
+              "konchu"
+            ]
+          },
+          {
+            "id": 135,
+            "name": "Hunt Konchu 200+",
+            "x": 2120,
+            "y": 1269,
+            "z": 7,
+            "mobs": [
+              "konchu"
+            ]
+          },
+          {
+            "id": 605,
+            "name": "Hunt Kyojin e Jaakuna 400+",
+            "x": 2191,
+            "y": 1275,
+            "z": 7,
+            "mobs": [
+              "jaakuna-tako",
+              "tsuyoi-kyojin"
+            ]
+          },
+          {
+            "id": 376,
+            "name": "Hunt Konchu 200+",
+            "x": 2028,
+            "y": 1278,
+            "z": 4,
+            "mobs": [
+              "konchu"
+            ]
+          },
+          {
+            "id": 98,
+            "name": "Hunts Jaakuna Tako 300+ (Subindo as rochas são Hunts de Kyojin 350+)",
+            "x": 1465,
+            "y": 1811,
+            "z": 6,
+            "mobs": [
+              "jaakuna-tako",
+              "tsuyoi-kyojin"
+            ]
+          },
+          {
+            "id": 99,
+            "name": "Hunts Tsuyoi Kyojin 350+",
+            "x": 1456,
+            "y": 1815,
+            "z": 5,
+            "mobs": [
+              "tsuyoi-kyojin"
+            ]
+          },
+          {
+            "id": 571,
+            "name": "Konchu",
+            "x": 1452,
+            "y": 1698,
+            "z": 6,
+            "mobs": [
+              "konchu"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "vip": {
+    "title": "Set VIP",
+    "set": "Senju Set (de preferência)",
+    "ranges": [
+      {
+        "id": "1-35-0",
+        "de": 1,
+        "ate": 35,
+        "options": [
+          {
+            "mobs": [
+              "Sound Shinobi"
+            ],
+            "local": "",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 7,
+            "name": "Hunt Shinobi of Sound 150+",
+            "x": 895,
+            "y": 872,
+            "z": 7,
+            "mobs": [
+              "sound-shinobi"
+            ]
+          },
+          {
+            "id": 496,
+            "name": "Hunt Sound Shinobi e Bandit Sword - Nivel 150+",
+            "x": 928,
+            "y": 804,
+            "z": 6,
+            "mobs": [
+              "sound-shinobi"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "35-75-1",
+        "de": 35,
+        "ate": 75,
+        "options": [
+          {
+            "mobs": [
+              "Nukenins",
+              "Renegade",
+              "Skeleton"
+            ],
+            "local": "",
+            "nota": "Os três ficam na mesma área: dá pra caçar junto."
+          },
+          {
+            "mobs": [
+              "Skeleton"
+            ],
+            "local": "Sunagakure",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 430,
+            "name": "Hunt Nukenin - Nivel 150 a 350/400",
+            "x": 868,
+            "y": 1085,
+            "z": 7,
+            "mobs": [
+              "nukenin"
+            ]
+          },
+          {
+            "id": 147,
+            "name": "Hunt Renegades 150+",
+            "x": 939,
+            "y": 1173,
+            "z": 7,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 199,
+            "name": "Hunt Renegades 150+ (Rotação da Hunt vai até Minoru de south florest)",
+            "x": 924,
+            "y": 1109,
+            "z": 7,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 148,
+            "name": "Hunt Skeleton - Nivel 200+",
+            "x": 907,
+            "y": 911,
+            "z": 7,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Hunt Skeleton e Acesso Quest Kinkaku",
+            "x": 539,
+            "y": 1119,
+            "z": 7,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 563,
+            "name": "Renegade",
+            "x": 1005,
+            "y": 1022,
+            "z": 7,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 379,
+            "name": "Renegades 200+",
+            "x": 1030,
+            "y": 1090,
+            "z": 7,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 305,
+            "name": "Hunt Renegade",
+            "x": 563,
+            "y": 747,
+            "z": 6,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 508,
+            "name": "Hunt Renegades - Nivel 200+",
+            "x": 1029,
+            "y": 1074,
+            "z": 6,
+            "mobs": [
+              "renegade"
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Hunt Skeleton 200+",
+            "x": 905,
+            "y": 899,
+            "z": 8,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 406,
+            "name": "Hunt Skeleton 200+",
+            "x": 499,
+            "y": 1162,
+            "z": 8,
+            "mobs": [
+              "skeleton"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "75-300-2",
+        "de": 75,
+        "ate": 300,
+        "options": [
+          {
+            "mobs": [
+              "Shinobi Archer"
+            ],
+            "local": "",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 50,
+            "name": "Hunt Shinobi Archer 150+",
+            "x": 1127,
+            "y": 1326,
+            "z": 7,
+            "mobs": [
+              "shinobi-archer"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "300-500-3",
+        "de": 300,
+        "ate": 500,
+        "options": [
+          {
+            "mobs": [
+              "Anbu"
+            ],
+            "local": "",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 96,
+            "name": "Hunt Anbu",
+            "x": 1235,
+            "y": 1408,
+            "z": 7,
+            "mobs": [
+              "anbu"
+            ]
+          },
+          {
+            "id": 82,
+            "name": "Anbu e Black Shinobi",
+            "x": 1094,
+            "y": 1354,
+            "z": 10,
+            "mobs": [
+              "anbu"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "400-600-4",
+        "de": 400,
+        "ate": 600,
+        "options": [
+          {
+            "mobs": [
+              "Rounins"
+            ],
+            "local": "",
+            "nota": ""
+          },
+          {
+            "mobs": [
+              "Akamanto"
+            ],
+            "local": "Island Tsuin",
+            "nota": ""
+          }
+        ],
+        "anchors": [
+          {
+            "id": 134,
+            "name": "Dungeon Heishi e Hunt Heishi/Akamanto",
+            "x": 792,
+            "y": 1503,
+            "z": 7,
+            "mobs": [
+              "akamanto"
+            ]
+          },
+          {
+            "id": 203,
+            "name": "Hunt Heishin, Akamanto, Supreme Skeleton 300+",
+            "x": 809,
+            "y": 1448,
+            "z": 7,
+            "mobs": [
+              "akamanto"
+            ]
+          },
+          {
+            "id": 232,
+            "name": "Hunt Rounin Waraji 450+ (Task Hagoromo)",
+            "x": 1747,
+            "y": 1403,
+            "z": 7,
+            "mobs": [
+              "rounin"
+            ]
+          },
+          {
+            "id": 419,
+            "name": "Hunt Rounin e AKaname 450+",
+            "x": 1501,
+            "y": 1301,
+            "z": 7,
+            "mobs": [
+              "rounin"
+            ]
+          },
+          {
+            "id": 66,
+            "name": "Hunts 350+/SAGA/Island Tsuin/Dungeon Scorpion/Quest Kurama Amulet/Quest Akamanto",
+            "x": 312,
+            "y": 1535,
+            "z": 7,
+            "mobs": [
+              "akamanto"
+            ]
+          },
+          {
+            "id": 263,
+            "name": "Hunt 400+ (Akaname e Akamanto)",
+            "x": 159,
+            "y": 1533,
+            "z": 6,
+            "mobs": [
+              "akamanto"
+            ]
+          },
+          {
+            "id": 618,
+            "name": "Hunt Heishi e Akamanto - Nivel 350+",
+            "x": 822,
+            "y": 1481,
+            "z": 6,
+            "mobs": [
+              "akamanto"
+            ]
+          },
+          {
+            "id": 275,
+            "name": "Island Tsuin (Hunt 400+ e Quest Akamanto)",
+            "x": 285,
+            "y": 1573,
+            "z": 4,
+            "mobs": [
+              "akamanto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "450-600-5",
+        "de": 450,
+        "ate": 600,
+        "options": [
+          {
+            "mobs": [
+              "Konchu",
+              "Venom Scorpion",
+              "Jaakuna Tako",
+              "Tsuyoi Kyojin"
+            ],
+            "local": "",
+            "nota": "Hunt mista: esses quatro aparecem juntos."
+          }
+        ],
+        "anchors": [
+          {
+            "id": 59,
+            "name": "Hunt 300+ (Konchu, Konchu Doku e Venom Scorpion)",
+            "x": 1480,
+            "y": 1767,
+            "z": 7,
+            "mobs": [
+              "venom-scorpion",
+              "konchu"
+            ]
+          },
+          {
+            "id": 135,
+            "name": "Hunt Konchu 200+",
+            "x": 2120,
+            "y": 1269,
+            "z": 7,
+            "mobs": [
+              "konchu"
+            ]
+          },
+          {
+            "id": 605,
+            "name": "Hunt Kyojin e Jaakuna 400+",
+            "x": 2191,
+            "y": 1275,
+            "z": 7,
+            "mobs": [
+              "jaakuna-tako",
+              "tsuyoi-kyojin"
+            ]
+          },
+          {
+            "id": 376,
+            "name": "Hunt Konchu 200+",
+            "x": 2028,
+            "y": 1278,
+            "z": 4,
+            "mobs": [
+              "konchu"
+            ]
+          },
+          {
+            "id": 98,
+            "name": "Hunts Jaakuna Tako 300+ (Subindo as rochas são Hunts de Kyojin 350+)",
+            "x": 1465,
+            "y": 1811,
+            "z": 6,
+            "mobs": [
+              "jaakuna-tako",
+              "tsuyoi-kyojin"
+            ]
+          },
+          {
+            "id": 99,
+            "name": "Hunts Tsuyoi Kyojin 350+",
+            "x": 1456,
+            "y": 1815,
+            "z": 5,
+            "mobs": [
+              "tsuyoi-kyojin"
+            ]
+          },
+          {
+            "id": 571,
+            "name": "Konchu",
+            "x": 1452,
+            "y": 1698,
+            "z": 6,
+            "mobs": [
+              "konchu"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "450-700-6",
+        "de": 450,
+        "ate": 700,
+        "options": [
+          {
+            "mobs": [
+              "Keshin",
+              "Vampires",
+              "Skeleton"
+            ],
+            "local": "",
+            "nota": "Dá pra focar só no Keshin ou caçar os três juntos."
+          }
+        ],
+        "anchors": [
+          {
+            "id": 250,
+            "name": "Hunt Keshin, Vampire Mutated, Skeleton Fear - Nivel 450+",
+            "x": 690,
+            "y": 1579,
+            "z": 7,
+            "mobs": [
+              "keshin",
+              "vampire"
+            ]
+          },
+          {
+            "id": 148,
+            "name": "Hunt Skeleton - Nivel 200+",
+            "x": 907,
+            "y": 911,
+            "z": 7,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 3,
+            "name": "Hunt Skeleton e Acesso Quest Kinkaku",
+            "x": 539,
+            "y": 1119,
+            "z": 7,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 36,
+            "name": "Hunt Vampire e Vampire Mutated 300+",
+            "x": 832,
+            "y": 1924,
+            "z": 7,
+            "mobs": [
+              "vampire"
+            ]
+          },
+          {
+            "id": 619,
+            "name": "Hunts Keshin e Portal Quest Susano Armor",
+            "x": 1511,
+            "y": 2059,
+            "z": 7,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 544,
+            "name": "Hunt Keshin -2",
+            "x": 1386,
+            "y": 2113,
+            "z": 8,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 434,
+            "name": "Hunt Keshin -2/Portal Quest Susano Armor",
+            "x": 1599,
+            "y": 2151,
+            "z": 8,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 614,
+            "name": "Hunt Keshin 400+",
+            "x": 1654,
+            "y": 2157,
+            "z": 9,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 627,
+            "name": "Hunt Keshin 400+",
+            "x": 1338,
+            "y": 2120,
+            "z": 9,
+            "mobs": [
+              "keshin"
+            ]
+          },
+          {
+            "id": 527,
+            "name": "Hunt Keshin e Vampires 400+",
+            "x": 1510,
+            "y": 2094,
+            "z": 8,
+            "mobs": [
+              "keshin",
+              "vampire"
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Hunt Skeleton 200+",
+            "x": 905,
+            "y": 899,
+            "z": 8,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 406,
+            "name": "Hunt Skeleton 200+",
+            "x": 499,
+            "y": 1162,
+            "z": 8,
+            "mobs": [
+              "skeleton"
+            ]
+          },
+          {
+            "id": 584,
+            "name": "Hunts Heishi/Keshin e Portal Quest Susano Armor",
+            "x": 1458,
+            "y": 2050,
+            "z": 6,
+            "mobs": [
+              "keshin"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
